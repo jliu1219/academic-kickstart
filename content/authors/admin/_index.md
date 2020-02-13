@@ -74,5 +74,7 @@ Jin-Peng Liu is a third-year doctoral student in Applied Mathematics, & Statisti
 
 He aims to develop quantum algorithms with sup-polynomial speed-ups over classical algorithms, including topics such as quantum PDE solvers, quantum optimization and quantum machine learning.
 
+He is also interested in classical numerical analysis, mainly working on first-order methods for convex and non-convex nonlinear optimization problems.
+
 His adviser is Andrew Childs.
 

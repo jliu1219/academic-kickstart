@@ -23,7 +23,7 @@ bio: My research aims to develop quantum algorithms with sup-polynomial speed-up
 interests:
 - Quantum Computing
 - Numerical Analysis
-- Optimization
+- Nonlinear Optimization
 
 education:
   courses:
@@ -70,7 +70,7 @@ user_groups:
 - Visitors
 ---
 
-Jin-Peng Liu is a third-year Phd student doctoral student in Applied Mathematics, & Statistics, and Scientific Computation Program at University of Maryland. 
+Jin-Peng Liu is a third-year doctoral student in Applied Mathematics, & Statistics, and Scientific Computation Program at University of Maryland. 
 
 He aims to develop quantum algorithms with sup-polynomial speed-ups over classical algorithms, including topics such as quantum PDE solvers, quantum optimization and quantum machine learning.
 

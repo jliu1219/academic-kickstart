@@ -30,9 +30,9 @@ education:
   - course: PhD in Applied Mathematics
     institution: University of Maryland
     year: 2017
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
+#  - course: MEng in Artificial Intelligence
+#    institution: Massachusetts Institute of Technology
+#    year: 2009
   - course: BSc in Mathematics
     institution: Beihang University
     year: 2013

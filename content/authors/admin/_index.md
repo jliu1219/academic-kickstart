@@ -18,7 +18,8 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio: My research aims to develop quantum algorithms with
+sup-polynomial speed-ups over classical algorithms, including topics such as quantum PDE solvers, quantum optimization and quantum machine learning. My adviser is Andrew Childs
 
 interests:
 - Quantum Computing
@@ -27,15 +28,15 @@ interests:
 
 education:
   courses:
-  - course: PhD in Applied Mathematics
-    institution: University of Maryland
-    year: 2017
+#  - course: PhD in Applied Mathematics
+#    institution: University of Maryland
+#    year: 2017
 #  - course: MEng in Artificial Intelligence
 #    institution: Massachusetts Institute of Technology
 #    year: 2009
   - course: BSc in Mathematics
-    institution: Beihang University
-    year: 2013
+    institution: Chinese Academy of Sciences - Beihang University Hua Loo Keng Class.
+    year: 2017
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons

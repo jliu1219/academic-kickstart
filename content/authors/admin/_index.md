@@ -10,20 +10,20 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Phd Student of Applied Mathematics
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: University of Maryland
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Quantum Computing
+- Scientific Computing
+- Numerical Analysis
 
 education:
   courses:

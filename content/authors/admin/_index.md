@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Phd Student of Applied Mathematics
+role: Doctoral Student of Applied Mathematics
 
 # Organizations/Affiliations
 organizations:
@@ -22,8 +22,8 @@ bio: My research aims to develop quantum algorithms with sup-polynomial speed-up
 
 interests:
 - Quantum Computing
-- Scientific Computing
 - Numerical Analysis
+- Optimization
 
 education:
   courses:
@@ -70,6 +70,9 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Jin-Peng Liu is a third-year Phd student doctoral student in Applied Mathematics, & Statistics, and Scientific Computation Program at University of Maryland. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+He aims to develop quantum algorithms with sup-polynomial speed-ups over classical algorithms, including topics such as quantum PDE solvers, quantum optimization and quantum machine learning.
+
+His adviser is Andrew Childs.
+

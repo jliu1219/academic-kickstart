@@ -19,7 +19,7 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research aims to develop quantum algorithms with
-sup-polynomial speed-ups over classical algorithms。
+sup-polynomial speed-ups over classical algorithms, including topics such as quantum PDE solvers, quantum optimization and quantum machine learning. My adviser is Andrew Childs.
 
 interests:
 - Quantum Computing

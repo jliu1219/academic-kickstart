@@ -73,9 +73,9 @@ user_groups:
 - Visitors
 ---
 
-I am a third-year doctoral student in Applied Mathematics, & Statistics, and Scientific Computation Program at University of Maryland. I will visit Simons Institute at UC Berkeley in 2020 Spring. My adviser is Andrew Childs. 
+I am a third-year doctoral student in Applied Mathematics & Statistics, and Scientific Computation Program at University of Maryland. I will visit Simons Institute at UC Berkeley in 2020 Spring. My adviser is Andrew Childs. 
 
-Prior to that, I received my B.S. degree in Hua Loo Keng Class at Beihang University in 2017. I was advised by Ya-xiang Yuan at Chinese Academy of Sciences and Tiegang Liu at Beihang University from 2015 to 2017.
+Prior to that, I received my B.S. degree in Hua Loo Keng Class at Beihang University in 2017. I was advised by Ya-xiang Yuan at Chinese Academy of Sciences and Tiegang Liu at Beihang University.
 
 I aim to develop quantum algorithms with sup-polynomial speed-ups over classical algorithms, including topics such as quantum PDE solvers, quantum optimization and quantum machine learning. I am also interested in classical algorithms for convex and non-convex nonlinear optimization problems.
 

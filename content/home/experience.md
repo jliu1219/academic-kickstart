@@ -34,8 +34,8 @@ date_format = "Jan 2006"
   company = "Beihang University"
   company_url = ""
   location = "Beijing"
-  date_start = "2017-06-17"
-  date_end = "2013-09-01"
+  date_start = "2013-09-01"
+  date_end = "2017-06-17"
   description = """
 
   * Representative of Graduation Ceremony (rank: 1/3987)

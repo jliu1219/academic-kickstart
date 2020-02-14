@@ -18,21 +18,25 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Doctoral Student"
-  company = "University of Maryland"
+  title = "CEO"
+  company = "GenCoin"
   company_url = ""
-  location = "College Park, MD"
-  date_start = "2017-09-01"
+  location = "California"
+  date_start = "2017-01-01"
   date_end = ""
   description = """
-
-  * Dean's Fellowship
-      """
+  Responsibilities include:
+  
+  * Analysing
+  * Modelling
+  * Deploying
+  """
 
 [[experience]]
-  title = "Undergraduate Student"
-  company = "Beihang University"
+  title = "Professor"
+  company = "University X"
   company_url = ""
+<<<<<<< HEAD
   location = "Beijing"
   date_start = "2013-09-01"
   date_end = "2017-06-17"
@@ -43,5 +47,11 @@ date_format = "Jan 2006"
   * Mathematics Star Award (rank: 1/115)
 
 """
+=======
+  location = "California"
+  date_start = "2016-01-01"
+  date_end = "2016-12-31"
+  description = """Taught electronic engineering and researched semiconductor physics."""
+>>>>>>> parent of df2c2d7... experience
 
 +++

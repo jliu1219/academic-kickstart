@@ -48,6 +48,9 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/JinPengLiu__Sky
+- icon: facebook
+  icon_pack: fab
+  link: https://www.facebook.com/jinpeng.liu.794
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -70,7 +73,7 @@ user_groups:
 - Visitors
 ---
 
-I am a third-year doctoral student in Applied Mathematics, & Statistics, and Scientific Computation Program at University of Maryland. I will be a visiting student in Simons Institute at UC Berkeley in 2020 Spring. My adviser is Andrew Childs. 
+I am a third-year doctoral student in Applied Mathematics, & Statistics, and Scientific Computation Program at University of Maryland. I will visit Simons Institute at UC Berkeley in 2020 Spring. My adviser is Andrew Childs. 
 
 Prior to that, I received my B.S. degree in Hua Loo Keng Class at Beihang University in 2017. I was advised by Ya-xiang Yuan at Chinese Academy of Sciences and Tiegang Liu at Beihang University from 2015 to 2017.
 

@@ -73,4 +73,4 @@ Dec 2019: I'm visiting [Lawrence Berkeley National Laboratory](https://www.lbl.g
 
 Nov 2019: Our paper [New stepsizes for the gradient method](https://link.springer.com/article/10.1007/s11590-019-01512-y) is published in [Optimization Letters.](https://link.springer.com/article/10.1007/s11590-019-01512-y)
 
-Jun 2019: I'm visiting [Academy of Mathematics and Systems Science, Chinese Academy o Science](http://english.amss.cas.cn/) invited by Ya-xiang Yuan.
+Jun 2019: I'm visiting [Academy of Mathematics and Systems Science, Chinese Academy of Sciences](http://english.amss.cas.cn/) invited by Ya-xiang Yuan.

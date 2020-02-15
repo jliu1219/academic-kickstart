@@ -27,9 +27,9 @@ interests:
 
 education:
   courses:
-#  - course: PhD in Applied Mathematics
-#    institution: University of Maryland
-#    year: 2017
+  - course: PhD in Applied Mathematics
+    institution: University of Maryland
+    year: 2017 - 2022
 #  - course: MEng in Artificial Intelligence
 #    institution: Massachusetts Institute of Technology
 #    year: 2009

@@ -26,6 +26,7 @@ date_format = "Jan 2006"
   date_end = ""
   description = """
 
+  * Visiting Student in Simons Institute, UC Berkeley
   * Dean's Fellowship
       """
 

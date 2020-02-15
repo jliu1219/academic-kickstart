@@ -73,7 +73,7 @@ user_groups:
 - Visitors
 ---
 
-My name is Jin-Peng Liu (刘锦鹏). I am a third-year doctoral student of applied mathematics at University of Maryland. I will visit Simons Institute at UC Berkeley in 2020 Spring. My adviser is Andrew Childs. 
+My name is Jin-Peng Liu (刘锦鹏). I am a third-year doctoral student of applied mathematics at University of Maryland since 2017. I will visit UC Berkeley in 2020 Spring. My adviser is Andrew Childs. 
 
 Prior to that, I received my B.S. degree in Hua Loo Keng Class in Mathematics at Beihang University in 2017. I was advised by Ya-xiang Yuan at Chinese Academy of Sciences and Tiegang Liu at Beihang University.
 

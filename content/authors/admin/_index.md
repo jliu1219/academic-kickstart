@@ -34,7 +34,7 @@ education:
 #    institution: Massachusetts Institute of Technology
 #    year: 2009
   - course: BSc in Mathematics
-    institution: Beihang University.
+    institution: Beihang University
     year: 2017
 
 # Social/Academic Networking

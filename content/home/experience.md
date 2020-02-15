@@ -31,7 +31,7 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Undergraduate Student"
-  company = "Hua Loo Keng Class in Mathematics, Beihang University"
+  company = "Chinese Academy of Sciences Hua Loo Keng Class in Mathematics, Beihang University"
   company_url = ""
   location = "Beijing"
   date_start = "2013-09-01"

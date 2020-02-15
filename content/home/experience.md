@@ -26,8 +26,8 @@ date_format = "Jan 2006"
   date_end = ""
   description = """
 
-  * Visiting Student in Simons Institute, UC Berkeley
-  * Dean's Fellowship
+  * Feb 2020: Visiting Student in Simons Institute, UC Berkeley
+  * Sep 2017: Dean's Fellowship
       """
 
 [[experience]]
@@ -39,9 +39,9 @@ date_format = "Jan 2006"
   date_end = "2017-06-17"
   description = """
 
-  * Representative of Graduation Ceremony (rank: 1/3987)
-  * Shenyuan Golden Medal (rank: 10/3987)
-  * Mathematics Star Award (rank: 1/115)
+  * Jun 2017: Representative of Graduation Ceremony (rank: 1/3987)
+  * Dec 2016: Shenyuan Golden Medal (rank: 10/3987)
+  * Nov 2016: Mathematics Star Award (rank: 1/115)
 
  """
 

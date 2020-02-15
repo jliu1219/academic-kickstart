@@ -40,9 +40,9 @@ date_format = "Jan 2006"
   description = """
 
   * Jun 2017: Representative of Beihang Graduation Ceremony
-  * Nov 2016: Shenyuan Golden Medal -- The Highest Undergraduate Prize in Beihang (rank: 10/3987)
-  * Dec 2015: Outstanding Student of the Year in Beihang (rank: 10/3987)
-  * Nov 2015: Mathematics Star Award in Math Department of Beihang (rank: 1/115)
+  * Nov 2016: Shenyuan Golden Medal -- The Highest Undergraduate Prize (rank: 10/3987)
+  * Dec 2015: Outstanding Student of the Year (rank: 10/3987)
+  * Nov 2015: Mathematics Star Award (rank: 1/115)
   * May 2015: President of Beijing Association for Collegiate Reading
 
  """

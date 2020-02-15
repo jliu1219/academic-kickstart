@@ -68,3 +68,8 @@ subtitle = ""
  css_class = ""
 
 +++
+
+Quantum algorithms for differential equations and optimization
+
+Jun 2019: Academy of Mathematics and Systems Science, Chinese Academy of Sciences
+

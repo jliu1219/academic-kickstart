@@ -19,7 +19,7 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "Doctoral Student"
-  company = "University of Maryland"
+  company = "Applied Mathematics & Statistics, and Scientific Computation, University of Maryland"
   company_url = ""
   location = "College Park, MD"
   date_start = "2017-09-01"
@@ -31,7 +31,7 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Undergraduate Student"
-  company = "Chinese Academy of Sciences - Beihang University Hua Loo Keng Class"
+  company = "Hua Loo Keng Class in Mathematics, Beihang University"
   company_url = ""
   location = "Beijing"
   date_start = "2013-09-01"
@@ -40,9 +40,7 @@ date_format = "Jan 2006"
 
   * Representative of Graduation Ceremony (rank: 1/3987)
   * Shenyuan Golden Medal (rank: 10/3987)
-  * Outstanding Student of the Year (rank: 10/3987)
   * Mathematics Star Award (rank: 1/115)
-  * National College Students Academic Excellence Scholarship (rank: 1/115)
 
  """
 

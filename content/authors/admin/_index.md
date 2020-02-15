@@ -34,7 +34,7 @@ education:
 #    institution: Massachusetts Institute of Technology
 #    year: 2009
   - course: BSc in Mathematics
-    institution: Chinese Academy of Sciences - Beihang University Hua Loo Keng Class.
+    institution: Beihang University.
     year: 2017
 
 # Social/Academic Networking
@@ -73,9 +73,9 @@ user_groups:
 - Visitors
 ---
 
-My name is Jin-Peng Liu (刘锦鹏). I am a third-year doctoral student in Applied Mathematics & Statistics, and Scientific Computation Program at University of Maryland. I will visit Simons Institute at UC Berkeley in 2020 Spring. My adviser is Andrew Childs. 
+My name is Jin-Peng Liu (刘锦鹏). I am a third-year doctoral student of applied mathematics at University of Maryland. I will visit Simons Institute at UC Berkeley in 2020 Spring. My adviser is Andrew Childs. 
 
-Prior to that, I received my B.S. degree in Hua Loo Keng Class at Beihang University in 2017. I was advised by Ya-xiang Yuan at Chinese Academy of Sciences and Tiegang Liu at Beihang University.
+Prior to that, I received my B.S. degree in Hua Loo Keng Class in Mathematics at Beihang University in 2017. I was advised by Ya-xiang Yuan at Chinese Academy of Sciences and Tiegang Liu at Beihang University.
 
 I aim to develop quantum algorithms with sup-polynomial speed-ups over classical algorithms, including topics such as quantum PDE solvers, quantum optimization and quantum machine learning. I am also interested in classical algorithms for convex and non-convex nonlinear optimization problems.
 

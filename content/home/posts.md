@@ -69,5 +69,8 @@ subtitle = ""
 
 Dec 2019: Our paper [Quantum spectral methods for differential equations](https://arxiv.org/abs/1901.00961) will appear in [Communications in Mathematical Physics](https://link.springer.com/journal/220).
 
+Dec 2019: I'm visiting [Lawrence Berkeley National Laboratory](https://www.lbl.gov/).
+
 Nov 2019: Our paper [New stepsizes for the gradient method](https://link.springer.com/article/10.1007/s11590-019-01512-y) is published in [Optimization Letters.](https://link.springer.com/article/10.1007/s11590-019-01512-y)
 
+Jun 2019: I'm visiting [Academy of Mathematics and Systems Science, Chinese Academy o Science](http://english.amss.cas.cn/) invited by Ya-xiang Yuan.

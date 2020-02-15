@@ -67,6 +67,7 @@ subtitle = ""
 
 +++
 
-Dec 2019: Our paper *Quantum spectral methods for differential equations* will appear in **Communications in Mathematical Physics**
+Dec 2019: Our paper [*Quantum spectral methods for differential equations*](https://arxiv.org/abs/1901.00961) will appear in **Communications in Mathematical Physics**.
 
-Nov 2019: Our paper *New stepsizes for the gradient method* has been published in **Optimization Letters**.
+Nov 2019: Our paper [*New stepsizes for the gradient method*](https://link.springer.com/article/10.1007/s11590-019-01512-y) is published in **Optimization Letters**.
+

@@ -66,10 +66,6 @@ subtitle = ""
  css_class = ""
 +++
 
-{{% alert note %}}
-Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
-{{% /alert %}}
-
 **Quantum spectral methods for differential equations**
 
 Andrew M. Childs and Jin-Peng Liu

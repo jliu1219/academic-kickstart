@@ -31,7 +31,7 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Undergraduate Student"
-  company = "Beihang University"
+  company = "Chinese Academy of Sciences - Beihang University Hua Loo Keng Class"
   company_url = ""
   location = "Beijing"
   date_start = "2013-09-01"
@@ -40,7 +40,9 @@ date_format = "Jan 2006"
 
   * Representative of Graduation Ceremony (rank: 1/3987)
   * Shenyuan Golden Medal (rank: 10/3987)
+  * Outstanding Student of the Year (rank: 10/3987)
   * Mathematics Star Award (rank: 1/115)
+  * National College Students Academic Excellence Scholarship (rank: 1/115)
 
  """
 

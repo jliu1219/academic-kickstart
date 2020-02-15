@@ -90,7 +90,7 @@ address = {street = " Joint Center for Quantum Information and Computer Science,
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "38.9908", longitude = "-76.9422"}
+coordinates = {latitude = "38.9908885", longitude = "-76.9422847"}
 
 # Directions for visitors to locate you.
 directions = ""

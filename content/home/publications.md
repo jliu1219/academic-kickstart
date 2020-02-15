@@ -78,5 +78,5 @@ Andrew M. Childs and Jin-Peng Liu
 Cong Sun and Jin-Peng Liu
 
 - [Optimization Letters, 1-13](https://link.springer.com/article/10.1007/s11590-019-01512-y)
-- presented at [ICCOPT 19](https://iccopt2019.berlin/) and [SIAM OP 17](https://archive.siam.org/meetings/op17/) as a contributed talk
+- Presented at [ICCOPT 19](https://iccopt2019.berlin/) and [SIAM OP 17](https://archive.siam.org/meetings/op17/) as a contributed talk
 

@@ -69,3 +69,18 @@ subtitle = ""
 {{% alert note %}}
 Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
 {{% /alert %}}
+
+**Quantum spectral methods for differential equations**
+
+Andrew M. Childs and Jin-Peng Liu
+
+- [arXiv:1901.00961](http://arxiv.org/abs/1901.00961)
+- To appear in [Communications in Mathematical Physics](https://link.springer.com/journal/220)
+
+**New stepsizes for the gradient method**
+
+Cong Sun and Jin-Peng Liu
+
+- [Optimization Letters, 1-13](https://link.springer.com/article/10.1007/s11590-019-01512-y)
+- presented at [ICCOPT 19](https://iccopt2019.berlin/) and [SIAM OP 17](https://archive.siam.org/meetings/op17/) as a contributed talk
+

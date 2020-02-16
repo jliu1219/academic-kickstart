@@ -73,11 +73,11 @@ user_groups:
 - Visitors
 ---
 
-My name is Jin-Peng Liu (刘锦鹏). I am a third-year doctoral student of applied mathematics at University of Maryland since 2017. My adviser is [Andrew Childs](http://www.cs.umd.edu/~amchilds/). 
+My name is Jin-Peng Liu (刘锦鹏). I am a third-year doctoral student of [AMSC](https://amsc.umd.edu/) program at University of Maryland since 2017. My adviser is [Andrew Childs](http://www.cs.umd.edu/~amchilds/). 
 
-Prior to that, I received my B.S. degree in Chinese Academy of Sciences Hua Loo Keng Class in Mathematics at Beihang University in 2017. I studied optimization supervised by [Ya-xiang Yuan](http://lsec.cc.ac.cn/~yyx/) and CFD supervised by [Tiegang Liu](https://www.researchgate.net/profile/Tiegang_Liu3).
+Prior to that, I received my B.S. degree in Chinese Academy of Sciences Hua Loo Keng Class at Beihang University in 2017. I studied optimization supervised by [Ya-xiang Yuan](http://lsec.cc.ac.cn/~yyx/) and CFD supervised by [Tiegang Liu](https://www.researchgate.net/profile/Tiegang_Liu3).
 
-I aim to develop quantum algorithms with sup-polynomial speed-ups over classical algorithms, including topics such as quantum PDE solvers, quantum optimization and quantum machine learning. I am also interested in classical algorithms for convex and non-convex nonlinear optimization problems.
+I aim to develop quantum algorithms with sup-polynomial speed-ups over classical algorithms, including topics such as quantum PDE solvers, quantum optimization and quantum machine learning. I am also interested in classical algorithms for nonlinear optimization problems.
 
 
 

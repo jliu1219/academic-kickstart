@@ -67,7 +67,7 @@ subtitle = ""
 
 +++
 
-Feb 2020: Our paper [Quantum spectral methods for differential equations](https://arxiv.org/abs/1901.00961) is published in in [Communications in Mathematical Physics]([http://link.springer.com/article/10.1007/s00220-020-03699-z](http://links.springernature.com/f/a/rcJUILPs08ICPAsUZz8kZA~~/AABE5gA~/RgRgLk2nP0QwaHR0cDovL3d3dy5zcHJpbmdlci5jb20vLS8xL0FYQmRMaVVXRjJmd1B0OVNTMkhwVwNzcGNCCgAAJxpNXuwX5gdSGWpsaXUxMjE5QHRlcnBtYWlsLnVtZC5lZHVYBAAABuc~)).
+Feb 2020: Our paper [Quantum spectral methods for differential equations](https://arxiv.org/abs/1901.00961) is published in in [Communications in Mathematical Physics](https://link.springer.com/article/10.1007/s00220-020-03699-z).
 
 Dec 2019: I'm visiting [Lawrence Berkeley National Laboratory](https://www.lbl.gov/).
 

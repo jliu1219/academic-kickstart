@@ -73,7 +73,7 @@ user_groups:
 - Visitors
 ---
 
-My name is Jin-Peng Liu (刘锦鹏). I am a third-year doctoral student of [AMSC](https://amsc.umd.edu/) program at University of Maryland since 2017. My adviser is [Andrew Childs](http://www.cs.umd.edu/~amchilds/). 
+My name is Jin-Peng Liu (刘锦鹏). I am a third-year doctoral student of [AMSC](https://amsc.umd.edu/) program at the University of Maryland since 2017. My adviser is [Andrew Childs](http://www.cs.umd.edu/~amchilds/). 
 
 Prior to that, I received my B.S. degree in Chinese Academy of Sciences Hua Loo Keng Class at Beihang University in 2017. I was supervised by [Ya-xiang Yuan](http://lsec.cc.ac.cn/~yyx/).
 

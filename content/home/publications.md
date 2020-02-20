@@ -66,6 +66,12 @@ subtitle = ""
  css_class = ""
 +++
 
+**High-precision quantum algorithms for partial differential equations**
+
+Andrew M. Childs, Jin-Peng Liu, and Aaron Ostrander
+
+- [arXiv:2002.07868](http://arxiv.org/abs/2002.07868)
+
 **Quantum spectral methods for differential equations**
 
 Andrew M. Childs and Jin-Peng Liu

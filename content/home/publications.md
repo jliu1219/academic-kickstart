@@ -77,12 +77,12 @@ Andrew M. Childs, Jin-Peng Liu, and Aaron Ostrander
 Andrew M. Childs and Jin-Peng Liu
 
 - [arXiv:1901.00961](http://arxiv.org/abs/1901.00961)
-- [Communications in Mathematical Physics](https://link.springer.com/article/10.1007/s00220-020-03699-z)
+- [Communications in Mathematical Physics (2020)](https://link.springer.com/article/10.1007/s00220-020-03699-z)
 
 **New stepsizes for the gradient method**
 
 Cong Sun and Jin-Peng Liu
 
-- [Optimization Letters, 1-13](https://link.springer.com/article/10.1007/s11590-019-01512-y)
+- [Optimization Letters, 1-13 (2019)](https://link.springer.com/article/10.1007/s11590-019-01512-y)
 - Presented at [ICCOPT 19](https://iccopt2019.berlin/) and [SIAM OP 17](https://archive.siam.org/meetings/op17/) as a contributed talk
 

@@ -67,6 +67,8 @@ subtitle = ""
 
 +++
 
+Feb 2020 - Mar 2020: I'm visiting [Simons Institute, UC Berkeley](https://simons.berkeley.edu/).
+
 Feb 2020: Our paper [Quantum spectral methods for differential equations](https://arxiv.org/abs/1901.00961) is published in [Communications in Mathematical Physics](https://link.springer.com/article/10.1007/s00220-020-03699-z).
 
 Dec 2019: I'm visiting [Lawrence Berkeley National Laboratory](https://www.lbl.gov/).

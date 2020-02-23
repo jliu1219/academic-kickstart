@@ -77,7 +77,7 @@ Andrew M. Childs, Jin-Peng Liu, and Aaron Ostrander
 Andrew M. Childs and Jin-Peng Liu
 
 - [arXiv:1901.00961](http://arxiv.org/abs/1901.00961)
-- [Communications in Mathematical Physics (2020)](https://link.springer.com/article/10.1007/s00220-020-03699-z)
+- [Communications in Mathematical Physics, 1-31 (2020)](https://link.springer.com/article/10.1007/s00220-020-03699-z)
 
 **New stepsizes for the gradient method**
 

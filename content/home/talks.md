@@ -71,9 +71,9 @@ subtitle = ""
 
 **Quantum computation for linear algebra (QCLA)**
 
-- Mar 2020: Math Department, University of California, Los Angeles (remote talk)
+- Mar 2020: Optimization group in the Math Department, University of California, Los Angeles (remote talk)
 
 **Quantum algorithms for differential equations and optimization**
 
-- Jun 2019: Academy of Mathematics and Systems Science, Chinese Academy of Sciences
+- Jun 2019: Optimization group in the Academy of Mathematics and Systems Science, Chinese Academy of Sciences
 

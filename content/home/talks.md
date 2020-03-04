@@ -71,7 +71,7 @@ subtitle = ""
 
 **Quantum computation for linear algebra (QCLA)**
 
-- Mar 2020: Math Department, UCLA (remote talk)
+- Mar 2020: Math Department, University of California, Los Angeles (remote talk)
 
 **Quantum algorithms for differential equations and optimization**
 

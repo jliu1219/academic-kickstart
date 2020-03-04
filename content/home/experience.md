@@ -26,7 +26,7 @@ date_format = "Jan 2006"
   date_end = ""
   description = """
 
-  * Feb 2020: Visiting Student in Simons Institute, UC Berkeley
+  * Feb 2020: Visiting Student in Simons Institute, University of California, Berkeley
   * Sep 2017: Dean's Fellowship
       """
 

@@ -71,11 +71,11 @@ subtitle = ""
 
 **High-precision quantum algorithms for partial differential equations**
 
-- Mar 2020: Math Department, University of California, Berkeley
+- Mar 2020: Department of Mathematics, University of California, Berkeley
 
 **Quantum computation for linear algebra (QCLA)**
 
-- Mar 2020: Math Department, University of California, Los Angeles (remote talk)
+- Mar 2020: Department of Mathematics, University of California, Los Angeles (remote talk)
 
 **Quantum algorithms for differential equations and optimization**
 

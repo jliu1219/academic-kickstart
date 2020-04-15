@@ -69,6 +69,10 @@ subtitle = ""
 
 +++
 
+**High-precision quantum algorithms for ODEs and PDEs**
+
+- Apr 2020: Microsoft Quantum Redmond Group, Microsoft Research, Redmond (remote talk)
+
 **High-precision quantum algorithms for partial differential equations**
 
 - Mar 2020: Department of Mathematics, University of California, Berkeley

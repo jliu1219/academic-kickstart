@@ -75,7 +75,7 @@ user_groups:
 
 My name is Jin-Peng Liu (刘锦鹏). I am a third-year doctoral student of [AMSC](https://amsc.umd.edu/) program at the University of Maryland since 2017, advised by [Andrew Childs](http://www.cs.umd.edu/~amchilds/). 
 
-Prior to that, I completed my B.S. degree in Chinese Academy of Sciences Hua Loo Keng Class at the Beihang University during 2013-2017, supervised by [Ya-xiang Yuan](http://lsec.cc.ac.cn/~yyx/).
+Prior to that, I completed my B.S. degree in Chinese Academy of Sciences Hua Loo Keng Class at the Beihang University from 2013-2017, supervised by [Ya-xiang Yuan](http://lsec.cc.ac.cn/~yyx/).
 
 I aim to develop quantum algorithms with sup-polynomial speed-ups over classical algorithms, including topics such as quantum PDE solvers, quantum optimization and quantum machine learning. I am also interested in classical algorithms for nonlinear optimization problems.
 

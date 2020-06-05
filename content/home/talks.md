@@ -71,7 +71,8 @@ subtitle = ""
 
 **High-precision quantum algorithms for ODEs and PDEs**
 
-- Apr 2020: Microsoft Quantum Redmond Group, Microsoft Research, Redmond (remote talk)
+- Jun 2020: Center for Quantum Computing, Peng Cheng Laboratory, Shenzhen
+- Apr 2020: Microsoft Quantum Redmond Group, Microsoft Research, Redmond
 
 **High-precision quantum algorithms for partial differential equations**
 
@@ -79,7 +80,7 @@ subtitle = ""
 
 **Quantum computation for linear algebra (QCLA)**
 
-- Mar 2020: Department of Mathematics, University of California, Los Angeles (remote talk)
+- Mar 2020: Department of Mathematics, University of California, Los Angeles
 
 **Quantum algorithms for differential equations and optimization**
 

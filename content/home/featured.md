@@ -64,5 +64,5 @@ subtitle = ""
 
 +++
 
-Reviewer of [ACM Transactions on Quantum Computing (ACM TQC)](https://dl.acm.org/journal/tqc), [International Conference on Machine Learning (ICML)](https://icml.cc/), [Numerical Algorithms](https://www.springer.com/journal/11075?gclid=EAIaIQobChMIte77693r6QIVmJOzCh0pFwLkEAAYASAAEgJStPD_BwE), [Science Bulletin](https://www.journals.elsevier.com/science-bulletin).
+Reviewer of [ACM Transactions on Quantum Computing](https://dl.acm.org/journal/tqc), [International Conference on Machine Learning (ICML)](https://icml.cc/), [Numerical Algorithms](https://www.springer.com/journal/11075?gclid=EAIaIQobChMIte77693r6QIVmJOzCh0pFwLkEAAYASAAEgJStPD_BwE), [Quantum](https://quantum-journal.org/), [Science Bulletin](https://www.journals.elsevier.com/science-bulletin).
 

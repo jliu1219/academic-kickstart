@@ -66,6 +66,12 @@ subtitle = ""
  css_class = ""
 +++
 
+**Quantum algorithms for the polynomial eigenvalue problems**
+
+Changpeng Shao and Jin-Peng Liu
+
+- [arXiv:2010.15027](http://arxiv.org/abs/2010.15027)
+
 **High-precision quantum algorithms for partial differential equations**
 
 Andrew M. Childs, Jin-Peng Liu, and Aaron Ostrander

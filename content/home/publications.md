@@ -66,6 +66,12 @@ subtitle = ""
  css_class = ""
 +++
 
+**Efficient quantum algorithm for dissipative nonlinear differential equations**
+
+Jin-Peng Liu, Herman Øie Kolden, Hari K. Krovi, Nuno F. Loureiro, Konstantina Trivisa and Andrew M. Childs
+
+- [arXiv:2011.03185](http://arxiv.org/abs/2011.03185)
+
 **Quantum algorithms for the polynomial eigenvalue problems**
 
 Changpeng Shao and Jin-Peng Liu

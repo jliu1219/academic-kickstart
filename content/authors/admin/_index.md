@@ -77,7 +77,7 @@ My name is Jin-Peng Liu (刘锦鹏). I am a fourth-year doctoral student of [AMS
 
 Prior to that, I received my B.S. degree in Chinese Academy of Sciences Hua Loo Keng Class at the Beihang University in 2017, supervised by [Ya-xiang Yuan](http://lsec.cc.ac.cn/~yyx/).
 
-I aim to develop quantum algorithms with sup-polynomial speed-ups over classical algorithms, including topics such as quantum ODE and PDE solvers, quantum optimization, and quantum computational finance. I am also interested in classical algorithms for nonlinear optimization problems.
+I aim to develop quantum algorithms with sup-polynomial speed-ups over classical algorithms, including topics such as quantum solvers for linear and nonlinear differential equations, quantum simulation, quantum optimization and machine learning, and quantum computational finance. I am also interested in classical algorithms for nonlinear optimization.
 
 
 

@@ -69,6 +69,10 @@ subtitle = ""
 
 +++
 
+**Efficient quantum algorithm for dissipative nonlinear differential equations**
+
+- Dec 2020: AMSS-UTS Joint Workshop on Quantum Computing, Chinese Academy of Sciences, Beijing
+
 **High-precision quantum algorithms for ODEs and PDEs**
 
 - Jun 2020: Center for Quantum Computing, Peng Cheng Laboratory, Shenzhen
@@ -85,5 +89,5 @@ subtitle = ""
 
 **Quantum algorithms for differential equations and optimization**
 
-- Jun 2019: Academy of Mathematics and Systems Science, Chinese Academy of Sciences
+- Jun 2019: Institute of Computational Mathematics and Scientific/Engineering Computing, Chinese Academy of Sciences, Beijing
 

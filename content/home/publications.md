@@ -66,6 +66,12 @@ subtitle = ""
  css_class = ""
 +++
 
+**Quantum-accelerated multilevel Monte Carlo methods for stochastic differential equations in mathematical finance**
+
+Dong An, Noah Linden, Jin-Peng Liu, Ashley Montanaro, Changpeng Shao and Jiasu Wang
+
+- [arXiv:2012.06283](http://arxiv.org/abs/2012.06283)
+
 **Efficient quantum algorithm for dissipative nonlinear differential equations**
 
 Jin-Peng Liu, Herman Øie Kolden, Hari K. Krovi, Nuno F. Loureiro, Konstantina Trivisa and Andrew M. Childs

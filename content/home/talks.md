@@ -80,7 +80,7 @@ subtitle = ""
 
 **High-precision quantum algorithms for partial differential equations**
 
-- Dec 2020: Quantum Winter Lecture
+- Dec 2020: Quantum Winter Lecture, BosonQ Psi
 - Mar 2020: Department of Mathematics, University of California, Berkeley
 
 **Quantum computation for linear algebra (QCLA)**

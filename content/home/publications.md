@@ -77,6 +77,7 @@ Dong An, Noah Linden, Jin-Peng Liu, Ashley Montanaro, Changpeng Shao and Jiasu W
 Jin-Peng Liu, Herman Øie Kolden, Hari K. Krovi, Nuno F. Loureiro, Konstantina Trivisa and Andrew M. Childs
 
 - [arXiv:2011.03185](http://arxiv.org/abs/2011.03185)
+- Quanta Magazine article: [New Quantum Algorithms Finally Crack Nonlinear Equations](https://www.quantamagazine.org/new-quantum-algorithms-finally-crack-nonlinear-equations-20210105/).
 
 **Quantum algorithms for the polynomial eigenvalue problems**
 

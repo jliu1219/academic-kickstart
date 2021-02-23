@@ -67,6 +67,8 @@ subtitle = ""
 
 +++
 
+Feb 2021: I am selected as a [NSF Quantum Information Science and Engineering Network (QISE-NET) Triplet Awardee](https://qisenet.uchicago.edu/overview/).
+
 Jan 2021: Our paper [Efficient quantum algorithm for dissipative nonlinear differential equations](http://arxiv.org/abs/2011.03185) is highlighted by a coverage in Quanta Magazine: [New Quantum Algorithms Finally Crack Nonlinear Equations](https://www.quantamagazine.org/new-quantum-algorithms-finally-crack-nonlinear-equations-20210105/).
 
 Jan 2020 - May 2020: I'm a long-term visitor of [The Quantum Wave in Computing Program](https://simons.berkeley.edu/programs/quantum2020), [Simons Institute, University of California, Berkeley](https://simons.berkeley.edu/).

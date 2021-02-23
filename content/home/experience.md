@@ -26,8 +26,8 @@ date_format = "Jan 2006"
   date_end = ""
   description = """
 
-  * Feb 2021: NSF Quantum Information Science and Engineering Network (QISE-NET) Triplet Award
-  * Feb 2020: Long-term visitor at Simons Institute, University of California, Berkeley
+  * Feb 2021: NSF QISE-NET Triplet Award
+  * Feb 2020: Long-term visitor at Simons Institute
   * Sep 2017: Dean's Fellowship of AMSC program
       """
 

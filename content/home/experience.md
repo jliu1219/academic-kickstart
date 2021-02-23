@@ -26,8 +26,9 @@ date_format = "Jan 2006"
   date_end = ""
   description = """
 
-  * Feb 2020: Visiting Student in Simons Institute, University of California, Berkeley
-  * Sep 2017: Dean's Fellowship
+  * Feb 2021: NSF Quantum Information Science and Engineering Network (QISE-NET) Triplet Award
+  * Feb 2020: Long-term visitor at Simons Institute, University of California, Berkeley
+  * Sep 2017: Dean's Fellowship of AMSC program
       """
 
 [[experience]]

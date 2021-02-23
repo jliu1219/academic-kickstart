@@ -73,9 +73,9 @@ user_groups:
 - Visitors
 ---
 
-My name is Jin-Peng Liu (刘锦鹏). I am a fourth-year doctoral student of [AMSC](https://amsc.umd.edu/) program at the University of Maryland, advised by [Andrew Childs](http://www.cs.umd.edu/~amchilds/). I was a long-term visitor of [Simons Institute](https://simons.berkeley.edu/) in 2020 spring.
+My name is Jin-Peng Liu (刘锦鹏). I am a fourth-year doctoral student of [AMSC](https://amsc.umd.edu/) program at University of Maryland, advised by [Andrew Childs](http://www.cs.umd.edu/~amchilds/). I received [NSF QISE-NET Triplet Award](https://qisenet.uchicago.edu/overview/) in 2021. I was a long-term visitor at [Simons Institute](https://simons.berkeley.edu/) in 2020.
 
-Prior to that, I received my B.S. degree in Chinese Academy of Sciences Hua Loo Keng Class at the Beihang University in 2017, supervised by [Ya-xiang Yuan](http://lsec.cc.ac.cn/~yyx/).
+Prior to that, I received my B.S. degree in Chinese Academy of Sciences Hua Loo Keng Class at Beihang University in 2017, supervised by [Ya-xiang Yuan](http://lsec.cc.ac.cn/~yyx/).
 
 I aim to develop quantum algorithms with sup-polynomial speed-ups over classical algorithms, including topics such as quantum solvers for linear and nonlinear differential equations, quantum simulation, quantum optimization and machine learning, and quantum computational finance. I am also interested in classical algorithms for nonlinear optimization.
 

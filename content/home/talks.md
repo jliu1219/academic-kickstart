@@ -69,6 +69,10 @@ subtitle = ""
 
 +++
 
+**Quantum-accelerated multilevel Monte Carlo methods for stochastic differential equations in mathematical finance**
+
+- Mar 2021: Sayas Numerics Seminar, College Park
+
 **Efficient quantum algorithm for dissipative nonlinear differential equations**
 
 - Mar 2021: SIAM Conference on Computational Science and Engineering (SIAM CSE21), Fort Worth

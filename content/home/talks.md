@@ -69,12 +69,18 @@ subtitle = ""
 
 +++
 
+**Quantum algorithms for linear and nonlinear differential equations**
+
+- Apr 2021: R&D Engineering Group, Goldman Sachs
+- Apr 2021: Department of Mathematics, University of Utah
+
 **Quantum-accelerated multilevel Monte Carlo methods for stochastic differential equations in mathematical finance**
 
 - Mar 2021: Sayas Numerics Seminar, College Park
 
 **Efficient quantum algorithm for dissipative nonlinear differential equations**
 
+- Apr 2021: IQC-QuICS Math and Computer Science Seminar, College Park
 - Mar 2021: SIAM Conference on Computational Science and Engineering (SIAM CSE21), Fort Worth
 - Dec 2020: AMSS-UTS Joint Workshop on Quantum Computing, Chinese Academy of Sciences, Beijing
 

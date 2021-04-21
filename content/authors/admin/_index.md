@@ -73,7 +73,7 @@ user_groups:
 - Visitors
 ---
 
-My name is Jin-Peng Liu (刘锦鹏). I am a fourth-year doctoral student of [AMSC](https://amsc.umd.edu/) program at University of Maryland, advised by [Andrew Childs](http://www.cs.umd.edu/~amchilds/). I received [NSF QISE-NET Triplet Award](https://qisenet.uchicago.edu/overview/) in 2021. I was a long-term visitor at [Simons Institute](https://simons.berkeley.edu/) in 2020.
+My name is Jin-Peng Liu (刘锦鹏). I am a fourth-year Ph.D. candidate of [AMSC](https://amsc.umd.edu/) program at University of Maryland, advised by [Andrew Childs](http://www.cs.umd.edu/~amchilds/). I received [NSF QISE-NET Triplet Award](https://qisenet.uchicago.edu/overview/) in 2021. I was a long-term visitor at [Simons Institute](https://simons.berkeley.edu/) in 2020.
 
 Prior to that, I received my B.S. degree in Chinese Academy of Sciences Hua Loo Keng Class at Beihang University in 2017, supervised by [Ya-xiang Yuan](http://lsec.cc.ac.cn/~yyx/).
 

@@ -80,6 +80,7 @@ subtitle = ""
 
 **Efficient quantum algorithm for dissipative nonlinear differential equations**
 
+- Apr 2021: Quantum Computing Group, Amazon Web Services
 - Apr 2021: IQC-QuICS Math and Computer Science Seminar, College Park
 - Mar 2021: SIAM Conference on Computational Science and Engineering (SIAM CSE21), Fort Worth
 - Dec 2020: AMSS-UTS Joint Workshop on Quantum Computing, Chinese Academy of Sciences, Beijing

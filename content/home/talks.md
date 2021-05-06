@@ -80,6 +80,7 @@ subtitle = ""
 
 **Efficient quantum algorithm for dissipative nonlinear differential equations**
 
+- May 2021: Quantum Lunch Seminar, Los Alamos National Lab
 - Apr 2021: Quantum Computing Group, Amazon Web Services
 - Apr 2021: IQC-QuICS Math and Computer Science Seminar, College Park
 - Mar 2021: SIAM Conference on Computational Science and Engineering (SIAM CSE21), Fort Worth

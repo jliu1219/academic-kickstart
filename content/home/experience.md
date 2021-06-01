@@ -26,8 +26,9 @@ date_format = "Jan 2006"
   date_end = ""
   description = """
 
+  * Jun 2021 - Aug 2021: applied scientist intern at Amazon Web Services
   * Feb 2021: NSF QISE-NET Triplet Award
-  * Feb 2020: Long-term visitor at Simons Institute
+  * Jan 2020 - May 2020: Long-term visitor at Simons Institute
   * Sep 2017: Dean's Fellowship of AMSC program
       """
 

@@ -67,7 +67,11 @@ subtitle = ""
 
 +++
 
-Feb 2021: I am selected as a [NSF Quantum Information Science and Engineering Network (QISE-NET) Triplet Awardee](https://qisenet.uchicago.edu/overview/). I benefit from the mentorship of [QuICS, University of Maryland](https://quics.umd.edu/) and [Microsoft Quantum](https://www.microsoft.com/en-us/research/research-area/quantum-computing/).
+Jun 2021:  I'm an applied scientist intern at [Amazon Web Services Center for Quantum Computing](https://www.amazon.science/quantum-technologies) this summer.
+
+May 2021: Our paper [Quantum-accelerated multilevel Monte Carlo methods for stochastic differential equations in mathematical finance](https://arxiv.org/abs/2012.06283) is accepted by [TQC 2021](https://tqc2021.lu.lv/).
+
+Feb 2021: I am selected as a [NSF Quantum Information Science and Engineering Network (QISE-NET) Triplet Awardee](https://qisenet.uchicago.edu/overview/). I benefit from the mentorship of [QuICS, University of Maryland](https://quics.umd.edu/) and [Microsoft Research Quantum](https://www.microsoft.com/en-us/research/research-area/quantum-computing/).
 
 Jan 2021: Our paper [Efficient quantum algorithm for dissipative nonlinear differential equations](http://arxiv.org/abs/2011.03185) is highlighted by a front-page coverage in Quanta Magazine: [New Quantum Algorithms Finally Crack Nonlinear Equations](https://www.quantamagazine.org/new-quantum-algorithms-finally-crack-nonlinear-equations-20210105/).
 

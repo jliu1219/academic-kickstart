@@ -67,7 +67,7 @@ subtitle = ""
 
 +++
 
-Feb 2021: I am selected as a [NSF Quantum Information Science and Engineering Network (QISE-NET) Triplet Awardee](https://qisenet.uchicago.edu/overview/).
+Feb 2021: I am selected as a [NSF Quantum Information Science and Engineering Network (QISE-NET) Triplet Awardee](https://qisenet.uchicago.edu/overview/). I benefit from the mentorship of [QuICS, University of Maryland](https://quics.umd.edu/) and [Microsoft Quantum](https://www.microsoft.com/en-us/research/research-area/quantum-computing/).
 
 Jan 2021: Our paper [Efficient quantum algorithm for dissipative nonlinear differential equations](http://arxiv.org/abs/2011.03185) is highlighted by a front-page coverage in Quanta Magazine: [New Quantum Algorithms Finally Crack Nonlinear Equations](https://www.quantamagazine.org/new-quantum-algorithms-finally-crack-nonlinear-equations-20210105/).
 

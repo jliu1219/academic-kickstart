@@ -71,6 +71,7 @@ subtitle = ""
 Dong An, Noah Linden, Jin-Peng Liu, Ashley Montanaro, Changpeng Shao and Jiasu Wang
 
 - [arXiv:2012.06283](http://arxiv.org/abs/2012.06283)
+- [Quantum 5, 481 (2021)](https://quantum-journal.org/papers/q-2021-06-24-481/)
 
 **Efficient quantum algorithm for dissipative nonlinear differential equations**
 

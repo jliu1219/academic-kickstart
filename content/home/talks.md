@@ -76,6 +76,7 @@ subtitle = ""
 
 **Quantum-accelerated multilevel Monte Carlo methods for stochastic differential equations in mathematical finance**
 
+- Jul 2021: 16th Conference on the Theory of Quantum Computation, Communication and Cryptography (TQC 2021), Riga, Latvia
 - Mar 2021: Sayas Numerics Seminar, College Park
 
 **Efficient quantum algorithm for dissipative nonlinear differential equations**

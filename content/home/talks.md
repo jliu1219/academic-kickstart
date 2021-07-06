@@ -76,7 +76,7 @@ subtitle = ""
 
 **Quantum-accelerated multilevel Monte Carlo methods for stochastic differential equations in mathematical finance**
 
-- Jul 2021: 16th Conference on the Theory of Quantum Computation, Communication and Cryptography (TQC 2021), Riga, Latvia
+- Jul 2021: Conference on the Theory of Quantum Computation, Communication and Cryptography 2021 (TQC 21), Riga, Latvia
 - Mar 2021: Sayas Numerics Seminar, College Park
 
 **Efficient quantum algorithm for dissipative nonlinear differential equations**
@@ -84,7 +84,7 @@ subtitle = ""
 - May 2021: Quantum Lunch Seminar, Los Alamos National Lab
 - Apr 2021:  Quantum Theory Meeting, Amazon Web Services Center for Quantum Computing
 - Apr 2021: IQC-QuICS Math and Computer Science Seminar, College Park
-- Mar 2021: SIAM Conference on Computational Science and Engineering (SIAM CSE21), Fort Worth
+- Mar 2021: SIAM Conference on Computational Science and Engineering 2021 (SIAM CSE 21), Fort Worth
 - Dec 2020: AMSS-UTS Joint Workshop on Quantum Computing, Chinese Academy of Sciences, Beijing
 
 **High-precision quantum algorithms for ODEs and PDEs**

@@ -79,6 +79,7 @@ Jin-Peng Liu, Herman Øie Kolden, Hari K. Krovi, Nuno F. Loureiro, Konstantina T
 
 - [arXiv:2011.03185](http://arxiv.org/abs/2011.03185)
 - Front-page Coverage in Quanta Magazine: [New Quantum Algorithms Finally Crack Nonlinear Equations](https://www.quantamagazine.org/new-quantum-algorithms-finally-crack-nonlinear-equations-20210105/)
+- [Proceedings of the National Academy of Sciences 118, e2026805118 (2021)](https://doi.org/10.1073/pnas.2026805118)
 
 **Quantum algorithms for the polynomial eigenvalue problems**
 

@@ -79,7 +79,7 @@ Jin-Peng Liu, Herman Øie Kolden, Hari K. Krovi, Nuno F. Loureiro, Konstantina T
 
 - [arXiv:2011.03185](http://arxiv.org/abs/2011.03185)
 - Front-page Coverage in Quanta Magazine: [New Quantum Algorithms Finally Crack Nonlinear Equations](https://www.quantamagazine.org/new-quantum-algorithms-finally-crack-nonlinear-equations-20210105/)
-- [Proceedings of the National Academy of Sciences 118, e2026805118 (2021)](https://doi.org/10.1073/pnas.2026805118)
+- [Proceedings of the National Academy of Sciences 118, 35 (2021)](https://doi.org/10.1073/pnas.2026805118)
 
 **Quantum algorithms for the polynomial eigenvalue problems**
 
@@ -98,12 +98,12 @@ Andrew M. Childs, Jin-Peng Liu, and Aaron Ostrander
 Andrew M. Childs and Jin-Peng Liu
 
 - [arXiv:1901.00961](http://arxiv.org/abs/1901.00961)
-- [Communications in Mathematical Physics, 375, 1427-1457 (2020)](https://link.springer.com/article/10.1007/s00220-020-03699-z)
+- [Communications in Mathematical Physics 375, 1427-1457 (2020)](https://link.springer.com/article/10.1007/s00220-020-03699-z)
 
 **New stepsizes for the gradient method**
 
 Cong Sun and Jin-Peng Liu
 
-- [Optimization Letters, 1-13 (2019)](https://link.springer.com/article/10.1007/s11590-019-01512-y)
+- [Optimization Letters 14, 1943-1955 (2020)](https://link.springer.com/article/10.1007/s11590-019-01512-y)
 - Presented at [ICCOPT 19](https://iccopt2019.berlin/) and [SIAM OP 17](https://archive.siam.org/meetings/op17/) as a contributed talk
 

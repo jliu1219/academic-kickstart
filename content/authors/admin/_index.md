@@ -23,7 +23,7 @@ bio: My research aims to develop quantum algorithms with sup-polynomial speed-up
 interests:
 - Quantum Computing
 - Numerical Analysis
-- Nonlinear Optimization
+- Nonlinear Differential Equations
 
 education:
   courses:
@@ -77,7 +77,5 @@ My name is Jin-Peng Liu (刘锦鹏). I am a fifth-year Ph.D. candidate of [AMSC]
 
 Prior to that, I received my B.S. degree in Chinese Academy of Sciences Hua Loo Keng Class at Beihang University in 2017, supervised by [Ya-xiang Yuan](http://lsec.cc.ac.cn/~yyx/).
 
-I aim to develop quantum algorithms with super-polynomial speed-ups over classical algorithms, including topics such as quantum solvers for linear and nonlinear differential equations, quantum simulation, quantum optimization and machine learning, and quantum computational finance. I am also interested in classical algorithms for nonlinear optimization.
-
-
+I focus mainly on the design and analysis of quantum algorithms for scientific computational problems, including topics such as linear and nonlinear differential equations, quantum dynamics, and stochastic processes, with applications in areas such as fluid dynamics, biology, quantum chemistry, economics, and finance. I attempt to build a bridge between classical and quantum mechanics, understand and optimize the power of quantum computation, and discover new quantum speedups over classical algorithms with provable guarantee.
 

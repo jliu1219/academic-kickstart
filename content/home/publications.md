@@ -93,6 +93,7 @@ Changpeng Shao and Jin-Peng Liu
 Andrew M. Childs, Jin-Peng Liu, and Aaron Ostrander
 
 - [arXiv:2002.07868](http://arxiv.org/abs/2002.07868)
+- To appear in [Quantum](https://quantum-journal.org/)
 
 **Quantum spectral methods for differential equations**
 

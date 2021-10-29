@@ -77,5 +77,5 @@ My name is Jin-Peng Liu (刘锦鹏). I am a fifth-year Ph.D. candidate of [AMSC]
 
 Prior to that, I received my B.S. degree in Chinese Academy of Sciences Hua Loo Keng Class at Beihang University in 2017, supervised by [Ya-xiang Yuan](http://lsec.cc.ac.cn/~yyx/).
 
-I focus mainly on the design and analysis of quantum algorithms for scientific computational problems, including topics such as linear and nonlinear differential equations, quantum dynamics, and stochastic processes, with applications in areas such as biology and epidemiology, fluid dynamics, quantum chemistry, finance, and machine learning. I attempt to build a bridge between classical and quantum mechanics, understand and optimize the power of quantum computation, and discover new quantum speedups over classical algorithms with provable guarantees.
+I focus mainly on the design and analysis of quantum algorithms for scientific computational problems, including topics such as linear and nonlinear differential equations, quantum dynamics, and stochastic processes, with applications in areas such as biology and epidemiology, fluid dynamics, quantum chemistry, finance, and machine learning. 
 

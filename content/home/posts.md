@@ -67,6 +67,8 @@ subtitle = ""
 
 +++
 
+Nov 2021:  I'm an invited speaker at [The 74th Annual Meeting of the Division of Fluid Dynamics](https://www.apsdfd2021.org/).
+
 Aug 2021: Our paper [Efficient quantum algorithm for dissipative nonlinear differential equations](http://arxiv.org/abs/2011.03185) is published in [Proceedings of the National Academy of Sciences (PNAS)](https://doi.org/10.1073/pnas.2026805118).
 
 Jun 2021:  I'm an applied scientist intern at [Amazon Web Services Center for Quantum Computing](https://www.amazon.science/quantum-technologies) this summer.

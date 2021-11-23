@@ -81,6 +81,7 @@ subtitle = ""
 
 **Efficient quantum algorithm for dissipative nonlinear differential equations**
 
+- Nov 2021: Annual Meeting of the Division of Fluid Dynamics 2021 (APS DFD 21), Phoenix
 - May 2021: Quantum Lunch Seminar, Los Alamos National Lab
 - Apr 2021:  Quantum Theory Meeting, Amazon Web Services Center for Quantum Computing
 - Apr 2021: IQC-QuICS Math and Computer Science Seminar, College Park

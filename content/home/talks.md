@@ -71,6 +71,7 @@ subtitle = ""
 
 **Quantum algorithms for linear and nonlinear differential equations**
 
+- Dec 2021: Perimeter Institute Quantum Discussions
 - Apr 2021: R&D Engineering Group, Goldman Sachs
 - Apr 2021: Department of Mathematics, University of Utah
 

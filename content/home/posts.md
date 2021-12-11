@@ -67,7 +67,7 @@ subtitle = ""
 
 +++
 
-Dec 2021:  I'm visiting [Harvard Quantum Initiative](https://quantum.harvard.edu/).
+Dec 2021:  I'm invited to visit [Harvard Quantum Initiative](https://quantum.harvard.edu/).
 
 Nov 2021:  I'm an invited speaker at [The 74th Annual Meeting of the Division of Fluid Dynamics](https://www.apsdfd2021.org/).
 
@@ -85,8 +85,8 @@ Jan 2020 - May 2020: I'm a long-term visitor of [The Quantum Wave in Computing P
 
 Feb 2020: Our paper [Quantum spectral methods for differential equations](https://arxiv.org/abs/1901.00961) is published in [Communications in Mathematical Physics](https://link.springer.com/article/10.1007/s00220-020-03699-z).
 
-Dec 2019: I'm visiting [Lawrence Berkeley National Laboratory](https://www.lbl.gov/).
+Dec 2019: I'm invited to visit [Lawrence Berkeley National Laboratory](https://www.lbl.gov/).
 
 Nov 2019: Our paper [New stepsizes for the gradient method](https://link.springer.com/article/10.1007/s11590-019-01512-y) is published in [Optimization Letters](https://link.springer.com/article/10.1007/s11590-019-01512-y).
 
-Jun 2019: I'm visiting [Academy of Mathematics and Systems Science, Chinese Academy of Sciences](http://english.amss.cas.cn/).
+Jun 2019: I'm invited to visit [Academy of Mathematics and Systems Science, Chinese Academy of Sciences](http://english.amss.cas.cn/).

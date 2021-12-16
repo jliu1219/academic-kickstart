@@ -67,7 +67,7 @@ subtitle = ""
 
 +++
 
-Dec 2021:  I'm invited to visit [Harvard Quantum Initiative](https://quantum.harvard.edu/).
+Dec 2021:  I'm invited to visit [Harvard Quantum Initiative](https://quantum.harvard.edu/) and give a talk at HQI [QuantumFest 2021](https://quantum.harvard.edu/files/quantum/files/quantumfest_2021.pdf).
 
 Nov 2021:  I'm an invited speaker at [The 74th Annual Meeting of the Division of Fluid Dynamics](https://www.apsdfd2021.org/).
 

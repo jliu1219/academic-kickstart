@@ -82,7 +82,7 @@ subtitle = ""
 
 **Efficient quantum algorithm for dissipative nonlinear differential equations**
 
-- Dec 2021: Quantum Fest, Harvard Quantum Initiative.
+- Dec 2021: QuantumFest 2021, Harvard Quantum Initiative.
 - Nov 2021: Annual Meeting of the Division of Fluid Dynamics 2021 (APS DFD 21), Phoenix
 - May 2021: Quantum Lunch Seminar, Los Alamos National Lab
 - Apr 2021:  Quantum Theory Meeting, Amazon Web Services Center for Quantum Computing

@@ -69,6 +69,10 @@ subtitle = ""
 
 +++
 
+**Efficient quantum algorithms for nonlinear ODEs and PDEs**
+
+- Jan 2022: Workshop on Quantum Numerical Linear Algebra, Institute for Pure and Applied Mathematics, UCLA
+
 **Quantum algorithms for linear and nonlinear differential equations**
 
 - Dec 2021: Perimeter Institute Quantum Discussions

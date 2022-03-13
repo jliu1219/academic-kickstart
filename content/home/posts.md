@@ -67,6 +67,8 @@ subtitle = ""
 
 +++
 
+Mar 2022:  As a QISE-NET Triplet awardee, I'm invited to present at [the QISE-NET reception](https://qisenet.uchicago.edu/projects-3-3/), APS March Meeting in Chicago.
+
 Feb 2022:  I'm thrilled to accept the Simons Quantum Postdoctoral Fellowship! 
 
 Jan 2022:  I'm a session chair and an invited speaker at [Workshop on Quantum Numerical Linear Algebra](http://www.ipam.ucla.edu/programs/workshops/quantum-numerical-linear-algebra/?tab=overview), [Institute for Pure and Applied Mathematics, UCLA](http://www.ipam.ucla.edu/).

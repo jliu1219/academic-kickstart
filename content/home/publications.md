@@ -66,6 +66,12 @@ subtitle = ""
  css_class = ""
 +++
 
+**Quantum simulation of real-space dynamics**
+
+Andrew M. Childs, Jiaqi Leng, Tongyang Li, Jin-Peng Liu and Chenyi Zhang
+
+- [arXiv:2203.17006](https://arxiv.org/abs/2203.17006)
+
 **Quantum-accelerated multilevel Monte Carlo methods for stochastic differential equations in mathematical finance**
 
 Dong An, Noah Linden, Jin-Peng Liu, Ashley Montanaro, Changpeng Shao and Jiasu Wang

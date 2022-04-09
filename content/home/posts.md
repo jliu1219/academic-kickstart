@@ -67,6 +67,8 @@ subtitle = ""
 
 +++
 
+Apr 2022: I successfully defended my Ph.D. dissertation!
+
 Mar 2022:  As a QISE-NET Triplet awardee, I'm invited to present at [QISE-NET Reception](https://qisenet.uchicago.edu/projects-3-3/), APS March Meeting in Chicago.
 
 Feb 2022:  I'm thrilled to accept the Simons Quantum Postdoctoral Fellowship! 

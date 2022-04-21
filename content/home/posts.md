@@ -67,11 +67,13 @@ subtitle = ""
 
 +++
 
+May 2022 - Jun 2022: I'm a long-term visitor of [Extended Reunion: The Quantum Wave in Computing Program](https://simons.berkeley.edu/programs/extended-reunion-quantum2022), [Simons Institute, Berkeley](https://simons.berkeley.edu/).
+
 Apr 2022: I successfully defended my Ph.D. dissertation!
 
 Mar 2022:  As a QISE-NET Triplet awardee, I'm invited to present at [QISE-NET Reception](https://qisenet.uchicago.edu/projects-3-3/), APS March Meeting in Chicago.
 
-Feb 2022:  I'm thrilled to accept the Simons Quantum Postdoctoral Fellowship! 
+Feb 2022:  I'm thrilled to accept the [Simons Quantum Postdoctoral Fellowship](https://simons.berkeley.edu/people/jin-peng-liu)! 
 
 Jan 2022:  I'm a session chair and an invited speaker at [Workshop on Quantum Numerical Linear Algebra](http://www.ipam.ucla.edu/programs/workshops/quantum-numerical-linear-algebra/?tab=overview), [Institute for Pure and Applied Mathematics, UCLA](http://www.ipam.ucla.edu/).
 

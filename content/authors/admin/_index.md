@@ -75,7 +75,7 @@ user_groups:
 
 My name is Jin-Peng Liu (刘锦鹏). I am a fifth-year Ph.D. candidate of [AMSC](https://amsc.umd.edu/) program at University of Maryland, advised by [Andrew Childs](http://www.cs.umd.edu/~amchilds/). I received [NSF QISE-NET Triplet Award](https://qisenet.uchicago.edu/overview/) in 2021. Prior to that, I received my B.S. degree in Chinese Academy of Sciences Hua Loo Keng Class at Beihang University in 2017, supervised by [Ya-xiang Yuan](http://lsec.cc.ac.cn/~yyx/).
 
-I am an incoming Simons Quantum Postdoctoral Fellow at Simons Institute, Berkeley in 2022 fall, hosted by [Umesh Vazirani](https://people.eecs.berkeley.edu/~vazirani/) and [Lin Lin](https://math.berkeley.edu/~linlin/).
+I am an incoming [Simons Quantum Postdoctoral Fellow](https://simons.berkeley.edu/people/jin-peng-liu) at Simons Institute and UC Berkeley in 2022 fall, hosted by [Umesh Vazirani](https://people.eecs.berkeley.edu/~vazirani/) and [Lin Lin](https://math.berkeley.edu/~linlin/).
 
 I focus mainly on the design and analysis of quantum algorithms for scientific computational problems, including topics such as linear and nonlinear differential equations, quantum dynamics, and stochastic processes, with applications in areas such as biology and epidemiology, fluid dynamics, quantum chemistry, finance, and machine learning. 
 

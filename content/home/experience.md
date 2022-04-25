@@ -23,10 +23,12 @@ date_format = "Jan 2006"
   company_url = ""
   location = "College Park, MD"
   date_start = "2017-09-01"
-  date_end = ""
+  date_end = "2022-05-20"
   description = """
 
-  * Jun 2021 - Aug 2021: applied scientist intern at Amazon Web Services
+  * May 2022 - Jun 2022: Long-term visitor at Simons Institute
+  * Jan 2022: Graduate School’s Outstanding Research Assistant Award
+  * Jun 2021 - Aug 2021: Applied scientist intern at Amazon Web Services
   * Feb 2021: NSF QISE-NET Triplet Award
   * Jan 2020 - May 2020: Long-term visitor at Simons Institute
   * Sep 2017: Dean's Fellowship of AMSC program

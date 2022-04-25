@@ -77,7 +77,7 @@ Feb 2022:  I'm thrilled to accept the [Simons Quantum Postdoctoral Fellowship](h
 
 Jan 2022:  I'm a session chair and an invited speaker at [Workshop on Quantum Numerical Linear Algebra](http://www.ipam.ucla.edu/programs/workshops/quantum-numerical-linear-algebra/?tab=overview), [Institute for Pure and Applied Mathematics, UCLA](http://www.ipam.ucla.edu/).
 
-Jan 2022:  I'm honored to receive the Graduate School’s Outstanding Research Assistant Award.
+Jan 2022:  I receive the Graduate School’s Outstanding Research Assistant Award.
 
 Dec 2021:  I'm invited to visit [Harvard Quantum Initiative](https://quantum.harvard.edu/) and give a talk at [HQI QuantumFest 2021](https://quantum.harvard.edu/files/quantum/files/quantumfest_2021.pdf).
 

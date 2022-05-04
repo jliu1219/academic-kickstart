@@ -66,6 +66,12 @@ subtitle = ""
  css_class = ""
 +++
 
+**Efficient quantum algorithm for nonlinear reaction-diffusion equations and energy estimation**
+
+Dong An, Di Fang,  Stephen Jordan, Jin-Peng Liu, Guang Hao Low and Jiasu Wang
+
+- [arXiv:2012.06283](https://arxiv.org/abs/2205.01141)
+
 **Quantum simulation of real-space dynamics**
 
 Andrew M. Childs, Jiaqi Leng, Tongyang Li, Jin-Peng Liu and Chenyi Zhang

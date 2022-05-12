@@ -70,7 +70,7 @@ subtitle = ""
 
 Dong An, Di Fang,  Stephen Jordan, Jin-Peng Liu, Guang Hao Low and Jiasu Wang
 
-- [arXiv:2012.06283](https://arxiv.org/abs/2205.01141)
+- [arXiv:2205.01141](https://arxiv.org/abs/2205.01141)
 
 **Quantum simulation of real-space dynamics**
 

@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Doctoral Student of Applied Mathematics
+role: Simons Quantum Postdoctoral Fellow
 
 # Organizations/Affiliations
 organizations:
-- name: University of Maryland
+- name: UC Berkeley
   url: ""
 
 # Short bio (displayed in user profile at end of posts)

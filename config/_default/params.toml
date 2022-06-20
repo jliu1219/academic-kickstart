@@ -86,11 +86,11 @@ phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = " Joint Center for Quantum Information and Computer Science, University of Maryland", city = "College Park", region = "MD", postcode = "20742", country = "United States", country_code = "US"}
+address = {street = " Simons Institute, University of California, Berkeley", city = "Berkeley", region = "CA", postcode = "94720", country = "United States", country_code = "US"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "38.9908885", longitude = "-76.9422847"}
+coordinates = {latitude = "37.87100", longitude = "-122.25400"}
 
 # Directions for visitors to locate you.
 directions = ""

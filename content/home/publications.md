@@ -100,6 +100,7 @@ Jin-Peng Liu, Herman Øie Kolden, Hari K. Krovi, Nuno F. Loureiro, Konstantina T
 Changpeng Shao and Jin-Peng Liu
 
 - [arXiv:2010.15027](http://arxiv.org/abs/2010.15027)
+- [Proceedings of the Royal Society A 478, 20210797  (2022)](https://royalsocietypublishing.org/doi/abs/10.1098/rspa.2021.0797)
 
 **High-precision quantum algorithms for partial differential equations**
 

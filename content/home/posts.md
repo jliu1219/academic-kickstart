@@ -67,6 +67,8 @@ subtitle = ""
 
 +++
 
+Jul 2022 - Aug 2022: I'm a long-term visitor of [The Center for Theoretical Physics, Massachusetts Institute of Technology](https://physics.mit.edu/research/labs-centers/center-for-theoretical-physics/).
+
 May 2022 - Jun 2022: I'm a long-term visitor of [Extended Reunion: The Quantum Wave in Computing Program](https://simons.berkeley.edu/programs/extended-reunion-quantum2022), [Simons Institute, Berkeley](https://simons.berkeley.edu/).
 
 May 2022: I obtained my Ph.D. degree!

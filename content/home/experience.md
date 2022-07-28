@@ -26,7 +26,8 @@ date_format = "Jan 2006"
   date_end = "2022-05-20"
   description = """
 
-  * May 2022 - Jun 2022: Long-term visitor at Simons Institute
+  * Jul 2022 - Aug 2022: Long-term visitor at Center for Theoretical Physics, MIT
+  * May 2022 - Jun 2022: Long-term visitor at Simons Institute, UC Berkeley
   * Jan 2022: Graduate School’s Outstanding Research Assistant Award
   * Jun 2021 - Aug 2021: Applied scientist intern at Amazon Web Services
   * Feb 2021: NSF QISE-NET Triplet Award

@@ -18,6 +18,21 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Simons Quantum Postdoctoral Fellow"
+  company = "Simons Institute for the Theory of Computing and University of California, Berkeley"
+  company_url = ""
+  location = "Berkeley, CA"
+  date_start = "2022-08-17"
+  date_end = "2023-08-15"
+  description = """
+
+  * Jul 2022 - Aug 2022: Long-term visitor at Center for Theoretical Physics, MIT
+
+  * May 2022 - Jun 2022: Long-term visitor at Simons Institute, UC Berkeley
+
+    """
+
+[[experience]]
   title = "Doctoral Student"
   company = "Applied Mathematics & Statistics, and Scientific Computation, University of Maryland"
   company_url = ""
@@ -26,8 +41,6 @@ date_format = "Jan 2006"
   date_end = "2022-05-20"
   description = """
 
-  * Jul 2022 - Aug 2022: Long-term visitor at Center for Theoretical Physics, MIT
-  * May 2022 - Jun 2022: Long-term visitor at Simons Institute, UC Berkeley
   * Jan 2022: Graduate School’s Outstanding Research Assistant Award
   * Jun 2021 - Aug 2021: Applied scientist intern at Amazon Web Services
   * Feb 2021: NSF QISE-NET Triplet Award

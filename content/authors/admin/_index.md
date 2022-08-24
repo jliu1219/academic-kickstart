@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Simons Quantum Postdoctoral Fellow
+role: Simons Postdoctoral Fellow
 
 # Organizations/Affiliations
 organizations:
@@ -73,7 +73,7 @@ user_groups:
 - Visitors
 ---
 
-My name is Jin-Peng Liu (刘锦鹏). I am an incoming [Simons Quantum Postdoctoral Fellow](https://simons.berkeley.edu/people/jin-peng-liu) at Simons Institute and UC Berkeley in 2022 fall, hosted by [Umesh Vazirani](https://people.eecs.berkeley.edu/~vazirani/) and [Lin Lin](https://math.berkeley.edu/~linlin/).
+My name is Jin-Peng Liu (刘锦鹏). I am a [Simons Quantum Postdoctoral Fellow](https://simons.berkeley.edu/people/jin-peng-liu) at Simons Institute and UC Berkeley, hosted by [Umesh Vazirani](https://people.eecs.berkeley.edu/~vazirani/) and [Lin Lin](https://math.berkeley.edu/~linlin/).
 
 I received my Ph.D. degree in [AMSC](https://amsc.umd.edu/) program at University of Maryland in 2022, advised by [Andrew Childs](http://www.cs.umd.edu/~amchilds/). I received [NSF QISE-NET Triplet Award](https://qisenet.uchicago.edu/overview/) in 2021. Prior to that, I received my B.S. degree in Chinese Academy of Sciences Hua Loo Keng Class at Beihang University in 2017, supervised by [Ya-xiang Yuan](http://lsec.cc.ac.cn/~yyx/).
 

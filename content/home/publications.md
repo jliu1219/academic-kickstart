@@ -11,6 +11,7 @@ title = "Publications"
 subtitle = ""
 
 [content]
+
   # Page type to display. E.g. post, talk, or publication.
   page_type = "publication"
 
@@ -66,7 +67,7 @@ subtitle = ""
  css_class = ""
 +++
 
-**Quantum algorithm for sampling log-concave distributions and estimating normalizing constants**
+**Quantum algorithms for sampling log-concave distributions and estimating normalizing constants**
 
 Andrew M. Childs, Tongyang Li, Jin-Peng Liu, Chunhao Wang, and Ruizhe Zhang
 

@@ -66,21 +66,27 @@ subtitle = ""
  css_class = ""
 +++
 
+**Quantum algorithm for sampling log-concave distributions and estimating normalizing constants**
+
+Andrew M. Childs, Tongyang Li, Jin-Peng Liu, Chunhao Wang, and Ruizhe Zhang
+
+- To appear in [NeurIPS 2022](https://nips.cc/)
+
 **Efficient quantum algorithm for nonlinear reaction-diffusion equations and energy estimation**
 
-Dong An, Di Fang,  Stephen Jordan, Jin-Peng Liu, Guang Hao Low and Jiasu Wang
+Dong An, Di Fang,  Stephen Jordan, Jin-Peng Liu, Guang Hao Low, and Jiasu Wang
 
 - [arXiv:2205.01141](https://arxiv.org/abs/2205.01141)
 
 **Quantum simulation of real-space dynamics**
 
-Andrew M. Childs, Jiaqi Leng, Tongyang Li, Jin-Peng Liu and Chenyi Zhang
+Andrew M. Childs, Jiaqi Leng, Tongyang Li, Jin-Peng Liu, and Chenyi Zhang
 
 - [arXiv:2203.17006](https://arxiv.org/abs/2203.17006)
 
 **Quantum-accelerated multilevel Monte Carlo methods for stochastic differential equations in mathematical finance**
 
-Dong An, Noah Linden, Jin-Peng Liu, Ashley Montanaro, Changpeng Shao and Jiasu Wang
+Dong An, Noah Linden, Jin-Peng Liu, Ashley Montanaro, Changpeng Shao, and Jiasu Wang
 
 - [arXiv:2012.06283](http://arxiv.org/abs/2012.06283)
 - [Quantum 5, 481 (2021)](https://quantum-journal.org/papers/q-2021-06-24-481/)
@@ -88,7 +94,7 @@ Dong An, Noah Linden, Jin-Peng Liu, Ashley Montanaro, Changpeng Shao and Jiasu W
 
 **Efficient quantum algorithm for dissipative nonlinear differential equations**
 
-Jin-Peng Liu, Herman Øie Kolden, Hari K. Krovi, Nuno F. Loureiro, Konstantina Trivisa and Andrew M. Childs
+Jin-Peng Liu, Herman Øie Kolden, Hari K. Krovi, Nuno F. Loureiro, Konstantina Trivisa, and Andrew M. Childs
 
 - [arXiv:2011.03185](http://arxiv.org/abs/2011.03185)
 - Front-page Coverage in Quanta Magazine: [New Quantum Algorithms Finally Crack Nonlinear Equations](https://www.quantamagazine.org/new-quantum-algorithms-finally-crack-nonlinear-equations-20210105/)

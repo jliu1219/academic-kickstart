@@ -71,7 +71,7 @@ subtitle = ""
 
 Andrew M. Childs, Tongyang Li, Jin-Peng Liu, Chunhao Wang, and Ruizhe Zhang
 
-- To appear in [NeurIPS 2022](https://nips.cc/)
+- To appear in [the 36th Conference on Neural Information Processing Systems (NeurIPS 2022)](https://nips.cc/)
 
 **Efficient quantum algorithm for nonlinear reaction-diffusion equations and energy estimation**
 

@@ -67,6 +67,12 @@ subtitle = ""
  css_class = ""
 +++
 
+**A theory of quantum differential equation solvers: limitations and fast-forwarding**
+
+Dong An, Jin-Peng Liu, Daochen Wang, and Qi Zhao
+
+- [arXiv:2211.05246](https://arxiv.org/abs/2211.05246)
+
 **Quantum algorithms for sampling log-concave distributions and estimating normalizing constants**
 
 Andrew M. Childs, Tongyang Li, Jin-Peng Liu, Chunhao Wang, and Ruizhe Zhang

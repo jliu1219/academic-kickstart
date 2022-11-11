@@ -69,10 +69,17 @@ subtitle = ""
 
 +++
 
+**Quantum algorithms for sampling log-concave distributions and estimating normalizing constants**
+
+- Dec 2022: The 36th Conference on Neural Information Processing Systems (NeurIPS 22), Poster, New Orleans
+- Nov 2022: Theory of Computation Group Seminar, Department of Computer Science, Columbia University
+- Sep 2022: Quantum Gathering, NSF Challenge Institute for Quantum Computation, University of California, Berkeley
+
 **Efficient quantum algorithms for nonlinear ODEs and PDEs**
 
-- Aug 2022: Quantum Information Seminar, Rhodes Information Initiative, Duke University.
-- Jul 2022: QI Group Meeting, Center for Theoretical Physics, Massachusetts Institute of Technology.
+- Nov 2022: Applied Mathematics Colloquium, Department of Applied Physics and Applied Mathematics, Columbia University
+- Aug 2022: Quantum Information Seminar, Rhodes Information Initiative, Duke University
+- Jul 2022: QI Group Meeting, Center for Theoretical Physics, Massachusetts Institute of Technology
 - Jan 2022: Workshop on Quantum Numerical Linear Algebra, Institute for Pure and Applied Mathematics, University of California, Los Angeles
 
 **Quantum algorithms for linear and nonlinear differential equations**
@@ -88,7 +95,7 @@ subtitle = ""
 
 **Efficient quantum algorithm for dissipative nonlinear differential equations**
 
-- Dec 2021: QuantumFest 2021, Harvard Quantum Initiative.
+- Dec 2021: QuantumFest 2021, Harvard Quantum Initiative
 - Nov 2021: Annual Meeting of the Division of Fluid Dynamics 2021 (APS DFD 21), Phoenix
 - May 2021: Quantum Lunch Seminar, Los Alamos National Lab
 - Apr 2021:  Quantum Theory Meeting, Amazon Web Services Center for Quantum Computing

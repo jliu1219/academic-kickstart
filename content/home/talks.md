@@ -72,7 +72,7 @@ subtitle = ""
 **Quantum algorithms for sampling log-concave distributions and estimating normalizing constants**
 
 - (Upcoming) Dec 2022: The 36th Conference on Neural Information Processing Systems (NeurIPS 22), Poster, New Orleans 
-- Nov 2022: Theory of Computation Group Quantum Seminar, Department of Computer Science, Columbia University
+- Nov 2022: Theory of Computation Group Seminar, Department of Computer Science, Columbia University
 - Sep 2022: Quantum Gathering, NSF Challenge Institute for Quantum Computation, University of California, Berkeley
 
 **Efficient quantum algorithms for nonlinear ODEs and PDEs**

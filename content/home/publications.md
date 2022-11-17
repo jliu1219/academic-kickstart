@@ -91,7 +91,7 @@ Dong An, Di Fang,  Stephen Jordan, Jin-Peng Liu, Guang Hao Low, and Jiasu Wang
 Andrew M. Childs, Jiaqi Leng, Tongyang Li, Jin-Peng Liu, and Chenyi Zhang
 
 - [arXiv:2203.17006](https://arxiv.org/abs/2203.17006)
-- To appear in [Quantum](https://quantum-journal.org/)
+- [Quantum 6, 860 (2022)](https://quantum-journal.org/papers/q-2022-11-17-860/)
 
 **Quantum-accelerated multilevel Monte Carlo methods for stochastic differential equations in mathematical finance**
 

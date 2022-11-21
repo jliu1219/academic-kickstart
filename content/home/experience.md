@@ -57,7 +57,7 @@ date_format = "Jan 2006"
   date_end = "2017-06-17"
   description = """
 
-  * Jun 2017: Representative of Beihang Graduation Ceremony
+  * Jun 2017: Representative of Beihang Graduation Ceremony  (rank: 1/3987)
   * Nov 2016: Shenyuan Golden Medal (rank: 10/3987)
   * Dec 2015: Outstanding Student of the Year (rank: 10/3987)
   * Nov 2015: Mathematics Star Award (rank: 1/115)

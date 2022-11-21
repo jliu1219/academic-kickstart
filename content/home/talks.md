@@ -72,21 +72,21 @@ subtitle = ""
 **Quantum algorithms for sampling log-concave distributions and estimating normalizing constants**
 
 - (Upcoming) Dec 2022: The 36th Conference on Neural Information Processing Systems (NeurIPS 22), Poster, New Orleans 
-- Nov 2022: Theory of Computation Group Seminar, Department of Computer Science, Columbia University
+- Nov 2022: Theory of Computation Group Seminar, Department of Computer Science, Columbia University, New York
 - Sep 2022: Quantum Gathering, NSF Challenge Institute for Quantum Computation, University of California, Berkeley
 
 **Efficient quantum algorithms for nonlinear ODEs and PDEs**
 
-- (Upcoming) Nov 2022: Applied Mathematics Colloquium, Department of Applied Physics and Applied Mathematics, Columbia University
-- Aug 2022: Quantum Information Seminar, Rhodes Information Initiative, Duke University
-- Jul 2022: QI Group Meeting, Center for Theoretical Physics, Massachusetts Institute of Technology
+- (Upcoming) Nov 2022: Applied Mathematics Colloquium, Department of Applied Physics and Applied Mathematics, Columbia University, New York
+- Aug 2022: Quantum Information Seminar, Rhodes Information Initiative, Duke University, Durham
+- Jul 2022: QI Group Meeting, Center for Theoretical Physics, Massachusetts Institute of Technology, Cambridge
 - Jan 2022: Workshop on Quantum Numerical Linear Algebra, Institute for Pure and Applied Mathematics, University of California, Los Angeles
 
 **Quantum algorithms for linear and nonlinear differential equations**
 
-- Dec 2021: Perimeter Institute Quantum Discussions
-- Apr 2021: R&D Engineering Group, Goldman Sachs
-- Apr 2021: Department of Mathematics, University of Utah
+- Dec 2021: Perimeter Institute Quantum Discussions, Waterloo
+- Apr 2021: R&D Engineering Group, Goldman Sachs, New York
+- Apr 2021: Department of Mathematics, University of Utah, Salt Lake City
 
 **Quantum-accelerated multilevel Monte Carlo methods for stochastic differential equations in mathematical finance**
 
@@ -95,10 +95,10 @@ subtitle = ""
 
 **Efficient quantum algorithm for dissipative nonlinear differential equations**
 
-- Dec 2021: QuantumFest 2021, Harvard Quantum Initiative
+- Dec 2021: QuantumFest 2021, Harvard Quantum Initiative, Cambridge
 - Nov 2021: Annual Meeting of the Division of Fluid Dynamics 2021 (APS DFD 21), Phoenix
-- May 2021: Quantum Lunch Seminar, Los Alamos National Lab
-- Apr 2021:  Quantum Theory Meeting, Amazon Web Services Center for Quantum Computing
+- May 2021: Quantum Lunch Seminar, Los Alamos National Lab, New Mexico
+- Apr 2021:  Quantum Theory Meeting, Amazon Web Services Center for Quantum Computing, Pasadena
 - Apr 2021: IQC-QuICS Math and Computer Science Seminar, College Park
 - Mar 2021: SIAM Conference on Computational Science and Engineering 2021 (SIAM CSE 21), Fort Worth
 - Dec 2020: AMSS-UTS Joint Workshop on Quantum Computing, Chinese Academy of Sciences, Beijing

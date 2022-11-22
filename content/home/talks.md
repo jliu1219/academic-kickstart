@@ -77,7 +77,7 @@ subtitle = ""
 
 **Efficient quantum algorithms for nonlinear ODEs and PDEs**
 
-- (Upcoming) Nov 2022: Applied Mathematics Colloquium, Department of Applied Physics and Applied Mathematics, Columbia University, New York
+- Nov 2022: Applied Mathematics Colloquium, Department of Applied Physics and Applied Mathematics, Columbia University, New York
 - Aug 2022: Quantum Information Seminar, Rhodes Information Initiative, Duke University, Durham
 - Jul 2022: QI Group Meeting, Center for Theoretical Physics, Massachusetts Institute of Technology, Cambridge
 - Jan 2022: Workshop on Quantum Numerical Linear Algebra, Institute for Pure and Applied Mathematics, University of California, Los Angeles

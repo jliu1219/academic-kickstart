@@ -78,8 +78,8 @@ Dong An, Jin-Peng Liu, Daochen Wang, and Qi Zhao
 Andrew M. Childs, Tongyang Li, Jin-Peng Liu, Chunhao Wang, and Ruizhe Zhang
 
 - [arXiv:2210.06539](https://arxiv.org/abs/2210.06539)
-- To appear in [the 36th Conference on Neural Information Processing Systems (NeurIPS 2022)](https://nips.cc/)
-- To appear in [the 26th Conference on Quantum Information Processing (QIP 2023)](https://indico.cern.ch/event/1175020/).
+- To appear in [the 36th Conference on Neural Information Processing Systems (NeurIPS 2022)](https://nips.cc/) as a poster presentation
+- To appear in [the 26th Conference on Quantum Information Processing (QIP 2023)](https://indico.cern.ch/event/1175020/) as a contributed talk
 
 **Efficient quantum algorithm for nonlinear reaction-diffusion equations and energy estimation**
 

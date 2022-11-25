@@ -71,8 +71,8 @@ subtitle = ""
 
 **Quantum algorithms for sampling log-concave distributions and estimating normalizing constants**
 
-- (Upcoming) Feb 2023: The 26th Conference on Quantum Information Processing (QIP 2023), Ghent, Belgium
-- (Upcoming) Dec 2022: The 36th Conference on Neural Information Processing Systems (NeurIPS 22), Poster, New Orleans 
+- (Upcoming) Feb 2023: The 26th Conference on Quantum Information Processing (QIP 2023), contributed talk, Ghent, Belgium
+- (Upcoming) Dec 2022: The 36th Conference on Neural Information Processing Systems (NeurIPS 22), poster, New Orleans 
 - Nov 2022: Theory of Computation Group Seminar, Department of Computer Science, Columbia University, New York
 - Sep 2022: Quantum Gathering, NSF Challenge Institute for Quantum Computation, University of California, Berkeley
 
@@ -91,7 +91,7 @@ subtitle = ""
 
 **Quantum-accelerated multilevel Monte Carlo methods for stochastic differential equations in mathematical finance**
 
-- Jul 2021: Conference on the Theory of Quantum Computation, Communication and Cryptography 2021 (TQC 21), Riga, Latvia
+- Jul 2021: Conference on the Theory of Quantum Computation, Communication and Cryptography 2021 (TQC 21), contributed talk, Riga, Latvia
 - Mar 2021: Sayas Numerics Seminar, College Park
 
 **Efficient quantum algorithm for dissipative nonlinear differential equations**

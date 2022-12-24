@@ -22,8 +22,9 @@ bio: My research aims to develop quantum algorithms with sup-polynomial speed-up
 
 interests:
 - Quantum Computing
+- Quantum Information
 - Quantum Algorithms
-- Numerical Analysis
+- Quantum Machine Learning
 
 education:
   courses:

@@ -80,4 +80,7 @@ I received my Ph.D. degree in [AMSC](https://amsc.umd.edu/) program at Universit
 
 I focus mainly on the design and analysis of quantum algorithms for scientific computational problems, including topics such as linear and nonlinear differential equations, quantum dynamics, and stochastic processes, with applications in areas such as biology and epidemiology, fluid dynamics, quantum chemistry, finance, optimization, and machine learning. 
 
+Publications in journals: [PNAS](https://doi.org/10.1073/pnas.2026805118), [CMP](https://link.springer.com/article/10.1007/s00220-020-03699-z), [Proc. R. Soc. A](https://royalsocietypublishing.org/doi/abs/10.1098/rspa.2021.0797), [Quantum](https://quantum-journal.org/papers/q-2021-11-10-574/), and conferences: [NeurIPS](https://nips.cc/), [QIP](https://indico.cern.ch/event/1175020/), [TQC](https://tqc2021.lu.lv/).
+
 Media highlights: [first-page coverage](https://www.quantamagazine.org/new-quantum-algorithms-finally-crack-nonlinear-equations-20210105/) and [annual review](https://www.quantamagazine.org/the-year-in-math-and-computer-science-20211223/) in Quanta Magazine.
+

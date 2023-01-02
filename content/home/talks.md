@@ -72,7 +72,7 @@ subtitle = ""
 **Quantum algorithms for sampling log-concave distributions and estimating normalizing constants**
 
 - (Upcoming) Feb 2023: Conference on Quantum Information Processing 2023 (QIP 2023), contributed talk, Ghent, Belgium
-- Dec 2022: Conference on Neural Information Processing Systems 2022 (NeurIPS 22), poster, New Orleans 
+- Dec 2022: Conference on Neural Information Processing Systems 2022 (NeurIPS 22), New Orleans 
 - Nov 2022: Theory of Computation Group Seminar, Department of Computer Science, Columbia University, New York
 - Sep 2022: Quantum Gathering, NSF Challenge Institute for Quantum Computation, University of California, Berkeley
 

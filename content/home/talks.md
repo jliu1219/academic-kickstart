@@ -71,14 +71,16 @@ subtitle = ""
 
 **Quantum algorithms for sampling log-concave distributions and estimating normalizing constants**
 
-- (Upcoming) Feb 2023: The 26th Conference on Quantum Information Processing (QIP 2023), contributed talk, Ghent, Belgium
-- Dec 2022: The 36th Conference on Neural Information Processing Systems (NeurIPS 22), poster, New Orleans 
+- (Upcoming) Feb 2023: Conference on Quantum Information Processing 2023 (QIP 2023), contributed talk, Ghent, Belgium
+- Dec 2022: Conference on Neural Information Processing Systems 2022 (NeurIPS 22), poster, New Orleans 
 - Nov 2022: Theory of Computation Group Seminar, Department of Computer Science, Columbia University, New York
 - Sep 2022: Quantum Gathering, NSF Challenge Institute for Quantum Computation, University of California, Berkeley
 
 **Efficient quantum algorithms for nonlinear ODEs and PDEs**
 
-- Dec 2022: PME Quantum Seminar, University of Chicago
+- (Upcoming) Mar 2023: Applied Mathematics and Computational Science Colloquium, Graduate Group, University of Pennsylvania
+- (Upcoming) Mar 2023: Computational and Applied Mathematics Colloquium, Department of Mathematics, Pennsylvania State University
+- Dec 2022: Quantum Seminar, Pritzker School of Molecular Engineering, University of Chicago
 - Nov 2022: Applied Mathematics Colloquium, Department of Applied Physics and Applied Mathematics, Columbia University, New York
 - Aug 2022: Quantum Information Seminar, Rhodes Information Initiative, Duke University, Durham
 - Jul 2022: QI Group Meeting, Center for Theoretical Physics, Massachusetts Institute of Technology, Cambridge

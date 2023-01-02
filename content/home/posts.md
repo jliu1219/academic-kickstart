@@ -102,9 +102,3 @@ Jan 2021: Our paper [Efficient quantum algorithm for dissipative nonlinear diffe
 Jan 2020 - May 2020: I'm a long-term visitor of [The Quantum Wave in Computing Program](https://simons.berkeley.edu/programs/quantum2020), [Simons Institute, Berkeley](https://simons.berkeley.edu/).
 
 Feb 2020: Our paper [Quantum spectral methods for differential equations](https://arxiv.org/abs/1901.00961) is published in [Communications in Mathematical Physics](https://link.springer.com/article/10.1007/s00220-020-03699-z).
-
-Dec 2019: I'm invited to visit [Lawrence Berkeley National Laboratory](https://www.lbl.gov/).
-
-Nov 2019: Our paper [New stepsizes for the gradient method](https://link.springer.com/article/10.1007/s11590-019-01512-y) is published in [Optimization Letters](https://link.springer.com/article/10.1007/s11590-019-01512-y).
-
-Jun 2019: I'm invited to visit [Academy of Mathematics and Systems Science, Chinese Academy of Sciences](http://english.amss.cas.cn/).

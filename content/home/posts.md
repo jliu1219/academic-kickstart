@@ -67,7 +67,7 @@ subtitle = ""
 
 +++
 
-Nov 2022: Our paper [Quantum algorithms for sampling log-concave distributions and estimating normalizing constants](https://arxiv.org/abs/2210.06539) is accepted by [NeurIPS 2022](https://nips.cc/) and [QIP 2023](https://indico.cern.ch/event/1175020/).
+Nov 2022: Our paper [Quantum algorithms for sampling log-concave distributions and estimating normalizing constants](https://arxiv.org/abs/2210.06539) is accepted by [NeurIPS 2022](https://openreview.net/forum?id=zofwPmKL-DO) and [QIP 2023](https://indico.cern.ch/event/1175020/page/27680-accepted-talks).
 
 Jul 2022 - Aug 2022: I'm a long-term visitor of [The Center for Theoretical Physics, Massachusetts Institute of Technology](https://physics.mit.edu/research/labs-centers/center-for-theoretical-physics/).
 

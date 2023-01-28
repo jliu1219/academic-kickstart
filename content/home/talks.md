@@ -85,9 +85,6 @@ subtitle = ""
 
 **Efficient quantum algorithms for nonlinear ODEs and PDEs**
 
-- *(Upcoming)* Mar 2023: Applied Mathematics and Computational Science Colloquium, AMCS Graduate Group, University of Pennsylvania
-- *(Upcoming)* Mar 2023: Computational and Applied Mathematics Colloquium, Department of Mathematics, Pennsylvania State University
-- *(Upcoming)* Feb 2023: Applied Mathematics Seminar, Department of Mathematics, Stanford University
 - Dec 2022: Quantum Seminar, Pritzker School of Molecular Engineering, University of Chicago
 - Nov 2022: Applied Mathematics Colloquium, Department of Applied Physics and Applied Mathematics, Columbia University, New York
 - Aug 2022: Quantum Information Seminar, Rhodes Information Initiative, Duke University, Durham

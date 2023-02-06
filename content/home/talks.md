@@ -74,7 +74,7 @@ subtitle = ""
 - *(Upcoming)* Mar 2023: Applied Mathematics and Computational Science Colloquium, AMCS Graduate Group, University of Pennsylvania
 - *(Upcoming)* Mar 2023: Computational and Applied Mathematics Colloquium, Department of Mathematics, Pennsylvania State University
 - *(Upcoming)* Feb 2023: Applied Mathematics Seminar, Department of Mathematics, Stanford University
-- *(Upcoming)* Feb 2023: Applied Mathematics Seminar, Department of Mathematics, University of California, Berkeley
+- Feb 2023: Applied Mathematics Seminar, Department of Mathematics, University of California, Berkeley
 
 **Quantum algorithms for sampling log-concave distributions and estimating normalizing constants**
 

@@ -72,7 +72,7 @@ subtitle = ""
 **Towards provably efficient quantum algorithms for nonlinear dynamics and large-scale machine learning models**
 
 - *(Upcoming)* Mar 2023: Joint Center for Quantum Information and Computer Science Seminar, University of Maryland
-- *(Upcoming)* Mar 2023: Quantum Seminar, Global Technology Applied Research center, JPMorgan Chase & Co.
+- *(Upcoming)* Mar 2023: Quantum Seminar, Global Technology Applied Research Center, J. P. Morgan Chase & Co.
 - *(Upcoming)* Mar 2023: Applied Mathematics and Computational Science Colloquium, AMCS Graduate Group, University of Pennsylvania
 - *(Upcoming)* Mar 2023: Computational and Applied Mathematics Colloquium, Department of Mathematics, Pennsylvania State University
 - Feb 2023: Applied Mathematics Seminar, Department of Mathematics, Stanford University

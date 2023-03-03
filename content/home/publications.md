@@ -67,6 +67,12 @@ subtitle = ""
  css_class = ""
 +++
 
+**Linear combination of Hamiltonian simulation for non-unitary dynamics with optimal state preparation cost**
+
+Dong An, Jin-Peng Liu, and Lin Lin
+
+- [arXiv:2303.01029](https://arxiv.org/abs/2303.01029)
+
 **A theory of quantum differential equation solvers: limitations and fast-forwarding**
 
 Dong An, Jin-Peng Liu, Daochen Wang, and Qi Zhao

@@ -67,6 +67,12 @@ subtitle = ""
  css_class = ""
 +++
 
+**Towards provably efficient quantum algorithms for large-scale machine learning models**
+
+Junyu Liu, Mingzhao Liu, Jin-Peng Liu, Ziyu Ye, Han Zheng, Yuri Alexee, Jens Eisert, and Liang Jiang
+
+- [arXiv:2303.03428](https://arxiv.org/abs/2303.03428)
+
 **Linear combination of Hamiltonian simulation for non-unitary dynamics with optimal state preparation cost**
 
 Dong An, Jin-Peng Liu, and Lin Lin

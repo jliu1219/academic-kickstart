@@ -76,11 +76,13 @@ user_groups:
 
 My name is Jin-Peng Liu (刘锦鹏). I am a [Simons Quantum Postdoctoral Fellow](https://simons.berkeley.edu/people/jin-peng-liu) at Simons Institute and UC Berkeley, hosted by [Umesh Vazirani](https://people.eecs.berkeley.edu/~vazirani/) and [Lin Lin](https://math.berkeley.edu/~linlin/). In Fall of 2023, I will be a postdoctoral associate at the Center for Theoretical Physics, Massachusetts Institute of Technology, mainly hosted by [Aram Harrow](http://www.mit.edu/~aram/).
 
-I received my Ph.D. degree in [AMSC](https://amsc.umd.edu/) program at University of Maryland in 2022, advised by [Andrew Childs](http://www.cs.umd.edu/~amchilds/). I received [NSF QISE-NET Triplet Award](https://qisenet.uchicago.edu/overview/) in 2021. Prior to that, I received my B.S. degree in Chinese Academy of Sciences Hua Loo Keng Class at Beihang University in 2017, supervised by [Ya-xiang Yuan](http://lsec.cc.ac.cn/~yyx/).
+I received my Ph.D. degree in [AMSC](https://amsc.umd.edu/) program at University of Maryland in 2022, advised by [Andrew Childs](http://www.cs.umd.edu/~amchilds/). Prior to that, I received my B.S. degree in Chinese Academy of Sciences Hua Loo Keng Class at Beihang University in 2017, supervised by [Ya-xiang Yuan](http://lsec.cc.ac.cn/~yyx/).
 
 My research focuses on *Quantum for Science*. I attempt to develop, analyze, and optimize *provably efficient* quantum algorithms for computational challenges in natural and data sciences, including quantum simulations, quantum ODE/PDE solvers, q-sampling, and quantum gradient descent, toward end-to-end applications in areas such as quantum chemistry, biology and epidemiology, fluid dynamics, finance, statistics, optimization, and machine learning.
 
 Publications in journals: [PNAS](https://doi.org/10.1073/pnas.2026805118), [CMP](https://link.springer.com/article/10.1007/s00220-020-03699-z), [Proc. R. Soc. A](https://royalsocietypublishing.org/doi/abs/10.1098/rspa.2021.0797), [Quantum](https://quantum-journal.org/papers/q-2021-11-10-574/), and conferences: [NeurIPS](https://openreview.net/forum?id=zofwPmKL-DO), [QIP](https://indico.cern.ch/event/1175020/page/27680-accepted-talks), [TQC](https://quantum-journal.org/papers/q-2021-06-24-481/).
 
 Media highlights: [first-page coverage](https://www.quantamagazine.org/new-quantum-algorithms-finally-crack-nonlinear-equations-20210105/) and [annual review](https://www.quantamagazine.org/the-year-in-math-and-computer-science-20211223/) in Quanta Magazine.
+
+Grants/Awards: [NSF Robust Quantum Simulation](https://rqs.umd.edu/) Seed Grant (CO-PI), [NSF QISE-NET Triplet Award](https://qisenet.uchicago.edu/overview/).
 

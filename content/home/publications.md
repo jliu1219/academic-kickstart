@@ -69,7 +69,7 @@ subtitle = ""
 
 **Towards provably efficient quantum algorithms for large-scale machine learning models**
 
-Junyu Liu, Mingzhao Liu, Jin-Peng Liu, Ziyu Ye, Yuri Alexee, Jens Eisert, and Liang Jiang
+Junyu Liu, Minzhao Liu, Jin-Peng Liu, Ziyu Ye, Yuri Alexee, Jens Eisert, and Liang Jiang
 
 - [arXiv:2303.03428](https://arxiv.org/abs/2303.03428)
 

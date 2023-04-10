@@ -69,11 +69,13 @@ subtitle = ""
 
 Sep 2023 - Dec 2023:  I'm a long-term participant and an invited speaker at [Program on Mathematical and Computational Challenges in Quantum Computing](https://www.ipam.ucla.edu/programs/long-programs/mathematical-and-computational-challenges-in-quantum-computing/), [Institute for Pure and Applied Mathematics, UCLA](http://www.ipam.ucla.edu/).
 
+Apr 2023 - May 2023: I'm a long-term visitor of [Center for Theoretical Physics, Massachusetts Institute of Technology](https://physics.mit.edu/research/labs-centers/center-for-theoretical-physics/).
+
 Mar 2023: I become a CO-PI of [NSF Robust Quantum Simulation](https://rqs.umd.edu/) Seed Grant: End-to-end applications of quantum linear system and differential equation algorithms.
 
 Nov 2022: Our paper [Quantum algorithms for sampling log-concave distributions and estimating normalizing constants](https://arxiv.org/abs/2210.06539) is accepted by [NeurIPS 2022](https://openreview.net/forum?id=zofwPmKL-DO) and [QIP 2023](https://indico.cern.ch/event/1175020/page/27680-accepted-talks).
 
-Jul 2022 - Aug 2022: I'm a long-term visitor of [The Center for Theoretical Physics, Massachusetts Institute of Technology](https://physics.mit.edu/research/labs-centers/center-for-theoretical-physics/).
+Jul 2022 - Aug 2022: I'm a long-term visitor of [Center for Theoretical Physics, Massachusetts Institute of Technology](https://physics.mit.edu/research/labs-centers/center-for-theoretical-physics/).
 
 May 2022 - Jun 2022: I'm a long-term visitor of [Extended Reunion: The Quantum Wave in Computing Program](https://simons.berkeley.edu/programs/extended-reunion-quantum2022), [Simons Institute, Berkeley](https://simons.berkeley.edu/).
 
@@ -83,7 +85,7 @@ Apr 2022: I successfully defended my Ph.D. dissertation!
 
 Mar 2022:  As a QISE-NET Triplet awardee, I'm invited to present at [QISE-NET Reception](https://qisenet.uchicago.edu/projects-3-3/), APS March Meeting in Chicago.
 
-Feb 2022:  I'm thrilled to accept the [Simons Quantum Postdoctoral Fellowship](https://simons.berkeley.edu/people/jin-peng-liu)!
+Feb 2022:  I'm thrilled to accept the [Simons Quantum Postdoctoral Fellowship](https://simons.berkeley.edu/people/jin-peng-liu) at [Simons Institute, Berkeley](https://simons.berkeley.edu/) and defer the postdoctoral position at [Center for Theoretical Physics, Massachusetts Institute of Technology](https://physics.mit.edu/research/labs-centers/center-for-theoretical-physics/)!
 
 Jan 2022:  I'm a session chair and an invited speaker at [Workshop on Quantum Numerical Linear Algebra](http://www.ipam.ucla.edu/programs/workshops/quantum-numerical-linear-algebra/?tab=overview), [Institute for Pure and Applied Mathematics, UCLA](http://www.ipam.ucla.edu/).
 

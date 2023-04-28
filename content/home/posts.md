@@ -69,6 +69,8 @@ subtitle = ""
 
 Sep 2023 - Dec 2023:  I'm a long-term participant and an invited speaker at [Program on Mathematical and Computational Challenges in Quantum Computing](https://www.ipam.ucla.edu/programs/long-programs/mathematical-and-computational-challenges-in-quantum-computing/), [Institute for Pure and Applied Mathematics, UCLA](http://www.ipam.ucla.edu/).
 
+May 2023: I'm a session chair and a speaker at [SIAM OP 23](https://www.siam.org/conferences/cm/conference/op23).
+
 Apr 2023 - May 2023: I'm a long-term visitor of [Center for Theoretical Physics, Massachusetts Institute of Technology](https://physics.mit.edu/research/labs-centers/center-for-theoretical-physics/).
 
 Mar 2023: I become a CO-PI of [NSF Robust Quantum Simulation](https://rqs.umd.edu/) Seed Grant: End-to-end applications of quantum linear system and differential equation algorithms.

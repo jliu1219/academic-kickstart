@@ -71,7 +71,7 @@ Sep 2023 - Dec 2023:  I'm a long-term participant and an invited speaker at [Pro
 
 May 2023: I'm a session chair and a speaker at [SIAM OP 23](https://www.siam.org/conferences/cm/conference/op23).
 
-May 2023: I'm an editor of [Quantum](https://quantum-journal.org/).
+May 2023: I become an editor of [Quantum](https://quantum-journal.org/).
 
 Apr 2023 - May 2023: I'm a long-term visitor of [Center for Theoretical Physics, Massachusetts Institute of Technology](https://physics.mit.edu/research/labs-centers/center-for-theoretical-physics/).
 

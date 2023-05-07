@@ -26,6 +26,8 @@ date_format = "Jan 2006"
   date_end = "2023-08-15"
   description = """
 
+  * May 2023: Editor of Quantum.
+
   * Apr 2023 - May 2023: Long-term visitor at Center for Theoretical Physics, MIT
 
   * Mar 2023: NSF Robust Quantum Simulation Seed Grant (CO-PI)

@@ -69,6 +69,10 @@ subtitle = ""
 
 +++
 
+**Efficient quantum algorithms for regularized optimization**
+
+- May 2023: SIAM Conference on Optimization 2023 (SIAM OP 23), Seattle
+
 **Towards provably efficient quantum algorithms for nonlinear dynamics and large-scale machine learning models**
 
 - Apr 2023: QI Group Meeting, Center for Theoretical Physics, Massachusetts Institute of Technology, Cambridge

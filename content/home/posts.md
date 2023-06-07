@@ -71,6 +71,8 @@ Sep 2023 - Dec 2023:  I'm a long-term participant and an invited speaker at [Pro
 
 May 2023: I'm a session chair and a speaker at [SIAM OP 23](https://www.siam.org/conferences/cm/conference/op23).
 
+May 2023: I receive the James C. Alexander Prize for Graduate Research in Mathematics.
+
 May 2023: I serve as an editor of [Quantum](https://quantum-journal.org/).
 
 Mar 2023: I become a CO-PI of [NSF Robust Quantum Simulation](https://rqs.umd.edu/) Seed Grant: End-to-end applications of quantum linear system and differential equation algorithms.

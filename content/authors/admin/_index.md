@@ -86,5 +86,5 @@ Publications in journals: [PNAS](https://doi.org/10.1073/pnas.2026805118), [CMP]
 
 Media highlights: [first-page coverage](https://www.quantamagazine.org/new-quantum-algorithms-finally-crack-nonlinear-equations-20210105/) and [annual review](https://www.quantamagazine.org/the-year-in-math-and-computer-science-20211223/) in Quanta Magazine.
 
-Grants/Awards: [NSF Robust Quantum Simulation](https://rqs.umd.edu/) Seed Grant (CO-PI), [NSF QISE-NET Triplet Award](https://qisenet.uchicago.edu/overview/), James C. Alexander Prize.
+Grants/Awards: [NSF Robust Quantum Simulation](https://rqs.umd.edu/) Seed Grant (CO-PI), [NSF QISE-NET Triplet Award](https://qisenet.uchicago.edu/overview/), [James C. Alexander Prize](https://quics.umd.edu/news/former-graduate-student-wins-james-c-alexander-prize-dissertation-quantum-algorithms).
 

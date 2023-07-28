@@ -67,6 +67,12 @@ subtitle = ""
  css_class = ""
 +++
 
+**Dense outputs from quantum simulations**
+
+Jin-Peng Liu and Lin Lin
+
+- [arXiv:2307.14441](https://arxiv.org/abs/2307.14441)
+
 **Towards provably efficient quantum algorithms for large-scale machine learning models**
 
 Junyu Liu, Minzhao Liu, Jin-Peng Liu, Ziyu Ye, Yuri Alexeev, Jens Eisert, and Liang Jiang

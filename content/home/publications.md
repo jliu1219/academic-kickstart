@@ -97,7 +97,7 @@ Andrew M. Childs, Tongyang Li, Jin-Peng Liu, Chunhao Wang, and Ruizhe Zhang
 
 - [arXiv:2210.06539](https://arxiv.org/abs/2210.06539)
 - Presented at [NeurIPS 2022](https://openreview.net/forum?id=zofwPmKL-DO) as an accepted paper
-- To appear in [QIP 2023](https://indico.cern.ch/event/1175020/page/27680-accepted-talks) as a contributed talk
+- Presented at [QIP 2023](https://indico.cern.ch/event/1175020/page/27680-accepted-talks) as a contributed talk
 
 **Efficient quantum algorithm for nonlinear reaction-diffusion equations and energy estimation**
 

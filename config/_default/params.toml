@@ -86,11 +86,11 @@ phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = " Simons Institute, University of California, Berkeley", city = "Berkeley", region = "CA", postcode = "94720", country = "United States", country_code = "US"}
+address = {street = "Center for Theoretical Physics, Massachusetts Institute of Technology", city = "Cambridge", region = "MA", postcode = "02139", country = "United States", country_code = "US"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "37.87100", longitude = "-122.25400"}
+coordinates = {latitude = "42.3598", longitude = "-71.0906"}
 
 # Directions for visitors to locate you.
 directions = ""

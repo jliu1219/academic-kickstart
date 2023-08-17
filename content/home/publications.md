@@ -78,12 +78,14 @@ Jin-Peng Liu and Lin Lin
 Junyu Liu, Minzhao Liu, Jin-Peng Liu, Ziyu Ye, Yuri Alexeev, Jens Eisert, and Liang Jiang
 
 - [arXiv:2303.03428](https://arxiv.org/abs/2303.03428)
+- To present at [IEEE QCE 2023](https://qce.quantum.ieee.org/2023/) as an invited talk
 
 **Linear combination of Hamiltonian simulation for non-unitary dynamics with optimal state preparation cost**
 
 Dong An, Jin-Peng Liu, and Lin Lin
 
 - [arXiv:2303.01029](https://arxiv.org/abs/2303.01029)
+- Presented at [Qsim 2023](https://qsimconference.org/) as an invited talk
 
 **A theory of quantum differential equation solvers: limitations and fast-forwarding**
 
@@ -97,7 +99,8 @@ Andrew M. Childs, Tongyang Li, Jin-Peng Liu, Chunhao Wang, and Ruizhe Zhang
 
 - [arXiv:2210.06539](https://arxiv.org/abs/2210.06539)
 - Presented at [NeurIPS 2022](https://openreview.net/forum?id=zofwPmKL-DO) as an accepted paper
-- Presented at [QIP 2023](https://indico.cern.ch/event/1175020/page/27680-accepted-talks) as a contributed talk
+- Presented at [QIP 2023](https://indico.cern.ch/event/1175020/page/27680-accepted-talks) as an accepted paper
+- To present at [IEEE QCE 2023](https://qce.quantum.ieee.org/2023/) as an invited talk
 
 **Efficient quantum algorithm for nonlinear reaction-diffusion equations and energy estimation**
 

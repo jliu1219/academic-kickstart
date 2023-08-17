@@ -75,6 +75,7 @@ subtitle = ""
 
 **Towards provably efficient quantum algorithms for nonlinear dynamics and large-scale machine learning models**
 
+- Sep 2023: IEEE International Conference on Quantum Computing and Engineering 2023 (IEEE QCE 23), Bellevue
 - Apr 2023: QI Group Meeting, Center for Theoretical Physics, Massachusetts Institute of Technology, Cambridge
 - Mar 2023: Joint Center for Quantum Information and Computer Science Seminar, University of Maryland
 - Mar 2023: Quantum Seminar, Global Technology Applied Research Center, J. P. Morgan Chase & Co, New York
@@ -85,6 +86,7 @@ subtitle = ""
 
 **Quantum algorithms for sampling log-concave distributions and estimating normalizing constants**
 
+- Sep 2023: IEEE International Conference on Quantum Computing and Engineering 2023 (IEEE QCE 23), Bellevue
 - Feb 2023: Conference on Quantum Information Processing 2023 (QIP 2023), contributed talk, Ghent, Belgium
 - Dec 2022: Conference on Neural Information Processing Systems 2022 (NeurIPS 22), New Orleans 
 - Nov 2022: Theory of Computation Group Seminar, Department of Computer Science, Columbia University, New York

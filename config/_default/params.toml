@@ -9,7 +9,7 @@
 #   Latest themes (may require updating): https://sourcethemes.com/academic/themes/
 #   Browse built-in themes in `themes/academic/data/themes/`
 #   Browse user installed themes in `data/themes/`
-theme = "Earth"
+theme = "earth"
 
 # Enable users to switch between day and night mode?
 day_night = true
@@ -90,7 +90,7 @@ address = {street = "Center for Theoretical Physics, Massachusetts Institute of 
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "42.3598", longitude = "-71.0906"}
+coordinates = {latitude = "42.35980", longitude = "-71.09060"}
 
 # Directions for visitors to locate you.
 directions = ""

@@ -18,12 +18,25 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "CTP Postdoctoral Associate"
+  company = "Center for Theoretical Physics, MIT"
+  company_url = ""
+  location = "Cambridge, MA"
+  date_start = "2023-08-17"
+  date_end = "2024-08-16"
+  description = """
+
+  * Sep 2023 - Dec 2023: Long-term visitor at Institute for Pure and Applied Mathematics, UCLA
+
+    """
+
+[[experience]]
   title = "Simons Quantum Postdoctoral Fellow"
   company = "Simons Institute for the Theory of Computing and University of California, Berkeley"
   company_url = ""
   location = "Berkeley, CA"
   date_start = "2022-08-17"
-  date_end = "2023-08-15"
+  date_end = "2023-08-16"
   description = """
 
   * May 2023: Editor of Quantum

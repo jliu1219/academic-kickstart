@@ -67,7 +67,7 @@ subtitle = ""
 
 +++
 
-Sep 2023 - Dec 2023:  I'm invited to present two talks at [IEEE QCE 23](https://qce.quantum.ieee.org/2023/).
+Sep 2023:  I'm invited to present two talks at [IEEE QCE 23](https://qce.quantum.ieee.org/2023/).
 
 Sep 2023 - Dec 2023:  I'm a long-term participant and an invited speaker at [Program on Mathematical and Computational Challenges in Quantum Computing](https://www.ipam.ucla.edu/programs/long-programs/mathematical-and-computational-challenges-in-quantum-computing/), [Institute for Pure and Applied Mathematics, UCLA](http://www.ipam.ucla.edu/).
 

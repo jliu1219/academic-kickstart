@@ -86,6 +86,7 @@ Dong An, Jin-Peng Liu, and Lin Lin
 
 - [arXiv:2303.01029](https://arxiv.org/abs/2303.01029)
 - Presented at [Qsim 2023](https://qsimconference.org/) as an invited talk
+- To appear in [Physical Review Letters](https://journals.aps.org/prl/)
 
 **A theory of quantum differential equation solvers: limitations and fast-forwarding**
 

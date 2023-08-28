@@ -71,7 +71,7 @@ Sep 2023:  I'm invited to present two talks at [IEEE QCE 23](https://qce.quantum
 
 Sep 2023 - Dec 2023:  I'm a long-term participant and an invited speaker at [Program on Mathematical and Computational Challenges in Quantum Computing](https://www.ipam.ucla.edu/programs/long-programs/mathematical-and-computational-challenges-in-quantum-computing/), [Institute for Pure and Applied Mathematics, UCLA](http://www.ipam.ucla.edu/).
 
-Aug 2023: Our paper [Quantum algorithms for sampling log-concave distributions and estimating normalizing constants](https://arxiv.org/abs/2303.01029) is accepted by [Physical Review Letters](https://journals.aps.org/prl/).
+Aug 2023: Our paper [Linear combination of Hamiltonian simulation for non-unitary dynamics with optimal state preparation cost](https://arxiv.org/abs/2303.01029) is accepted by [Physical Review Letters](https://journals.aps.org/prl/).
 
 May 2023: I'm a session chair and a speaker at [SIAM OP 23](https://www.siam.org/conferences/cm/conference/op23).
 
@@ -81,7 +81,7 @@ May 2023: I serve as an editor of [Quantum](https://quantum-journal.org/).
 
 Mar 2023: I become a CO-PI of [NSF Robust Quantum Simulation](https://rqs.umd.edu/) Seed Grant: End-to-end applications of quantum linear system and differential equation algorithms.
 
-Nov 2022: Our paper [Linear combination of Hamiltonian simulation for non-unitary dynamics with optimal state preparation cost](https://arxiv.org/abs/2210.06539) is accepted by [NeurIPS 2022](https://openreview.net/forum?id=zofwPmKL-DO) and [QIP 2023](https://indico.cern.ch/event/1175020/page/27680-accepted-talks).
+Nov 2022: Our paper [Quantum algorithms for sampling log-concave distributions and estimating normalizing constants](https://arxiv.org/abs/2210.06539) is accepted by [NeurIPS 2022](https://openreview.net/forum?id=zofwPmKL-DO) and [QIP 2023](https://indico.cern.ch/event/1175020/page/27680-accepted-talks).
 
 May 2022 - Jun 2022: I'm a long-term visitor of [Extended Reunion: The Quantum Wave in Computing Program](https://simons.berkeley.edu/programs/extended-reunion-quantum2022), [Simons Institute, Berkeley](https://simons.berkeley.edu/).
 

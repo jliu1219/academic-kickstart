@@ -78,7 +78,11 @@ My name is Jin-Peng Liu (刘锦鹏). I am a postdoctoral associate at the [Cente
 
 I received my Ph.D. degree in [AMSC](https://amsc.umd.edu/) program at University of Maryland in 2022, advised by [Andrew Childs](http://www.cs.umd.edu/~amchilds/). Prior to that, I received my B.S. degree in Chinese Academy of Sciences Hua Loo Keng Class at Beihang University in 2017, supervised by [Ya-xiang Yuan](http://lsec.cc.ac.cn/~yyx/).
 
-My research focuses on *Quantum for Science*. I attempt to develop, analyze, and optimize provably efficient quantum algorithms for challenges in natural and data sciences, including topics: (i) robust quantum simulations; (ii) efficient quantum scientific computation; (iii) scalable quantum machine learning, toward end-to-end applications in areas such as quantum chemistry, biology and epidemiology, fluid dynamics, finance, statistics, optimization, and machine learning.
+I attempt to develop, analyze, and optimize provably efficient quantum algorithms for challenges in natural and data sciences, including topics: 
+(i) robust quantum simulations  (quantum for quantum); 
+(ii) efficient quantum scientific computation (quantum for science); 
+(iii) scalable quantum machine learning  (quantum for AI), 
+toward end-to-end applications in areas such as quantum chemistry, biology and epidemiology, fluid dynamics, finance, machine learning and AI.
 
 Editor: [Quantum](https://quantum-journal.org/).
 

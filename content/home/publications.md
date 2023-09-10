@@ -75,7 +75,7 @@ Jin-Peng Liu and Lin Lin
 
 **Towards provably efficient quantum algorithms for large-scale machine learning models**
 
-Junyu Liu, Minzhao Liu, Jin-Peng Liu, Ziyu Ye, Yuri Alexeev, Jens Eisert, and Liang Jiang
+Junyu Liu, Minzhao Liu, Jin-Peng Liu, Ziyu Ye, Yunfei Wang, Yuri Alexeev, Jens Eisert, and Liang Jiang
 
 - [arXiv:2303.03428](https://arxiv.org/abs/2303.03428)
 - To present at [IEEE QCE 2023](https://qce.quantum.ieee.org/2023/) as an invited talk

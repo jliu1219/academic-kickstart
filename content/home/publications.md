@@ -78,14 +78,14 @@ Jin-Peng Liu and Lin Lin
 Junyu Liu, Minzhao Liu, Jin-Peng Liu, Ziyu Ye, Yunfei Wang, Yuri Alexeev, Jens Eisert, and Liang Jiang
 
 - [arXiv:2303.03428](https://arxiv.org/abs/2303.03428)
-- Presented at [IEEE QCE 2023](https://qce.quantum.ieee.org/2023/) as an invited talk
+- Presented at [IEEE QCE 2023](https://qce.quantum.ieee.org/2023/) and [IPAM QASC 2023](https://www.ipam.ucla.edu/programs/workshops/workshop-i-quantum-algorithms-for-scientific-computation/) as an invited talk
 
 **Linear combination of Hamiltonian simulation for non-unitary dynamics with optimal state preparation cost**
 
 Dong An, Jin-Peng Liu, and Lin Lin
 
 - [arXiv:2303.01029](https://arxiv.org/abs/2303.01029)
-- Presented at [Qsim 2023](https://qsimconference.org/) as an invited talk
+- Presented at [Qsim 2023](https://qsimconference.org/) and [IPAM QASC 2023](https://www.ipam.ucla.edu/programs/workshops/workshop-i-quantum-algorithms-for-scientific-computation/) as an invited talk
 - To appear in [Physical Review Letters](https://journals.aps.org/prl/)
 
 **A theory of quantum differential equation solvers: limitations and fast-forwarding**
@@ -99,8 +99,8 @@ Dong An, Jin-Peng Liu, Daochen Wang, and Qi Zhao
 Andrew M. Childs, Tongyang Li, Jin-Peng Liu, Chunhao Wang, and Ruizhe Zhang
 
 - [arXiv:2210.06539](https://arxiv.org/abs/2210.06539)
-- Presented at [NeurIPS 2022](https://openreview.net/forum?id=zofwPmKL-DO) as an accepted paper
-- Presented at [QIP 2023](https://indico.cern.ch/event/1175020/page/27680-accepted-talks) as an accepted paper
+- [Advances in Neural Information Processing Systems 35, 23205--23217 (NeurIPS 2022)](https://proceedings.neurips.cc/paper_files/paper/2022/hash/933e953353c25ec70477ef28e45a2dcc-Abstract-Conference.html)
+- Presented at [QIP 2023](https://indico.cern.ch/event/1175020/page/27680-accepted-talks) as a contributed talk
 - Presented at [IEEE QCE 2023](https://qce.quantum.ieee.org/2023/) as an invited talk
 
 **Efficient quantum algorithm for nonlinear reaction-diffusion equations and energy estimation**
@@ -108,7 +108,7 @@ Andrew M. Childs, Tongyang Li, Jin-Peng Liu, Chunhao Wang, and Ruizhe Zhang
 Dong An, Di Fang,  Stephen Jordan, Jin-Peng Liu, Guang Hao Low, and Jiasu Wang
 
 - [arXiv:2205.01141](https://arxiv.org/abs/2205.01141)
-- Presented at [IPAM QNLA 2022](http://www.ipam.ucla.edu/programs/workshops/quantum-numerical-linear-algebra/?tab=overview) as an invited talk
+- Presented at [IPAM QNLA 2022](http://www.ipam.ucla.edu/programs/workshops/quantum-numerical-linear-algebra/) as an invited talk
 - To appear in [Communications in Mathematical Physics](https://www.springer.com/journal/220)
 
 **Quantum simulation of real-space dynamics**
@@ -140,7 +140,7 @@ Jin-Peng Liu, Herman Øie Kolden, Hari K. Krovi, Nuno F. Loureiro, Konstantina T
 Changpeng Shao and Jin-Peng Liu
 
 - [arXiv:2010.15027](http://arxiv.org/abs/2010.15027)
-- [Proceedings of the Royal Society A 478, 20210797  (2022)](https://royalsocietypublishing.org/doi/abs/10.1098/rspa.2021.0797)
+- [Proceedings of the Royal Society A 478, 20210797 (2022)](https://royalsocietypublishing.org/doi/abs/10.1098/rspa.2021.0797)
 
 **High-precision quantum algorithms for partial differential equations**
 

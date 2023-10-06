@@ -69,12 +69,10 @@ subtitle = ""
 
 +++
 
-**Efficient quantum algorithms for regularized optimization**
-
-- May 2023: SIAM Conference on Optimization 2023 (SIAM OP 23), Seattle
-
 **Towards provably efficient quantum algorithms for nonlinear dynamics and large-scale machine learning models**
 
+- Oct 2023: Workshop I: Quantum Algorithms for Scientific Computation, Program on Mathematical and Computational Challenges in Quantum Computing, Institute for Pure and Applied Mathematics (IPAM QASC 23), University of California, Los Angeles, Oct 2023.
+- Oct 2023: CS 201 Seminar, Computer Science Department, University of California, Los Angeles
 - Sep 2023: IEEE International Conference on Quantum Computing and Engineering 2023 (IEEE QCE 23), Bellevue
 - Apr 2023: QI Group Meeting, Center for Theoretical Physics, Massachusetts Institute of Technology, Cambridge
 - Mar 2023: Joint Center for Quantum Information and Computer Science Seminar, University of Maryland
@@ -83,6 +81,10 @@ subtitle = ""
 - Mar 2023: Computational and Applied Mathematics Colloquium, Department of Mathematics, Pennsylvania State University, University Park
 - Feb 2023: Applied Mathematics Seminar, Department of Mathematics, Stanford University
 - Feb 2023: Applied Mathematics Seminar, Department of Mathematics, University of California, Berkeley
+
+**Efficient quantum algorithms for regularized optimization**
+
+- May 2023: SIAM Conference on Optimization 2023 (SIAM OP 23), Seattle
 
 **Quantum algorithms for sampling log-concave distributions and estimating normalizing constants**
 

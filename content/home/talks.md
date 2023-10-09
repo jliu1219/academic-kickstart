@@ -71,7 +71,8 @@ subtitle = ""
 
 **Towards provably efficient quantum algorithms for nonlinear dynamics and large-scale machine learning models**
 
-- Oct 2023: Workshop I: Quantum Algorithms for Scientific Computation, Program on Mathematical and Computational Challenges in Quantum Computing, Institute for Pure and Applied Mathematics (IPAM QASC 23), University of California, Los Angeles, Oct 2023.
+- Oct 2023: Workshop I: Quantum Algorithms for Scientific Computation, Program on Mathematical and Computational Challenges in Quantum Computing, Institute for Pure and Applied Mathematics (IPAM QASC 23), University of California, Los Angeles, Oct 2023
+- Oct 2023: ECE 297 Seminar, Electrical and Computer Engineering Department, University of California, Los Angeles
 - Oct 2023: CS 201 Seminar, Computer Science Department, University of California, Los Angeles
 - Sep 2023: IEEE International Conference on Quantum Computing and Engineering 2023 (IEEE QCE 23), Bellevue
 - Apr 2023: QI Group Meeting, Center for Theoretical Physics, Massachusetts Institute of Technology, Cambridge

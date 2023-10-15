@@ -82,7 +82,7 @@ My research focuses on *Quantum for Science*. I attempt to develop, analyze, and
 
 Editor: [Quantum](https://quantum-journal.org/).
 
-Publications in journals: [PNAS](https://doi.org/10.1073/pnas.2026805118), [PRL](https://journals.aps.org/prl/accepted/87077YdaPe31699930199e36bfeeb5ae5f8d4fc52), [CMP](https://link.springer.com/article/10.1007/s00220-020-03699-z), [Quantum](https://quantum-journal.org/papers/q-2022-11-17-860/), [Proc. R. Soc. A](https://royalsocietypublishing.org/doi/abs/10.1098/rspa.2021.0797), and conferences: [NeurIPS](https://openreview.net/forum?id=zofwPmKL-DO), [QIP](https://indico.cern.ch/event/1175020/page/27680-accepted-talks), [TQC](https://quantum-journal.org/papers/q-2021-06-24-481/).
+Publications in journals: [PNAS](https://doi.org/10.1073/pnas.2026805118), [PRL](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.131.150603), [CMP](https://link.springer.com/article/10.1007/s00220-020-03699-z), [Quantum](https://quantum-journal.org/papers/q-2022-11-17-860/), [Proc. R. Soc. A](https://royalsocietypublishing.org/doi/abs/10.1098/rspa.2021.0797), and conferences: [NeurIPS](https://openreview.net/forum?id=zofwPmKL-DO), [QIP](https://indico.cern.ch/event/1175020/page/27680-accepted-talks), [TQC](https://quantum-journal.org/papers/q-2021-06-24-481/).
 
 Media highlights: [first-page coverage](https://www.quantamagazine.org/new-quantum-algorithms-finally-crack-nonlinear-equations-20210105/) and [annual review](https://www.quantamagazine.org/the-year-in-math-and-computer-science-20211223/) in Quanta Magazine.
 

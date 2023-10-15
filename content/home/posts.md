@@ -73,7 +73,7 @@ Sep 2023: Our paper [Efficient quantum algorithm for nonlinear reaction-diffusio
 
 Sep 2023:  I'm invited to present two talks about [quantum algorithms for differential equations](https://sites.google.com/view/qce23-differential-equations/) and [financial applications](https://qce.quantum.ieee.org/2023/workshops-program/#wks29) at [IEEE QCE 23](https://qce.quantum.ieee.org/2023/).
 
-Aug 2023: Our paper [Linear combination of Hamiltonian simulation for non-unitary dynamics with optimal state preparation cost](https://arxiv.org/abs/2303.01029) is accepted by [Physical Review Letters](https://journals.aps.org/prl/).
+Aug 2023: Our paper [Linear combination of Hamiltonian simulation for non-unitary dynamics with optimal state preparation cost](https://arxiv.org/abs/2303.01029) is accepted by [Physical Review Letters](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.131.150603).
 
 May 2023: I'm a session chair and a speaker at [SIAM OP 23](https://www.siam.org/conferences/cm/conference/op23).
 

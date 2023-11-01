@@ -105,7 +105,7 @@ Andrew M. Childs, Tongyang Li, Jin-Peng Liu, Chunhao Wang, and Ruizhe Zhang
 
 **Efficient quantum algorithm for nonlinear reaction-diffusion equations and energy estimation**
 
-Dong An, Di Fang,  Stephen Jordan, Jin-Peng Liu, Guang Hao Low, and Jiasu Wang
+Jin-Peng Liu, Dong An, Di Fang, Jiasu Wang, Guang Hao Low, and Stephen Jordan
 
 - [arXiv:2205.01141](https://arxiv.org/abs/2205.01141)
 - Presented at [IPAM QNLA 2022](http://www.ipam.ucla.edu/programs/workshops/quantum-numerical-linear-algebra/) as an invited talk

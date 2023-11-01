@@ -109,7 +109,7 @@ Dong An, Di Fang,  Stephen Jordan, Jin-Peng Liu, Guang Hao Low, and Jiasu Wang
 
 - [arXiv:2205.01141](https://arxiv.org/abs/2205.01141)
 - Presented at [IPAM QNLA 2022](http://www.ipam.ucla.edu/programs/workshops/quantum-numerical-linear-algebra/) as an invited talk
-- To appear in [Communications in Mathematical Physics](https://www.springer.com/journal/220)
+- [Communications in Mathematical Physics (2023)](https://link.springer.com/article/10.1007/s00220-023-04857-9)
 
 **Quantum simulation of real-space dynamics**
 

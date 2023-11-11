@@ -26,7 +26,7 @@ date_format = "Jan 2006"
   date_end = "2024-08-16"
   description = """
 
-  * Sep 2023 - Dec 2023: Long-term visitor at Institute for Pure and Applied Mathematics, UCLA
+  * Sep 2023 - Oct 2023: Long-term visitor at Institute for Pure and Applied Mathematics, UCLA
 
     """
 
@@ -40,15 +40,10 @@ date_format = "Jan 2006"
   description = """
 
   * May 2023: Editor of Quantum
-
   * May 2023: James C. Alexander Prize for Graduate Research in Mathematics
-
   * Apr 2023 - May 2023: Long-term visitor at Center for Theoretical Physics, MIT
-
   * Mar 2023: NSF Robust Quantum Simulation Seed Grant (CO-PI)
-
   * Jul 2022 - Aug 2022: Long-term visitor at Center for Theoretical Physics, MIT
-
   * May 2022 - Jun 2022: Long-term visitor at Simons Institute, UC Berkeley
 
     """
@@ -65,7 +60,7 @@ date_format = "Jan 2006"
   * Jan 2022: Graduate School’s Outstanding Research Assistant Award
   * Jun 2021 - Aug 2021: Applied scientist intern at Amazon Web Services
   * Feb 2021: NSF QISE-NET Triplet Award
-  * Jan 2020 - May 2020: Long-term visitor at Simons Institute
+  * Feb 2020 - Mar 2020: Long-term visitor at Simons Institute
   * Sep 2017: Dean's Fellowship of AMSC program
       """
 

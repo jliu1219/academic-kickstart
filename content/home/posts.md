@@ -69,7 +69,7 @@ subtitle = ""
 
 Nov 2023: Our paper [Towards provably efficient quantum algorithms for large-scale machine-learning models](https://arxiv.org/abs/2303.03428) is accepted by [Nature Communications](https://www.nature.com/ncomms/).
 
-Nov 2023: Our paper [Linear combination of Hamiltonian simulation for non-unitary dynamics with optimal state preparation cost](https://arxiv.org/abs/2303.01029) is accepted by [Physical Review Letters](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.131.150603) and [QIP 2024](https://qip2024.tw/).
+Nov 2023: Our paper [Linear combination of Hamiltonian simulation for non-unitary dynamics with optimal state preparation cost](https://arxiv.org/abs/2303.01029) is accepted by [Physical Review Letters](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.131.150603) and [QIP 2024](https://qip2024.tw/site/mypage.aspx?pid=259&lang=en&sid=1522).
 
 Sep 2023 - Oct 2023:  I'm a long-term core participant and an invited speaker at [Program on Mathematical and Computational Challenges in Quantum Computing](https://www.ipam.ucla.edu/programs/long-programs/mathematical-and-computational-challenges-in-quantum-computing/), [Institute for Pure and Applied Mathematics, UCLA](http://www.ipam.ucla.edu/).
 

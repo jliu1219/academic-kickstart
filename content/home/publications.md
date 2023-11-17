@@ -110,7 +110,7 @@ Andrew M. Childs, Tongyang Li, Jin-Peng Liu, Chunhao Wang, and Ruizhe Zhang
 Jin-Peng Liu, Dong An, Di Fang, Jiasu Wang, Guang Hao Low, and Stephen Jordan
 
 - [arXiv:2205.01141](https://arxiv.org/abs/2205.01141)
-- [Communications in Mathematical Physics 404, 963-1020 (2020)](https://link.springer.com/article/10.1007/s00220-023-04857-9)
+- [Communications in Mathematical Physics 404, 963-1020 (2023)](https://link.springer.com/article/10.1007/s00220-023-04857-9)
 - Presented at [IPAM QNLA 2022](http://www.ipam.ucla.edu/programs/workshops/quantum-numerical-linear-algebra/) as an invited talk
 
 **Quantum simulation of real-space dynamics**

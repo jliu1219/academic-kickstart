@@ -78,6 +78,7 @@ Jin-Peng Liu and Lin Lin
 Junyu Liu, Minzhao Liu, Jin-Peng Liu, Ziyu Ye, Yunfei Wang, Yuri Alexeev, Jens Eisert, and Liang Jiang
 
 - [arXiv:2303.03428](https://arxiv.org/abs/2303.03428)
+- [Nature Communications](https://www.nature.com/ncomms/) in press
 - Presented at [IEEE QCE 2023](https://qce.quantum.ieee.org/2023/) and [IPAM QASC 2023](https://www.ipam.ucla.edu/programs/workshops/workshop-i-quantum-algorithms-for-scientific-computation/) as an invited talk
 
 **Linear combination of Hamiltonian simulation for non-unitary dynamics with optimal state preparation cost**
@@ -85,8 +86,9 @@ Junyu Liu, Minzhao Liu, Jin-Peng Liu, Ziyu Ye, Yunfei Wang, Yuri Alexeev, Jens E
 Dong An, Jin-Peng Liu, and Lin Lin
 
 - [arXiv:2303.01029](https://arxiv.org/abs/2303.01029)
-- Presented at [Qsim 2023](https://qsimconference.org/) and [IPAM QASC 2023](https://www.ipam.ucla.edu/programs/workshops/workshop-i-quantum-algorithms-for-scientific-computation/) as an invited talk
 - [Physical Review Letters 131, 150603 (2023)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.131.150603)
+- Presented at [Qsim 2023](https://qsimconference.org/) and [IPAM QASC 2023](https://www.ipam.ucla.edu/programs/workshops/workshop-i-quantum-algorithms-for-scientific-computation/) as an invited talk
+- To Present at [QIP 2024](https://qip2024.tw/) as a contributed talk
 
 **A theory of quantum differential equation solvers: limitations and fast-forwarding**
 
@@ -108,8 +110,8 @@ Andrew M. Childs, Tongyang Li, Jin-Peng Liu, Chunhao Wang, and Ruizhe Zhang
 Jin-Peng Liu, Dong An, Di Fang, Jiasu Wang, Guang Hao Low, and Stephen Jordan
 
 - [arXiv:2205.01141](https://arxiv.org/abs/2205.01141)
-- Presented at [IPAM QNLA 2022](http://www.ipam.ucla.edu/programs/workshops/quantum-numerical-linear-algebra/) as an invited talk
 - [Communications in Mathematical Physics 404, 963-1020 (2020)](https://link.springer.com/article/10.1007/s00220-023-04857-9)
+- Presented at [IPAM QNLA 2022](http://www.ipam.ucla.edu/programs/workshops/quantum-numerical-linear-algebra/) as an invited talk
 
 **Quantum simulation of real-space dynamics**
 

@@ -89,6 +89,7 @@ Dong An, Jin-Peng Liu, and Lin Lin
 - [Physical Review Letters 131, 150603 (2023)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.131.150603)
 - Presented at [Qsim 2023](https://qsimconference.org/) and [IPAM QASC 2023](https://www.ipam.ucla.edu/programs/workshops/workshop-i-quantum-algorithms-for-scientific-computation/) as an invited talk
 - To Present at [QIP 2024](https://qip2024.tw/site/mypage.aspx?pid=259&lang=en&sid=1522) as a contributed talk
+- To appear in [SIAM News](https://www.siam.org/publications/siam-news)
 
 **A theory of quantum differential equation solvers: limitations and fast-forwarding**
 
@@ -134,6 +135,7 @@ Jin-Peng Liu, Herman Øie Kolden, Hari K. Krovi, Nuno F. Loureiro, Konstantina T
 
 - [arXiv:2011.03185](http://arxiv.org/abs/2011.03185)
 - Front-page Coverage in Quanta Magazine: [New Quantum Algorithms Finally Crack Nonlinear Equations](https://www.quantamagazine.org/new-quantum-algorithms-finally-crack-nonlinear-equations-20210105/)
+- 2021 Annual Review in Quanta Magazine: [The Year in Math and Computer Science](https://www.quantamagazine.org/the-year-in-math-and-computer-science-20211223/)
 - [Proceedings of the National Academy of Sciences 118, 35 (2021)](https://doi.org/10.1073/pnas.2026805118)
 - Presented at [SIAM CSE 2021](https://www.siam.org/conferences/cm/conference/cse21) and [APS DFD 2021](https://www.apsdfd2021.org/) as an invited talk
 

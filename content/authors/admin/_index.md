@@ -80,11 +80,11 @@ I received my Ph.D. degree in [AMSC](https://amsc.umd.edu/) program at Universit
 
 My research focuses on *Quantum for Science*. I attempt to develop, analyze, and optimize provably efficient quantum algorithms for challenges in natural and data sciences, including topics: (i) robust quantum simulations; (ii) efficient quantum scientific computation; (iii) scalable quantum machine learning, toward end-to-end applications in areas such as quantum chemistry, biology and epidemiology, fluid dynamics, finance, machine learning, and artificial general intelligence.
 
-Editor: [Quantum](https://quantum-journal.org/).
+Editor: [Quantum](https://quantum-journal.org/) (JCR Q1, Impact Factor:6.4).
 
-Publications in journals: [PNAS](https://doi.org/10.1073/pnas.2026805118), [Nat. Commun.](https://arxiv.org/abs/2303.03428), [PRL](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.131.150603), [CMP](https://link.springer.com/article/10.1007/s00220-020-03699-z), [Quantum](https://quantum-journal.org/papers/q-2022-11-17-860/), [Proc. R. Soc. A](https://royalsocietypublishing.org/doi/abs/10.1098/rspa.2021.0797), and conferences: [NeurIPS](https://openreview.net/forum?id=zofwPmKL-DO), [QIP](https://indico.cern.ch/event/1175020/page/27680-accepted-talks), [TQC](https://quantum-journal.org/papers/q-2021-06-24-481/).
+Publications in journals: [PNAS](https://doi.org/10.1073/pnas.2026805118), [Nat. Commun.](https://www.nature.com/articles/s41467-023-43957-x), [PRL](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.131.150603), [CMP](https://link.springer.com/article/10.1007/s00220-020-03699-z), [Quantum](https://quantum-journal.org/papers/q-2022-11-17-860/), [Proc. R. Soc. A](https://royalsocietypublishing.org/doi/abs/10.1098/rspa.2021.0797), and conferences: [NeurIPS](https://openreview.net/forum?id=zofwPmKL-DO), [QIP](https://indico.cern.ch/event/1175020/page/27680-accepted-talks), [TQC](https://quantum-journal.org/papers/q-2021-06-24-481/).
 
-Media highlights: [first-page coverage](https://www.quantamagazine.org/new-quantum-algorithms-finally-crack-nonlinear-equations-20210105/) and [annual review](https://www.quantamagazine.org/the-year-in-math-and-computer-science-20211223/) in Quanta Magazine.
+Media highlights: [first-page coverage](https://www.quantamagazine.org/new-quantum-algorithms-finally-crack-nonlinear-equations-20210105/) and [annual review](https://www.quantamagazine.org/the-year-in-math-and-computer-science-20211223/) in Quanta Magazine, [SIAM News](https://www.siam.org/publications/siam-news) (to appear).
 
 Grants/Awards: [NSF Robust Quantum Simulation](https://rqs.umd.edu/) Seed Grant (CO-PI), [NSF QISE-NET Triplet Award](https://qisenet.uchicago.edu/overview/), [James C. Alexander Prize](https://quics.umd.edu/news/former-graduate-student-wins-james-c-alexander-prize-dissertation-quantum-algorithms).
 

@@ -78,7 +78,7 @@ Jin-Peng Liu and Lin Lin
 Junyu Liu, Minzhao Liu, Jin-Peng Liu, Ziyu Ye, Yunfei Wang, Yuri Alexeev, Jens Eisert, and Liang Jiang
 
 - [arXiv:2303.03428](https://arxiv.org/abs/2303.03428)
-- [Nature Communications](https://www.nature.com/ncomms/) in press
+- [Nature Communications 15, 434 (2024)](https://www.nature.com/articles/s41467-023-43957-x)
 - Presented at [IEEE QCE 2023](https://qce.quantum.ieee.org/2023/) and [IPAM QASC 2023](https://www.ipam.ucla.edu/programs/workshops/workshop-i-quantum-algorithms-for-scientific-computation/) as an invited talk
 
 **Linear combination of Hamiltonian simulation for non-unitary dynamics with optimal state preparation cost**

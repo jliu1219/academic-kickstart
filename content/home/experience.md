@@ -26,7 +26,7 @@ date_format = "Jan 2006"
   date_end = "2024-08-16"
   description = """
 
-  * Jan 2024: ICCM Best Doctor Thesis Award (Gold Prize)
+  * Jan 2024: ICCM Best Thesis Award (Gold Prize)
   * Sep 2023 - Oct 2023: Long-term visitor at Institute for Pure and Applied Mathematics, UCLA
 
     """

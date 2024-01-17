@@ -44,8 +44,6 @@ date_format = "Jan 2006"
   * May 2023: James C. Alexander Prize for Graduate Research in Mathematics
   * Apr 2023 - May 2023: Long-term visitor at Center for Theoretical Physics, MIT
   * Mar 2023: NSF Robust Quantum Simulation Seed Grant (CO-PI)
-  * Jul 2022 - Aug 2022: Long-term visitor at Center for Theoretical Physics, MIT
-  * May 2022 - Jun 2022: Long-term visitor at Simons Institute, UC Berkeley
 
     """
 

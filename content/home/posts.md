@@ -67,7 +67,7 @@ subtitle = ""
 
 +++
 
-Nov 2023: Our paper [Towards provably efficient quantum algorithms for large-scale machine-learning models](https://arxiv.org/abs/2303.03428) is accepted by [Nature Communications](https://www.nature.com/ncomms/).
+Nov 2023: Our paper [Towards provably efficient quantum algorithms for large-scale machine-learning models](https://arxiv.org/abs/2303.03428) is accepted by [Nature Communications](https://www.nature.com/ncomms/) and is highlighted by [Chicago PME News](https://pme.uchicago.edu/news/new-research-unites-quantum-engineering-and-artificial-intelligence).
 
 Nov 2023: Our paper [Linear combination of Hamiltonian simulation for non-unitary dynamics with optimal state preparation cost](https://arxiv.org/abs/2303.01029) is accepted by [Physical Review Letters](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.131.150603) and [QIP 2024](https://qip2024.tw/site/mypage.aspx?pid=259&lang=en&sid=1522).
 

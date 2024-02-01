@@ -67,7 +67,7 @@ subtitle = ""
 
 +++
 
-Mar 2024: I'm an organizer and a session chair at [IOS 24](https://ios2024.rice.edu/).
+Mar 2024: I'm an organizer of quantum computing sessions at [IOS 24](https://ios2024.rice.edu/). Welcome!
 
 Jan 2024: Our paper [Towards provably efficient quantum algorithms for large-scale machine-learning models](https://arxiv.org/abs/2303.03428) is accepted by [Nature Communications](https://www.nature.com/ncomms/) and is highlighted by [Chicago PME News](https://pme.uchicago.edu/news/new-research-unites-quantum-engineering-and-artificial-intelligence).
 

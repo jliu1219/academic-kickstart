@@ -69,6 +69,10 @@ subtitle = ""
 
 +++
 
+**Quantum for Science: efficient quantum algorithms for linear and nonlinear dynamics**
+
+- Feb 2024: The MaD Seminar, Center for Data Science and Courant Institute, New York University, New York
+
 **Linear combination of Hamiltonian simulation for non-unitary dynamics with optimal state preparation cost**
 
 - Jan 2024: Conference on Quantum Information Processing 2024 (QIP 2024), contributed talk, Taibei

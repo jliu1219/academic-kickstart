@@ -71,8 +71,8 @@ subtitle = ""
 
 **Quantum for Science: efficient quantum algorithms for linear and nonlinear dynamics**
 
-- (Incoming) Mar 2024: QI Group Meeting, Center for Theoretical Physics, Massachusetts Institute of Technology, Cambridge
-- (Incoming) Mar 2024: Quantum Information Science Seminar, Harvard University, Cambridge
+- Mar 2024: QI Group Meeting, Center for Theoretical Physics, Massachusetts Institute of Technology, Cambridge
+- Mar 2024: Quantum Information Science Seminar, Harvard University, Cambridge
 - Feb 2024: The MaD Seminar, Center for Data Science and Courant Institute, New York University, New York
 
 **Linear combination of Hamiltonian simulation for non-unitary dynamics with optimal state preparation cost**

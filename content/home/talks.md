@@ -71,11 +71,11 @@ subtitle = ""
 
 **Quantum algorithms for scientific computation and optimization problems**
 
-- (Incoming) Mar 2024: INFORMS Optimization Society Conference (IOS 24), Rice University, Houston
+- Mar 2024: INFORMS Optimization Society Conference (IOS 24), Houston
 
 **Quantum for Science: efficient quantum algorithms for linear and nonlinear dynamics**
 
-- Mar 2024: QI Group Meeting, Center for Theoretical Physics, Massachusetts Institute of Technology, Cambridge
+- Mar 2024: Quantum Seminar, Rice Quantum Initiative, Houston- Mar 2024: QI Group Meeting, Center for Theoretical Physics, Massachusetts Institute of Technology, Cambridge
 - Mar 2024: Quantum Information Science Seminar, Harvard University, Cambridge
 - Feb 2024: The MaD Seminar, Center for Data Science and Courant Institute, New York University, New York
 

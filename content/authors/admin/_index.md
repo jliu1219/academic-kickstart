@@ -86,5 +86,5 @@ Publications in journals: [PNAS](https://doi.org/10.1073/pnas.2026805118), [Nat.
 
 Media highlights: [first-page coverage](https://www.quantamagazine.org/new-quantum-algorithms-finally-crack-nonlinear-equations-20210105/) and [annual review](https://www.quantamagazine.org/the-year-in-math-and-computer-science-20211223/) in Quanta Magazine, [SIAM News](https://sinews.siam.org/Details-Page/quantum-advantages-and-end-to-end-complexity), [MATH+](https://mathplus.de/news/quantum-algorithms-for-machine-learning-models-a-future-technology-nature-communications-papser-jens-eisert-etal/), [Chicago PME News](https://pme.uchicago.edu/news/new-research-unites-quantum-engineering-and-artificial-intelligence).
 
-Grants/Awards: [NSF Robust Quantum Simulation](https://rqs.umd.edu/) Seed Grant (CO-PI), [NSF QISE-NET Triplet Award](https://qisenet.uchicago.edu/overview/), [James C. Alexander Prize](https://quics.umd.edu/news/former-graduate-student-wins-james-c-alexander-prize-dissertation-quantum-algorithms).
+Grants/Awards: [ICCM Best Thesis Award (Gold Prize)](http://yau-bta.com/en), [NSF Robust Quantum Simulation](https://rqs.umd.edu/) Seed Grant (CO-PI), [NSF QISE-NET Triplet Award](https://qisenet.uchicago.edu/overview/), [James C. Alexander Prize](https://quics.umd.edu/news/former-graduate-student-wins-james-c-alexander-prize-dissertation-quantum-algorithms).
 

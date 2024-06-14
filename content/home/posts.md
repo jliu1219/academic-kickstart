@@ -71,6 +71,8 @@ Apr 2024: Our paper [Linear combination of Hamiltonian simulation for non-unitar
 
 Feb 2024: Our paper [Towards provably efficient quantum algorithms for large-scale machine-learning models](https://arxiv.org/abs/2303.03428) is accepted by [Nature Communications](https://www.nature.com/articles/s41467-023-43957-x) and is highlighted by [MATH+](https://mathplus.de/news/quantum-algorithms-for-machine-learning-models-a-future-technology-nature-communications-papser-jens-eisert-etal/) and [Chicago PME News](https://pme.uchicago.edu/news/new-research-unites-quantum-engineering-and-artificial-intelligence).
 
+Jan 024: I'm thrilled to receive the [2023 ICCM Best Thesis Award](http://yau-bta.com/en) (formerly New World Mathematics Award) Doctor Thesis Award, Gold Prize!
+
 Sep 2023 - Oct 2023:  I'm a long-term core participant and an invited speaker at [Program on Mathematical and Computational Challenges in Quantum Computing](https://www.ipam.ucla.edu/programs/long-programs/mathematical-and-computational-challenges-in-quantum-computing/), [Institute for Pure and Applied Mathematics, UCLA](http://www.ipam.ucla.edu/).
 
 Sep 2023: Our paper [Efficient quantum algorithm for nonlinear reaction-diffusion equations and energy estimation](https://arxiv.org/abs/2205.01141) is accepted by [Communications in Mathematical Physics](https://link.springer.com/article/10.1007/s00220-023-04857-9).

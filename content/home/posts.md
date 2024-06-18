@@ -67,6 +67,8 @@ subtitle = ""
 
 +++
 
+Jun 2024: Our paper [Dense outputs from quantum simulations](https://arxiv.org/abs/2307.14441) is accepted by [Journal of Computational Physics](https://www.sciencedirect.com/journal/journal-of-computational-physics).
+
 Apr 2024: Our paper [Linear combination of Hamiltonian simulation for non-unitary dynamics with optimal state preparation cost](https://arxiv.org/abs/2303.01029) is accepted by [Physical Review Letters](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.131.150603) and [QIP 2024](https://qip2024.tw/site/mypage.aspx?pid=259&lang=en&sid=1522) and is highlighted by [SIAM News](https://sinews.siam.org/Details-Page/quantum-advantages-and-end-to-end-complexity).
 
 Feb 2024: Our paper [Towards provably efficient quantum algorithms for large-scale machine-learning models](https://arxiv.org/abs/2303.03428) is accepted by [Nature Communications](https://www.nature.com/articles/s41467-023-43957-x) and is highlighted by [MATH+](https://mathplus.de/news/quantum-algorithms-for-machine-learning-models-a-future-technology-nature-communications-papser-jens-eisert-etal/) and [Chicago PME News](https://pme.uchicago.edu/news/new-research-unites-quantum-engineering-and-artificial-intelligence).

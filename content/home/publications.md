@@ -72,7 +72,7 @@ subtitle = ""
 Jin-Peng Liu and Lin Lin
 
 - [arXiv:2307.14441](https://arxiv.org/abs/2307.14441)
-- [Journal of Computational Physics, 113213](https://www.sciencedirect.com/science/article/abs/pii/S0021999124004625)
+- [Journal of Computational Physics, 113213 (2024)](https://www.sciencedirect.com/science/article/abs/pii/S0021999124004625)
 
 **Towards provably efficient quantum algorithms for large-scale machine learning models**
 

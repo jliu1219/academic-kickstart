@@ -67,8 +67,6 @@ subtitle = ""
 
 +++
 
-Aug 2024: I'm thrilled to join [YMSC, Tsinghua University](https://ymsc.tsinghua.edu.cn/) as a tenure-track assistant professor! Job positions at Liu's group will be updated. 
-
 Jun 2024: Our paper [Dense outputs from quantum simulations](https://arxiv.org/abs/2307.14441) is accepted by [Journal of Computational Physics](https://www.sciencedirect.com/science/article/abs/pii/S0021999124004625).
 
 Apr 2024: Our paper [Linear combination of Hamiltonian simulation for non-unitary dynamics with optimal state preparation cost](https://arxiv.org/abs/2303.01029) is accepted by [Physical Review Letters](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.131.150603) and [QIP 2024](https://qip2024.tw/site/mypage.aspx?pid=259&lang=en&sid=1522) and is highlighted by [SIAM News](https://sinews.siam.org/Details-Page/quantum-advantages-and-end-to-end-complexity).

@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Postdoctoral Associate
+role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
-- name: MIT
+- name: Tsinghua University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -74,9 +74,11 @@ user_groups:
 - Visitors
 ---
 
-My name is Jin-Peng Liu (刘锦鹏). I am a [Postdoctoral Associate at Center for Theoretical Physics](https://physics.mit.edu/faculty/jin-peng-liu/), Massachusetts Institute of Technology, mainly hosted by [Aram Harrow](http://www.mit.edu/~aram/) from 2023. I was a [Simons Quantum Postdoctoral Fellow](https://simons.berkeley.edu/people/jin-peng-liu) at Simons Institute and UC Berkeley, hosted by [Umesh Vazirani](https://people.eecs.berkeley.edu/~vazirani/) and [Lin Lin](https://math.berkeley.edu/~linlin/) in 2022-2023.
+My name is Jin-Peng Liu (刘锦鹏). I am an incoming Assistant Professor at [Tsinghua University](https://www.tsinghua.edu.cn/index.htm).
 
-I received my Ph.D. degree in [AMSC](https://amsc.umd.edu/) program at University of Maryland in 2022, advised by [Andrew Childs](http://www.cs.umd.edu/~amchilds/). Prior to that, I received my B.S. degree in Chinese Academy of Sciences Hua Loo Keng Class at Beihang University in 2017, supervised by [Ya-xiang Yuan](http://lsec.cc.ac.cn/~yyx/).
+I was a [Postdoctoral Associate at Center for Theoretical Physics](https://physics.mit.edu/faculty/jin-peng-liu/), Massachusetts Institute of Technology, mainly hosted by [Aram Harrow](http://www.mit.edu/~aram/) in 2023-2024. I was a [Simons Quantum Postdoctoral Fellow](https://simons.berkeley.edu/people/jin-peng-liu) at Simons Institute and UC Berkeley, hosted by [Umesh Vazirani](https://people.eecs.berkeley.edu/~vazirani/) and [Lin Lin](https://math.berkeley.edu/~linlin/) in 2022-2023.
+
+I received my Ph.D. degree in [AMSC](https://amsc.umd.edu/) program at University of Maryland in 2022, advised by [Andrew Childs](http://www.cs.umd.edu/~amchilds/). I received my B.S. degree in Chinese Academy of Sciences Hua Loo Keng Class at Beihang University in 2017, supervised by [Ya-xiang Yuan](http://lsec.cc.ac.cn/~yyx/).
 
 My research focuses on *Quantum for Science*. I attempt to develop, analyze, and optimize provably efficient quantum algorithms for challenges in natural and data sciences, including topics: (i) robust quantum simulations; (ii) efficient quantum scientific computation; (iii) scalable quantum machine learning, toward end-to-end applications in areas such as quantum chemistry, biology and epidemiology, fluid dynamics, finance, machine learning, and artificial general intelligence.
 

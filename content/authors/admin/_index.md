@@ -74,7 +74,7 @@ user_groups:
 - Visitors
 ---
 
-My name is Jin-Peng Liu (刘锦鹏). I am an incoming Assistant Professor at [Tsinghua University](https://www.tsinghua.edu.cn/index.htm).
+My name is Jin-Peng Liu (刘锦鹏). I am an incoming Assistant Professor at [YMSC, Tsinghua University](https://ymsc.tsinghua.edu.cn/).
 
 I was a Postdoctoral Associate at [Center for Theoretical Physics, MIT](https://physics.mit.edu/faculty/jin-peng-liu/), hosted by [Aram Harrow](http://www.mit.edu/~aram/) in 2023-2024. I was a Simons Quantum Postdoctoral Fellow at [Simons Institute, UC Berkeley](https://simons.berkeley.edu/people/jin-peng-liu), hosted by [Umesh Vazirani](https://people.eecs.berkeley.edu/~vazirani/) and [Lin Lin](https://math.berkeley.edu/~linlin/) in 2022-2023.
 

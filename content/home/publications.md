@@ -67,6 +67,12 @@ subtitle = ""
  css_class = ""
 +++
 
+**Explicit block encodings of boundary value problems for many-body elliptic operators**
+
+Tyler Kharazi, Ahmad M. Alkadri, Jin-Peng Liu, Kranthi K. Mandadapu, and K. Birgitta Whaley
+
+- [arXiv:2407.18347](https://arxiv.org/abs/2407.18347)
+
 **Dense outputs from quantum simulations**
 
 Jin-Peng Liu and Lin Lin

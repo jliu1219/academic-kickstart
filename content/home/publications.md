@@ -67,6 +67,12 @@ subtitle = ""
  css_class = ""
 +++
 
+**Provably Efficient Adiabatic Learning for Quantum-Classical Dynamics**
+
+Changnan Peng, Jin-Peng Liu, Gia-Wei Chern, and Di Luo
+
+- [arXiv:2408.00276](https://arxiv.org/abs/2408.00276)
+
 **Explicit block encodings of boundary value problems for many-body elliptic operators**
 
 Tyler Kharazi, Ahmad M. Alkadri, Jin-Peng Liu, Kranthi K. Mandadapu, and K. Birgitta Whaley

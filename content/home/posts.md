@@ -67,7 +67,7 @@ subtitle = ""
 
 +++
 
-Aug 2024: I'm thrilled to join [YMSC, Tsinghua University](https://ymsc.tsinghua.edu.cn/) as a Tenure Track Assistant Professor! Postdoc, PhD, and RA student positions are available at Liu's group: [Chinese advertisement](https://zhuanlan.zhihu.com/p/707407232).
+Aug 2024: I'm thrilled to join [YMSC, Tsinghua University](https://ymsc.tsinghua.edu.cn/) as a Tenure Track Assistant Professor! Postdoc, PhD, and RA student positions are available. Please reach out to me via email.
 
 Jun 2024: Our paper [Dense outputs from quantum simulations](https://arxiv.org/abs/2307.14441) is accepted by [Journal of Computational Physics](https://www.sciencedirect.com/science/article/abs/pii/S0021999124004625).
 

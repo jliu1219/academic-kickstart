@@ -67,7 +67,7 @@ subtitle = ""
 
 +++
 
-Sep 2024 - Nov 2024: I teach a YMSC course on [Quantum Scientific Computation and Quantum Altificial Intelligence](https://ymsc.tsinghua.edu.cn/info/1047/3834.htm) in fall of 2024.
+Sep 2024 - Nov 2024: I teach a YMSC course on [Quantum Scientific Computation and Quantum Altificial Intelligence](https://ymsc.tsinghua.edu.cn/info/1047/3834.htm) in 2024 Fall.
 
 Aug 2024: I'm thrilled to join [YMSC, Tsinghua University](https://ymsc.tsinghua.edu.cn/) as a Tenure Track Assistant Professor! Postdoc, PhD, and RA student positions are available. Please reach out to me via email.
 

@@ -69,7 +69,7 @@ subtitle = ""
 
 Sep 2024 - Nov 2024: I teach a YMSC course on [Quantum Scientific Computation and Quantum Altificial Intelligence](https://ymsc.tsinghua.edu.cn/info/1047/3834.htm) in 2024 Fall.
 
-Aug 2024: I'm thrilled to join [YMSC, Tsinghua University](https://ymsc.tsinghua.edu.cn/) as a Tenure Track Assistant Professor! Postdoc, PhD, and RA student positions are available. Please reach out to me via email.
+Aug 2024: I'm thrilled to join [YMSC, Tsinghua University](https://ymsc.tsinghua.edu.cn/) as a Tenure Track Assistant Professor! Postdoc, PhD, and RA student positions are available: [Chinese advertisement](https://mp.weixin.qq.com/s/keAT3XWYuX4TBxe2db_MoA). Please reach out to me via email.
 
 Jun 2024: Our paper [Dense outputs from quantum simulations](https://arxiv.org/abs/2307.14441) is accepted by [Journal of Computational Physics](https://www.sciencedirect.com/science/article/abs/pii/S0021999124004625).
 

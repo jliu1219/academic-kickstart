@@ -17,13 +17,25 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+[[experience]]
+  title = "Assistant Professor"
+  company = "YMSC, Tsinghua University"
+  company_url = ""
+  location = "Beijing"
+  date_start = "2024-09-02"
+  date_end = ""
+  description = """
+
+    """
+
 [[experience]]
   title = "CTP Postdoctoral Associate"
   company = "Center for Theoretical Physics, MIT"
   company_url = ""
   location = "Cambridge, MA"
-  date_start = "2023-08-17"
-  date_end = "2024-08-16"
+  date_start = "2023-08-31"
+  date_end = "2024-08-31"
   description = """
 
   * Jan 2024: ICCM Best Thesis Award (Gold Prize)

@@ -81,16 +81,16 @@ edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", content_dir 
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "jliu1219@terpmail.umd.edu"
+email = "liujinpeng@tsinghua.edu.cn"
 phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Center for Theoretical Physics, Massachusetts Institute of Technology", city = "Cambridge", region = "MA", postcode = "02139", country = "United States", country_code = "US"}
+address = {street = "Shuangqing Complex Building C638, Tsinghua University", city = "Beijing", region = "", postcode = "100084", country = "China", country_code = "CN"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "42.35980", longitude = "-71.09060"}
+coordinates = {latitude = "40.00740", longitude = "116.32780"}
 
 # Directions for visitors to locate you.
 directions = ""

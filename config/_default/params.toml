@@ -90,7 +90,7 @@ address = {street = "Shuangqing Complex Building C638, Tsinghua University", cit
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "40.00700", longitude = "116.32700"}
+coordinates = {latitude = "40.0015", longitude = "116.3215"}
 
 # Directions for visitors to locate you.
 directions = ""

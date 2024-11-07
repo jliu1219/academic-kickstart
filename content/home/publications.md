@@ -67,6 +67,12 @@ subtitle = ""
  css_class = ""
 +++
 
+**Toward end-to-end quantum simulation for protein dynamics**
+
+Zhenning Liu, Xiantao Li, Chunhao Wang, and Jin-Peng Liu
+
+- [arXiv:2411.03972](https://arxiv.org/abs/2411.03972)
+
 **Provably Efficient Adiabatic Learning for Quantum-Classical Dynamics**
 
 Changnan Peng, Jin-Peng Liu, Gia-Wei Chern, and Di Luo

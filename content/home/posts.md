@@ -67,6 +67,8 @@ subtitle = ""
 
 +++
 
+Jan 2025: I'm thrilled to receive the [ICCM Graduate Thesis Award](https://news.qq.com/rain/a/20250103A03DIA00) (formerly New World Mathematics Award) Doctoral Gold Award!
+
 Sep 2024 - Nov 2024: I teach a YMSC course on [Quantum Scientific Computation and Quantum Altificial Intelligence](https://ymsc.tsinghua.edu.cn/info/1047/3834.htm). I also organize a [quantum AI seminar](https://ymsc.tsinghua.edu.cn/info/1053/4023.htm) and co-organize a [quantum information seminar](https://www.bimsa.cn/research_detail/QuantumInformationSeminar.html) in Fall of 2024.
 
 Aug 2024: I'm thrilled to join [YMSC, Tsinghua University](https://ymsc.tsinghua.edu.cn/) as a Tenure Track Assistant Professor! Postdoc, PhD, and RA student positions are available. Please reach out to me via email.
@@ -76,8 +78,6 @@ Jun 2024: Our paper [Dense outputs from quantum simulations](https://arxiv.org/a
 Apr 2024: Our paper [Linear combination of Hamiltonian simulation for non-unitary dynamics with optimal state preparation cost](https://arxiv.org/abs/2303.01029) is accepted by [Physical Review Letters](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.131.150603) and [QIP 2024](https://qip2024.tw/site/mypage.aspx?pid=259&lang=en&sid=1522) and is highlighted by [SIAM News](https://sinews.siam.org/Details-Page/quantum-advantages-and-end-to-end-complexity).
 
 Feb 2024: Our paper [Towards provably efficient quantum algorithms for large-scale machine-learning models](https://arxiv.org/abs/2303.03428) is accepted by [Nature Communications](https://www.nature.com/articles/s41467-023-43957-x) and is highlighted by [MATH+](https://mathplus.de/news/quantum-algorithms-for-machine-learning-models-a-future-technology-nature-communications-papser-jens-eisert-etal/) and [Chicago PME News](https://pme.uchicago.edu/news/new-research-unites-quantum-engineering-and-artificial-intelligence).
-
-Jan 2024: I'm thrilled to receive the [2023 ICCM Best Thesis Award](http://yau-bta.com/en) (formerly New World Mathematics Award) Doctor Thesis Award, Gold Prize!
 
 Sep 2023 - Oct 2023:  I'm a long-term core participant and an invited speaker at [Program on Mathematical and Computational Challenges in Quantum Computing](https://www.ipam.ucla.edu/programs/long-programs/mathematical-and-computational-challenges-in-quantum-computing/), [Institute for Pure and Applied Mathematics, UCLA](http://www.ipam.ucla.edu/).
 

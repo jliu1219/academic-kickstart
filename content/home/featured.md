@@ -64,6 +64,14 @@ subtitle = ""
 
 +++
 
+**Advisor** 
+
+* Yanqiao Wang (PhD student, Qiuzhen College, Tsinghua)
+* Xinmiao Li (Incoming PhD student, Qiuzhen College, Tsinghua)
+* Yixuan Liang (Incoming PhD student, Qiuzhen College, Tsinghua)
+* Hao-En Li (Undergraduate, Department of Chemistry, Tsinghua)
+* Fanzhi Lu (Undergraduate, Zhili College, Tsinghua)
+
 **Instructor** at YMSC, Tsinghua University: 
 * Fall 2024: [Quantum Scientific Computation and Quantum Altificial Intelligence](https://ymsc.tsinghua.edu.cn/info/1047/3834.htm), YMSC course.
 

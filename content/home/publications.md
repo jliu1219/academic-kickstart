@@ -67,6 +67,12 @@ subtitle = ""
  css_class = ""
 +++
 
+**Towards efficient quantum algorithms for diffusion probability models**
+
+Yunfei Wang, Ruoxi Jiang, Yingda Fan, Xiaowei Jia, Jens Eisert, Junyu Liu, and Jin-Peng Liu
+
+- [arXiv:2502.14252](https://arxiv.org/abs/2502.14252)
+
 **Toward end-to-end quantum simulation for protein dynamics**
 
 Zhenning Liu, Xiantao Li, Chunhao Wang, and Jin-Peng Liu

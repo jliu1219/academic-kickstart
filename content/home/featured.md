@@ -84,5 +84,7 @@ subtitle = ""
 
 **Session Chair**: [IOS 24](https://ios2024.rice.edu/), [SIAM OP 23](https://www.siam.org/conferences/cm/conference/op23), [IPAM QNLA 22](https://www.ipam.ucla.edu/programs/workshops/quantum-numerical-linear-algebra/).
 
+**Program Committee Member**: [AQIS 25](http://aqis-conf.org/2025/)
+
 **CO-Principal Investigator**: NSF Robust Quantum Simulation Seed Grant: End-to-end applications of quantum linear system and differential equation algorithms.
 

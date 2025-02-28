@@ -67,6 +67,12 @@ subtitle = ""
  css_class = ""
 +++
 
+**Infinite-dimensional Extension of the Linear Combination of Hamiltonian Simulation: Theorems and Applications**
+
+Rundi Lu, Hao-En Li, Zhengwe Liu, and Jin-Peng Liu
+
+- [arXiv:2502.19688](https://arxiv.org/abs/2502.19688)
+
 **Towards efficient quantum algorithms for diffusion probability models**
 
 Yunfei Wang, Ruoxi Jiang, Yingda Fan, Xiaowei Jia, Jens Eisert, Junyu Liu, and Jin-Peng Liu

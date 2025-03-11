@@ -76,7 +76,8 @@ subtitle = ""
 * Fanzhi Lu (Zhili College, Tsinghua)
 
 **Instructor** at YMSC, Tsinghua University: 
-* Fall 2024: [Quantum Scientific Computation and Quantum Altificial Intelligence](https://ymsc.tsinghua.edu.cn/info/1047/3834.htm), YMSC course.
+* 2025 Spring: Quantum Algorithms, graduate course, Qiuzhen College, Tsinghua.
+* 2024 Fall: [Quantum Scientific Computation and Quantum Altificial Intelligence](https://ymsc.tsinghua.edu.cn/info/1047/3834.htm), open course, YMSC, Tsinghua.
 
 **Editor**: [Quantum](https://quantum-journal.org/).
 

@@ -72,7 +72,7 @@ subtitle = ""
 
 **Undergraduate Supervision** 
 
-* [Hao-En Li](https://haoen2021.github.io/) (Department of Chemistry, Tsinghua)
+* Hao-En Li (Department of Chemistry, Tsinghua)
 * Fanzhi Lu (Zhili College, Tsinghua)
 
 **Instructor** at YMSC, Tsinghua University: 

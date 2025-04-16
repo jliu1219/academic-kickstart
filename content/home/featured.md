@@ -64,20 +64,6 @@ subtitle = ""
 
 +++
 
-**PhD Advising** 
-
-* Yanqiao Wang (Qiuzhen College, Tsinghua)
-* Xinmiao Li (Qiuzhen College, Tsinghua)
-* Yixuan Liang (Qiuzhen College, Tsinghua)
-
-**Undergraduate Supervision** 
-
-* [Hao-En Li](https://haoen2021.github.io/) (Department of Chemistry, Tsinghua)
-* Fanzhi Lu (Zhili College, Tsinghua)
-* Jingyao Wang (Yao Class, Tsinghua)
-* Weiliang Wang (Yao Class, Tsinghua)
-
-
 **Instructor** at YMSC, Tsinghua University: 
 * 2025 Spring: Quantum Algorithms, graduate course, Qiuzhen College, Tsinghua.
 * 2024 Fall: [Quantum Scientific Computation and Quantum Altificial Intelligence](https://ymsc.tsinghua.edu.cn/info/1047/3834.htm), open course, YMSC, Tsinghua.

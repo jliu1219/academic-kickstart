@@ -20,7 +20,7 @@
 
 [[main]]
   name = "Group"
-  url = "#people"
+  url = "#group"
   weight = 40
 
 [[main]]

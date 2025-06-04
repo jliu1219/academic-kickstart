@@ -96,6 +96,7 @@ Changnan Peng, Jin-Peng Liu, Gia-Wei Chern, and Di Luo
 Tyler Kharazi, Ahmad M. Alkadri, Jin-Peng Liu, Kranthi K. Mandadapu, and K. Birgitta Whaley
 
 - [arXiv:2407.18347](https://arxiv.org/abs/2407.18347)
+- [Quantum 9, 1764 (2025)](https://quantum-journal.org/papers/q-2025-06-04-1764/)
 
 **Dense outputs from quantum simulations**
 

@@ -68,10 +68,13 @@ subtitle = ""
 * Yanqiao Wang (Qiuzhen College, Tsinghua)
 * Xinmiao Li (Qiuzhen College, Tsinghua)
 * Yixuan Liang (Qiuzhen College, Tsinghua)
+* Kangyun Zhou (Qiuzhen College, Tsinghua)
 
 **Undergraduate Supervision** 
 
 * [Hao-En Li](https://haoen2021.github.io/) (Department of Chemistry, Tsinghua)
 * Fanzhi Lu (Zhili College, Tsinghua)
+* Muzhou Ma (Department of Electronic Engineering, Tsinghua)
 * Jingyao Wang (Yao Class, Tsinghua)
 * Weiliang Wang (Yao Class, Tsinghua)
+* Junkai Wang (Department of Physics, Nanjing)

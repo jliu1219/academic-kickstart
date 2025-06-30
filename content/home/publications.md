@@ -67,6 +67,12 @@ subtitle = ""
  css_class = ""
 +++
 
+**Arbitrary Boundary Conditions and Constraints in Quantum Algorithms for Differential Equations via Penalty Projections**
+
+Philipp Schleich, Tyler Kharazi, Xiangyu Li, Jin-Peng Liu, Alan Aspuru-Guzik, and Nathan Wiebe
+
+- [arXiv:2506.21751](https://arxiv.org/abs/2506.21751)
+
 **Infinite-dimensional Extension of the Linear Combination of Hamiltonian Simulation: Theorems and Applications**
 
 Rundi Lu, Hao-En Li, Zhengwe Liu, and Jin-Peng Liu

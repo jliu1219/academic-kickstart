@@ -135,7 +135,7 @@ Dong An, Jin-Peng Liu, and Lin Lin
 Dong An, Jin-Peng Liu, Daochen Wang, and Qi Zhao
 
 - [arXiv:2211.05246](https://arxiv.org/abs/2211.05246)
-- Accepted by [Communications in Mathematical Physics](https://link.springer.com/journal/220)
+- [Communications in Mathematical Physics 406, 189 (2025)](https://link.springer.com/article/10.1007/s00220-025-05358-7)
 
 **Quantum algorithms for sampling log-concave distributions and estimating normalizing constants**
 

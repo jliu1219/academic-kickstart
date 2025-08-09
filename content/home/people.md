@@ -72,9 +72,8 @@ subtitle = ""
 
 **Undergraduate Supervision** 
 
-* [Hao-En Li](https://haoen2021.github.io/) (Department of Chemistry, Tsinghua)
-* Fanzhi Lu (Zhili College, Tsinghua)
-* Muzhou Ma (Department of Electronic Engineering, Tsinghua)
+* [Hao-En Li](https://haoen2021.github.io/) (Department of Chemistry, Tsinghua --> PhD at UC Berkeley)
+* Fanzhi Lu (Zhili College, Tsinghua --> PhD at UT Austin)
+* Muzhou Ma (Department of Electronic Engineering, Tsinghua --> PhD at Caltech)
 * Jingyao Wang (Yao Class, Tsinghua)
 * Weiliang Wang (Yao Class, Tsinghua)
-* Junkai Wang (Department of Physics, Nanjing)

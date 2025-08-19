@@ -67,6 +67,12 @@ subtitle = ""
  css_class = ""
 +++
 
+**BELT: Block Encoding of Linear Transformation on Density Matrices**
+
+Fuchuan Wei, Rundi Lu, Yuguo Shao, Junfeng Li, Jin-Peng Liu, and Zhengwei Liu
+
+- [arXiv:2508.12858](https://arxiv.org/abs/2508.12858)
+
 **Arbitrary Boundary Conditions and Constraints in Quantum Algorithms for Differential Equations via Penalty Projections**
 
 Philipp Schleich, Tyler Kharazi, Xiangyu Li, Jin-Peng Liu, Alan Aspuru-Guzik, and Nathan Wiebe

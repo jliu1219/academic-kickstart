@@ -65,15 +65,15 @@ subtitle = ""
 
 **PhD Advising** 
 
-* Yanqiao Wang (Qiuzhen College, Tsinghua)
-* Xinmiao Li (Qiuzhen College, Tsinghua)
-* Yixuan Liang (Qiuzhen College, Tsinghua)
-* Kangyun Zhou (Qiuzhen College, Tsinghua)
+* Yanqiao Wang (2024--): Qiuzhen College, Tsinghua
+* Xinmiao Li (2025--): Qiuzhen College, Tsinghua
+* Yixuan Liang (2025--): Qiuzhen College, Tsinghua
+* Kangyun Zhou (2026--): Qiuzhen College, Tsinghua
 
 **Undergraduate Supervision** 
 
-* [Hao-En Li](https://haoen2021.github.io/) (Department of Chemistry, Tsinghua --> PhD at UC Berkeley)
-* Fanzhi Lu (Zhili College, Tsinghua --> PhD at UT Austin)
-* Muzhou Ma (Department of Electronic Engineering, Tsinghua --> PhD at Caltech)
-* Jingyao Wang (Yao Class, Tsinghua)
-* Weiliang Wang (Yao Class, Tsinghua)
+* [Hao-En Li](https://haoen2021.github.io/) (2024--): Department of Chemistry, Tsinghua --> PhD at UC Berkeley
+* Fanzhi Lu (2024--): Zhili College, Tsinghua --> PhD at UT Austin
+* Muzhou Ma (2024--): Department of Electronic Engineering, Tsinghua --> PhD at Caltech
+* Jingyao Wang (2024--): Yao Class, Tsinghua
+* Weiliang Wang (2024--): Yao Class, Tsinghua

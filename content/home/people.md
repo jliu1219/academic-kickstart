@@ -74,9 +74,9 @@ subtitle = ""
 
 **Undergraduate Supervision/Research Interns** 
 
-- [Hao-En Li](https://haoen2021.github.io/) (2024--2025): Undergraduate, Department of Chemistry, Tsinghua $\longrightarrow$ PhD, UC Berkeley
-- Fanzhi Lu (2024--2025): Undergraduate, Zhili College, Tsinghua $\longrightarrow$ PhD, UT Austin
-- Muzhou Ma (2024--2025): Undergraduate, Department of Electronic Engineering, Tsinghua $\longrightarrow$ PhD, Caltech
+- [Hao-En Li](https://haoen2021.github.io/) (2024--2025): Undergraduate, Department of Chemistry, Tsinghua --> PhD, UC Berkeley
+- Fanzhi Lu (2024--2025): Undergraduate, Zhili College, Tsinghua --> PhD, UT Austin
+- Muzhou Ma (2024--2025): Undergraduate, Department of Electronic Engineering, Tsinghua --> PhD, Caltech
 - Weiliang Wang (2024--): Undergraduate, Yao Class, Tsinghua
 - Junkai Wang (2024--): Undergraduate, Department of Physics, Naijing University
 - Leyu Chen (2024--): PhD, Department of Mathematics, Beihang University

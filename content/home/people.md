@@ -69,16 +69,12 @@ subtitle = ""
 - Yanqiao Wang (2024--): Qiuzhen College, Tsinghua (co-advised with [Yang Liu](https://nlp.csai.tsinghua.edu.cn/~ly/))
 - Xinmiao Li (2025--): Qiuzhen College, Tsinghua
 - Yixuan Liang (2025--): Qiuzhen College, Tsinghua
-- Jingyao Wang (2025--): Yao Class, Tsinghua (co-advised with [Zhengfeng Ji](https://www.cs.tsinghua.edu.cn/csen/info/1312/4388.htm))
 - Kangyun Zhou (2026--): Qiuzhen College, Tsinghua
 
 **Undergraduate Supervision/Research Interns** 
 
-- [Hao-En Li](https://haoen2021.github.io/) (2024--2025): Undergraduate, Department of Chemistry, Tsinghua --> PhD, UC Berkeley
-- Fanzhi Lu (2024--2025): Undergraduate, Zhili College, Tsinghua --> PhD, UT Austin
-- Muzhou Ma (2024--2025): Undergraduate, Department of Electronic Engineering, Tsinghua --> PhD, Caltech
-- Weiliang Wang (2024--): Undergraduate, Yao Class, Tsinghua
-- Junkai Wang (2024--): Undergraduate, Department of Physics, Naijing University
-- Leyu Chen (2024--): PhD, Department of Mathematics, Beihang University
-- Chang Liu (2024--): PhD, Institute of Applied Physics and Computational Mathematics
-- [Songqinghao Yang](https://songqinghao-yang.github.io/) (2024--): PhD, Cavendish Laboratory, University of Cambridge
+- [Hao-En Li](https://haoen2021.github.io/) (2024--2025): Department of Chemistry, Tsinghua --> PhD, UC Berkeley
+- Fanzhi Lu (2024--2025): Zhili College, Tsinghua --> PhD, UT Austin
+- Muzhou Ma (2024--2025): Department of Electronic Engineering, Tsinghua --> PhD, Caltech
+- Jingyao Wang (2024--): Yao Class, Tsinghua
+- Weiliang Wang (2024--): Yao Class, Tsinghua

@@ -67,6 +67,12 @@ subtitle = ""
  css_class = ""
 +++
 
+**Circuit-Efficient Randomized Quantum Simulation of Non-Unitary Dynamics with Observable-Driven and Symmetry-Aware Designs**
+
+Songqinghao Yang and Jin-Peng Liu
+
+- [arXiv:2509.08030](https://arxiv.org/abs/2509.08030)
+
 **BELT: Block Encoding of Linear Transformation on Density Matrices**
 
 Fuchuan Wei, Rundi Lu, Yuguo Shao, Junfeng Li, Jin-Peng Liu, and Zhengwei Liu

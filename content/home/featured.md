@@ -65,6 +65,7 @@ subtitle = ""
 +++
 
 **Instructor** at YMSC, Tsinghua University: 
+* 2025 Fall: Numerical Methods of PDEs, undergraduate course, Qiuzhen College, Tsinghua.
 * 2025 Spring: Quantum Algorithms, graduate course, Qiuzhen College, Tsinghua.
 * 2024 Fall: [Quantum Scientific Computation and Quantum Altificial Intelligence](https://ymsc.tsinghua.edu.cn/info/1047/3834.htm), open course, YMSC, Tsinghua.
 

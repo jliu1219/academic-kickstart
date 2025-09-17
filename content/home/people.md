@@ -79,7 +79,7 @@ subtitle = ""
 - Leyu Chen (2024--): Department of Mathematics, Beihang University
 - Chang Liu (2024--): Institute of Applied Physics and Computational Mathematics
 - Yuxin Zhang (2024--): Academy of Mathematics and Systems Science, Chinese Academy of Sciences
-- [Songqinghao Yang](https://haoen2021.github.io/) (2025--): Cavendish Laboratory, University of Cambridge  
+- [Songqinghao Yang](https://songqinghao-yang.github.io/) (2025--): Cavendish Laboratory, University of Cambridge  
 
 **Gone But Not Forgotten** 
 

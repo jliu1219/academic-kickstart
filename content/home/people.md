@@ -85,4 +85,4 @@ subtitle = ""
 
 - [Hao-En Li](https://haoen2021.github.io/) (2024--2025): Department of Chemistry, Tsinghua --> PhD, UC Berkeley
 - Fanzhi Lu (2024--2025): Zhili College, Tsinghua --> PhD, UT Austin
-- Muzhou Ma (2024--2025): Department of Electronic Engineering, Tsinghua --> PhD, Caltech
+- [Muzhou Ma](https://www.cms.caltech.edu/people/muzhou-richard-ma) (2024--2025): Department of Electronic Engineering, Tsinghua --> PhD, Caltech

@@ -67,6 +67,12 @@ subtitle = ""
  css_class = ""
 +++
 
+**Variational quantum simulation of many-body dissipative dynamics on a superconducting quantum processor**
+
+Huan-Yu Liu, Tai-Ping Sun, Zhao-Yun Chen, Cheng Xue, Chao Wang, Xi-Ning Zhuang, Jin-Peng Liu, Wei Yi, Yu-Chun Wu, and Guo-Ping Guo
+
+- [arXiv:2510.20118](https://arxiv.org/abs/2510.20118)
+
 **Circuit-Efficient Randomized Quantum Simulation of Non-Unitary Dynamics with Observable-Driven and Symmetry-Aware Designs**
 
 Songqinghao Yang and Jin-Peng Liu

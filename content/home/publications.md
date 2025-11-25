@@ -67,6 +67,12 @@ subtitle = ""
  css_class = ""
 +++
 
+**Toward end-to-end quantum simulation of rapidly distorted turbulence**
+
+Zhaoyuan Meng, Leyu Chen, Jin-Peng Liu, and Guowei He
+
+- [arXiv:2511.18802](https://arxiv.org/abs/2511.18802)
+
 **Variational quantum simulation of many-body dissipative dynamics on a superconducting quantum processor**
 
 Huan-Yu Liu, Tai-Ping Sun, Zhao-Yun Chen, Cheng Xue, Chao Wang, Xi-Ning Zhuang, Jin-Peng Liu, Wei Yi, Yu-Chun Wu, and Guo-Ping Guo
@@ -93,7 +99,7 @@ Philipp Schleich, Tyler Kharazi, Xiangyu Li, Jin-Peng Liu, Alan Aspuru-Guzik, an
 
 **Infinite-dimensional Extension of the Linear Combination of Hamiltonian Simulation: Theorems and Applications**
 
-Rundi Lu, Hao-En Li, Zhengwe Liu, and Jin-Peng Liu
+Rundi Lu, Hao-En Li, Zhengwei Liu, and Jin-Peng Liu
 
 - [arXiv:2502.19688](https://arxiv.org/abs/2502.19688)
 

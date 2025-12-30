@@ -27,6 +27,9 @@ date_format = "Jan 2006"
   date_end = ""
   description = """
 
+  * Sep 2025: Excellent Young Scientists Fund Program
+  * Jun 2025: National Science and Technology Major Project
+
     """
 
 [[experience]]

@@ -79,5 +79,4 @@ subtitle = ""
 
 **Program Committee Member**: [AQIS 25](http://aqis-conf.org/2025/)
 
-**CO-Principal Investigator**: NSF Robust Quantum Simulation Seed Grant: End-to-end applications of quantum linear system and differential equation algorithms.
-
+**Principal Investigator**: NSF Robust Quantum Simulation Seed Grant, National Science and Technology Major Project, Excellent Young Scientists Fund Program

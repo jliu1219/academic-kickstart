@@ -67,6 +67,12 @@ subtitle = ""
  css_class = ""
 +++
 
+**Quantum Speedups for Derivative Pricing Beyond Black-Scholes**
+
+Dylan Herman, Yue Sun, Jin-Peng Liu, Marco Pistoia, Charlie Che, Rob Otter, Shouvanik Chakrabarti, and Aram Harrow
+
+- [arXiv:2602.03725](https://arxiv.org/abs/2602.03725)
+
 **Toward end-to-end quantum simulation of rapidly distorted turbulence**
 
 Zhaoyuan Meng, Leyu Chen, Jin-Peng Liu, and Guowei He

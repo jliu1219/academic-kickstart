@@ -67,6 +67,12 @@ subtitle = ""
  css_class = ""
 +++
 
+**New gradient methods with 3 dimensional quadratic termination**
+
+Yixin Xie, Jin-Peng Liu, Cong Sun, and Ya-Xiang Yuan
+
+- [arXiv:2602.03725](https://arxiv.org/abs/2602.13141)
+
 **Quantum Speedups for Derivative Pricing Beyond Black-Scholes**
 
 Dylan Herman, Yue Sun, Jin-Peng Liu, Marco Pistoia, Charlie Che, Rob Otter, Shouvanik Chakrabarti, and Aram Harrow

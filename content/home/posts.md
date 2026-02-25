@@ -67,6 +67,8 @@ subtitle = ""
 
 +++
 
+Nov 2025: I'm thrilled to receive the Excellent Young Scientists Fund Program!
+
 Jul 2025 - Aug 2025:  I teach a Yau Mathcamp course on [Quantum Linear Algebra and Quantum Artificial Intelligence](https://2025mathcamp.simis.cn/QLA.html) at SIMIS in summer of 2025.
 
 Jun 2025: NSF's CIQC media report: [CIQC’s Impact in Action: Building Quantum Careers in Mathematics](https://www.ciqc.berkeley.edu/news/ciqcs-impact-in-action-building-quantum-careers-in-mathematics).

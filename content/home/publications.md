@@ -71,7 +71,7 @@ subtitle = ""
 
 Yixin Xie, Jin-Peng Liu, Cong Sun, and Ya-Xiang Yuan
 
-- [arXiv:2602.03725](https://arxiv.org/abs/2602.13141)
+- [arXiv:2602.13141](https://arxiv.org/abs/2602.13141)
 
 **Quantum Speedups for Derivative Pricing Beyond Black-Scholes**
 

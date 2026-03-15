@@ -77,6 +77,7 @@ subtitle = ""
 
 **Session Chair**: [CMCMS 25](https://my.31huiyi.com/site/pages/index/index?pageId=dcfa0000-b665-5ae1-afd9-08dd553be668), [CSIAM 25](https://meeting.csiam.org.cn/#/2025/), [IOS 24](https://ios2024.rice.edu/), [SIAM OP 23](https://www.siam.org/conferences/cm/conference/op23), [IPAM QNLA 22](https://www.ipam.ucla.edu/programs/workshops/quantum-numerical-linear-algebra/).
 
-**Program Committee Member**: [AQIS 25](http://aqis-conf.org/2025/)
+**Program Committee Member**: [CM 26](http://www.mmrc.iss.ac.cn/cscm/cm2026/index.html)
+, [AQIS 25](http://aqis-conf.org/2025/), [CM 24](http://www.mmrc.iss.ac.cn/cscm/cm2024/index.html)
 
 **Principal Investigator**: NSF Robust Quantum Simulation Seed Grant, National Science and Technology Major Project, Excellent Young Scientists Fund Program

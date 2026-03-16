@@ -67,6 +67,12 @@ subtitle = ""
  css_class = ""
 +++
 
+**Efficient Quantum Simulation for Nonlinear Stochastic Differential Equations**
+
+Xiangyu Li, Ahmet Burak Catli, Ho Kiat Lim, Matthew Pocrnic, Dong An, Jin-Peng Liu, and Nathan Wiebe
+
+- [arXiv:2603.12398](https://arxiv.org/abs/2603.12398)
+
 **New gradient methods with 3 dimensional quadratic termination**
 
 Yixin Xie, Jin-Peng Liu, Cong Sun, and Ya-Xiang Yuan

@@ -90,6 +90,7 @@ Dylan Herman, Yue Sun, Jin-Peng Liu, Marco Pistoia, Charlie Che, Rob Otter, Shou
 Zhaoyuan Meng, Leyu Chen, Jin-Peng Liu, and Guowei He
 
 - [arXiv:2511.18802](https://arxiv.org/abs/2511.18802)
+- [Journal of Computational Physics, 114888 (2026)](https://www.sciencedirect.com/science/article/pii/S002199912600238X)
 
 **Variational quantum simulation of many-body dissipative dynamics on a superconducting quantum processor**
 

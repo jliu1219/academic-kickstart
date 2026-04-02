@@ -67,6 +67,12 @@ subtitle = ""
  css_class = ""
 +++
 
+**Quantum Algorithms for Gibbs Expectation of Non-log-concave and Heavy-tailed Distributions**
+
+Xinmiao Li and Jin-Peng Liu
+
+- [arXiv:2604.00656](https://arxiv.org/abs/2604.00656)
+
 **Efficient Quantum Simulation for Nonlinear Stochastic Differential Equations**
 
 Xiangyu Li, Ahmet Burak Catli, Ho Kiat Lim, Matthew Pocrnic, Dong An, Jin-Peng Liu, and Nathan Wiebe

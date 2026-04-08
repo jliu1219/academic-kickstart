@@ -67,6 +67,8 @@ subtitle = ""
 
 +++
 
+Mar 2026: Our paper [Toward end-to-end quantum simulation of rapidly distorted turbulence](https://arxiv.org/abs/2511.18802) is accepted by [Journal of Computational Physics](https://www.sciencedirect.com/science/article/abs/pii/S002199912600238X).
+
 Nov 2025: I'm thrilled to receive the Excellent Young Scientists Fund Program!
 
 Jul 2025 - Aug 2025:  I teach a Yau Mathcamp course on [Quantum Linear Algebra and Quantum Artificial Intelligence](https://2025mathcamp.simis.cn/QLA.html) at SIMIS in summer of 2025.
@@ -75,7 +77,7 @@ Jun 2025: NSF's CIQC media report: [CIQC’s Impact in Action: Building Quantum 
 
 Jan 2025: I'm thrilled to receive the [2023 ICCM Graduate Thesis Award, Gold Prize](http://yau-bta.com/show-86-40.html) (formerly New World Mathematics Award)! Media report in [Shanghai News](https://news.qq.com/rain/a/20250103A03DIA00).
 
-Sep 2024 - Nov 2024: I teach a YMSC course on [Quantum Scientific Computation and Quantum Altificial Intelligence](https://ymsc.tsinghua.edu.cn/info/1047/3834.htm). I also organize a [quantum AI seminar](https://ymsc.tsinghua.edu.cn/info/1053/4023.htm) and co-organize a [quantum information seminar](https://www.bimsa.cn/research_detail/QuantumInformationSeminar.html) in Fall of 2024.
+Sep 2024 - Nov 2024: I teach a YMSC course on [Quantum Scientific Computation and Quantum Artificial Intelligence](https://ymsc.tsinghua.edu.cn/info/1047/3834.htm). I also organize a [quantum AI seminar](https://ymsc.tsinghua.edu.cn/info/1053/4023.htm) and co-organize a [quantum information seminar](https://www.bimsa.cn/research_detail/QuantumInformationSeminar.html) in Fall of 2024.
 
 Aug 2024: I'm thrilled to join [YMSC, Tsinghua University](https://ymsc.tsinghua.edu.cn/) as a Tenure Track Assistant Professor! Postdoc, PhD, and RA student positions are available. Please reach out to me via email.
 

@@ -67,6 +67,12 @@ subtitle = ""
  css_class = ""
 +++
 
+**Sign Embedding Quantum Algorithms for Matrix Equations and Matrix Functions**
+
+Yanqiao Wang and Jin-Peng Liu
+
+- [arXiv:2604.25333](https://arxiv.org/abs/2604.25333)
+
 **Quantum Algorithms for Gibbs Expectation of Non-log-concave and Heavy-tailed Distributions**
 
 Xinmiao Li and Jin-Peng Liu

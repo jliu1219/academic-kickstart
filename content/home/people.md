@@ -71,6 +71,7 @@ subtitle = ""
 - Yixuan Liang (2025--): Qiuzhen College, Tsinghua
 - Jingyao Wang (2025--): Yao Class, Tsinghua (co-advised with [Zhengfeng Ji](https://www.cs.tsinghua.edu.cn/csen/info/1312/4388.htm))
 - Kangyun Zhou (2026--): Qiuzhen College, Tsinghua
+- Zijian Song (2026--): Qiuzhen College, Tsinghua
 
 **Undergraduate Supervision/Research Interns** 
 

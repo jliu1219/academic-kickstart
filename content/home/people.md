@@ -82,6 +82,7 @@ subtitle = ""
 - Yuxin Zhang (2024--): Academy of Mathematics and Systems Science, Chinese Academy of Sciences
 - [Bowen Li](https://bowenyl.github.io/) (2025--): Academy of Mathematics and Systems Science, Chinese Academy of Sciences
 - [Songqinghao Yang](https://songqinghao-yang.github.io/) (2025--): Cavendish Laboratory, University of Cambridge  
+- Hongjia Chen (2026--): School of Mathematical Sciences, Peking University
 
 **Gone But Not Forgotten** 
 

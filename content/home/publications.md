@@ -116,6 +116,7 @@ Huan-Yu Liu, Tai-Ping Sun, Zhao-Yun Chen, Cheng Xue, Chao Wang, Xi-Ning Zhuang, 
 Songqinghao Yang and Jin-Peng Liu
 
 - [arXiv:2509.08030](https://arxiv.org/abs/2509.08030)
+- To be presented at [SciCADE 2026](https://scicade.org/)
 
 **BELT: Block Encoding of Linear Transformation on Density Matrices**
 

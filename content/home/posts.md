@@ -67,7 +67,7 @@ subtitle = ""
 
 +++
 
-Jul 2026: I will give [lectures](http://www.fields.utoronto.ca/activities/26-27/wksp-QADE) at [Thematic Program on Quantum Algorithms for Differential Equations, The Field Institute](http://www.fields.utoronto.ca/activities/26-27/quantum-algorithms-QADE).
+Jul 2026: I will give [tutorial lectures](http://www.fields.utoronto.ca/activities/26-27/wksp-QADE) at [Thematic Program on Quantum Algorithms for Differential Equations, The Field Institute](http://www.fields.utoronto.ca/activities/26-27/quantum-algorithms-QADE).
 
 Mar 2026: Our paper [Toward end-to-end quantum simulation of rapidly distorted turbulence](https://arxiv.org/abs/2511.18802) is accepted by [Journal of Computational Physics](https://www.sciencedirect.com/science/article/abs/pii/S002199912600238X).
 

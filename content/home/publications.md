@@ -67,6 +67,12 @@ subtitle = ""
  css_class = ""
 +++
 
+**Structure-Preserving Quantum Method of Lines for Evolutionary PDEs with Mixed Boundary Conditions**
+
+Yixuan Liang and Jin-Peng Liu
+
+- [arXiv:2606.03407](https://arxiv.org/abs/2606.03407)
+
 **Sign Embedding Quantum Algorithms for Matrix Equations and Matrix Functions**
 
 Yanqiao Wang and Jin-Peng Liu

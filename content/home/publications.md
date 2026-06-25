@@ -67,6 +67,12 @@ subtitle = ""
  css_class = ""
 +++
 
+**From Meta Idea to Advanced Mathematical Discovery -- Human-AI Co-Discovery of Sign-Embedding Quantum Algorithms**
+
+Yanqiao Wang, Jin-Peng Liu, Peng Li, and Yang Liu
+
+- [arXiv:2606.24899](https://arxiv.org/abs/2606.24899)
+
 **Structure-Preserving Quantum Method of Lines for Evolutionary PDEs with Mixed Boundary Conditions**
 
 Yixuan Liang and Jin-Peng Liu
@@ -78,6 +84,7 @@ Yixuan Liang and Jin-Peng Liu
 Yanqiao Wang and Jin-Peng Liu
 
 - [arXiv:2604.25333](https://arxiv.org/abs/2604.25333)
+- To be presented at [SciCADE 2026](https://scicade.org/) and Quantum BC Seminar at [UBC](https://www.cs.ubc.ca/)
 
 **Quantum Algorithms for Gibbs Expectation of Non-log-concave and Heavy-tailed Distributions**
 

@@ -70,17 +70,15 @@ subtitle = ""
 - Xinmiao Li (2025--): Qiuzhen College, Tsinghua
 - Yixuan Liang (2025--): Qiuzhen College, Tsinghua
 - Jingyao Wang (2025--): Yao Class, Tsinghua (co-advised with [Zhengfeng Ji](https://www.cs.tsinghua.edu.cn/csen/info/1312/4388.htm))
+- Weiliang Wang (2026--): Yao Class, Tsinghua (co-advised with [Zhengfeng Ji](https://www.cs.tsinghua.edu.cn/csen/info/1312/4388.htm))
 - Kangyun Zhou (2026--): Qiuzhen College, Tsinghua
 - Zijian Song (2026--): Qiuzhen College, Tsinghua
 
 **Undergraduate Supervision/Research Interns** 
 
-- Weiliang Wang (2024--): Yao Class, Tsinghua
-- Junkai Wang (2024--): Department of Physics, Naijing University
 - Leyu Chen (2024--): Department of Mathematics, Beihang University
 - Chang Liu (2024--): Institute of Applied Physics and Computational Mathematics
-- Yuxin Zhang (2024--): Academy of Mathematics and Systems Science, Chinese Academy of Sciences
-- [Bowen Li](https://bowenyl.github.io/) (2025--): Academy of Mathematics and Systems Science, Chinese Academy of Sciences
+- Junkai Wang (2024--): Department of Physics, Naijing University
 - [Songqinghao Yang](https://songqinghao-yang.github.io/) (2025--): Cavendish Laboratory, University of Cambridge  
 - Hongjia Chen (2026--): School of Mathematical Sciences, Peking University
 
@@ -89,3 +87,5 @@ subtitle = ""
 - [Hao-En Li](https://haoen2021.github.io/) (2024--2025): Department of Chemistry, Tsinghua --> PhD, UC Berkeley
 - Fanzhi Lu (2024--2025): Zhili College, Tsinghua --> PhD, UT Austin
 - [Muzhou Ma](https://www.cms.caltech.edu/people/muzhou-richard-ma) (2024--2025): Department of Electronic Engineering, Tsinghua --> PhD, Caltech
+- [Yuxin Zhang](https://yuxinzhangmath.github.io/) (2024--2026): AMSS, Chinese Academy of Sciences --> Postdoc, Alfréd Rényi Institute
+- [Bowen Li](https://bowenyl.github.io/) (2025--2026): AMSS, Chinese Academy of Sciences --> Postdoc, Linköping University

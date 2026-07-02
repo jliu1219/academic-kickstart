@@ -71,7 +71,7 @@ subtitle = ""
 
 Xinmiao Li, Yanqiao Wang, Rundu Lu, and Jin-Peng Liu
 
-- [arXiv:2604.00656](https://arxiv.org/abs/2606.31076)
+- [arXiv:2606.31076](https://arxiv.org/abs/2606.31076)
 
 **From Meta Idea to Advanced Mathematical Discovery -- Human-AI Co-Discovery of Sign-Embedding Quantum Algorithms**
 

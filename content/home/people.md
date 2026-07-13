@@ -84,8 +84,8 @@ subtitle = ""
 
 **Gone But Not Forgotten** 
 
-- [Hao-En Li](https://haoen2021.github.io/) (2024--2025): Department of Chemistry, Tsinghua --> PhD, UC Berkeley
-- Fanzhi Lu (2024--2025): Zhili College, Tsinghua --> PhD, UT Austin
-- [Muzhou Ma](https://www.cms.caltech.edu/people/muzhou-richard-ma) (2024--2025): Department of Electronic Engineering, Tsinghua --> PhD, Caltech
-- [Yuxin Zhang](https://yuxinzhangmath.github.io/) (2024--2026): AMSS, Chinese Academy of Sciences --> Postdoc, Alfréd Rényi Institute
-- [Bowen Li](https://bowenyl.github.io/) (2025--2026): AMSS, Chinese Academy of Sciences --> Postdoc, Linköping University
+- [Hao-En Li](https://haoen2021.github.io/) (2024--2025): Undergraduate, Department of Chemistry, Tsinghua --> PhD, UC Berkeley
+- Fanzhi Lu (2024--2025): Undergraduate, Zhili College, Tsinghua --> PhD, UT Austin
+- [Muzhou Ma](https://www.cms.caltech.edu/people/muzhou-richard-ma) (2024--2025): Undergraduate, Department of Electronic Engineering, Tsinghua --> PhD, Caltech
+- [Yuxin Zhang](https://yuxinzhangmath.github.io/) (2024--2026): PhD, AMSS, Chinese Academy of Sciences --> Postdoc, Alfréd Rényi Institute
+- [Bowen Li](https://bowenyl.github.io/) (2025--2026): PhD, AMSS, Chinese Academy of Sciences --> Postdoc, Linköping University

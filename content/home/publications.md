@@ -90,7 +90,8 @@ Yixuan Liang and Jin-Peng Liu
 Yanqiao Wang and Jin-Peng Liu
 
 - [arXiv:2604.25333](https://arxiv.org/abs/2604.25333)
-- To be presented at [SciCADE 2026](https://scicade.org/) and Quantum BC Seminar at [UBC](https://www.cs.ubc.ca/)
+- Presented at [SciCADE 2026](https://scicade.org/) 
+- To be presented at Quantum BC Seminar at [UBC](https://www.cs.ubc.ca/)
 
 **Quantum Algorithms for Gibbs Expectation of Non-log-concave and Heavy-tailed Distributions**
 
@@ -128,7 +129,7 @@ Zhaoyuan Meng, Leyu Chen, Jin-Peng Liu, and Guowei He
 Huan-Yu Liu, Tai-Ping Sun, Zhao-Yun Chen, Cheng Xue, Chao Wang, Xi-Ning Zhuang, Jin-Peng Liu, Wei Yi, Yu-Chun Wu, and Guo-Ping Guo
 
 - [arXiv:2510.20118](https://arxiv.org/abs/2510.20118)
-- To be presented at [QSim 2026](https://qsimconference.org/)
+- Presented at [QSim 2026](https://qsimconference.org/)
 
 **Circuit-Efficient Randomized Quantum Simulation of Non-Unitary Dynamics with Observable-Driven and Symmetry-Aware Designs**
 

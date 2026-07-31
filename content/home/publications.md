@@ -97,7 +97,7 @@ Yixuan Liang and Jin-Peng Liu
 Yanqiao Wang and Jin-Peng Liu
 
 - [arXiv:2604.25333](https://arxiv.org/abs/2604.25333)
-- Presented at [SciCADE 2026](https://scicade.org/) 
+- Presented at [SciCADE 2026](https://scicade.org/) and [CQCC 2026](https://ccf.org.cn/CQCC2026)
 - To be presented at Quantum BC Seminar at [UBC](https://www.cs.ubc.ca/)
 
 **Quantum Algorithms for Gibbs Expectation of Non-log-concave and Heavy-tailed Distributions**

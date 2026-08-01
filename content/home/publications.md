@@ -111,6 +111,7 @@ Xinmiao Li and Jin-Peng Liu
 Xiangyu Li, Ahmet Burak Catli, Ho Kiat Lim, Matthew Pocrnic, Dong An, Jin-Peng Liu, and Nathan Wiebe
 
 - [arXiv:2603.12398](https://arxiv.org/abs/2603.12398)
+- Presented at [Thematic Program on Quantum Algorithms for Differential Equations, The Fields Institute](http://www.fields.utoronto.ca/activities/26-27/wksp-QADE)
 
 **New gradient methods with 3 dimensional quadratic termination**
 

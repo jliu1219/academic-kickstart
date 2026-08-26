@@ -67,6 +67,8 @@ subtitle = ""
 
 +++
 
+Aug 2026: Our paper [Variational quantum simulation of many-body dissipative dynamics on a superconducting quantum processor](https://arxiv.org/abs/2510.20118) is accepted by [QSim 2026](https://qsimconference.org/).
+
 Jul 2026: I give [tutorial lectures](http://www.fields.utoronto.ca/activities/26-27/wksp-QADE) at [Thematic Program on Quantum Algorithms for Differential Equations, The Fields Institute](http://www.fields.utoronto.ca/activities/26-27/quantum-algorithms-QADE).
 
 Mar 2026: Our paper [Toward end-to-end quantum simulation of rapidly distorted turbulence](https://arxiv.org/abs/2511.18802) is accepted by [Journal of Computational Physics](https://www.sciencedirect.com/science/article/abs/pii/S002199912600238X).

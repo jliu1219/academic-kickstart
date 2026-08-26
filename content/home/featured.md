@@ -65,6 +65,7 @@ subtitle = ""
 +++
 
 **Instructor** at YMSC, Tsinghua University: 
+* 2026 Fall: Convex Optimization: Theory and Algorithms, graduate course, Qiuzhen College, Tsinghua.
 * 2026 Spring, 2025 Spring: Quantum Algorithms, graduate course, Qiuzhen College, Tsinghua.
 * 2025 Fall: Numerical Methods of PDEs, undergraduate course, Qiuzhen College, Tsinghua.
 * 2024 Fall: [Quantum Scientific Computation and Quantum Artificial Intelligence](https://ymsc.tsinghua.edu.cn/info/1047/3834.htm), open course, YMSC, Tsinghua.
@@ -75,7 +76,7 @@ subtitle = ""
 
 **Conference Organizer**: [Quantum Theory and Operator Theory Workshop 2026](https://qlab.bimsa.cn/events/qtot/2026/), ["100 Years of Matrix Mechanics" International Symposium 2025](https://qlab.bimsa.cn/events/matrix/2025/)
 
-**Session Chair**: [CMCMS 25](https://my.31huiyi.com/site/pages/index/index?pageId=dcfa0000-b665-5ae1-afd9-08dd553be668), [CSIAM 25](https://meeting.csiam.org.cn/#/2025/), [IOS 24](https://ios2024.rice.edu/), [SIAM OP 23](https://www.siam.org/conferences/cm/conference/op23), [IPAM QNLA 22](https://www.ipam.ucla.edu/programs/workshops/quantum-numerical-linear-algebra/).
+**Session Chair**: [CSIAM 26](https://meeting.csiam.org.cn/#/2026/), [CSIAM 25](https://meeting.csiam.org.cn/#/2025/), [CMCMS 25](https://my.31huiyi.com/site/pages/index/index?pageId=dcfa0000-b665-5ae1-afd9-08dd553be668), [IOS 24](https://ios2024.rice.edu/), [SIAM OP 23](https://www.siam.org/conferences/cm/conference/op23), [IPAM QNLA 22](https://www.ipam.ucla.edu/programs/workshops/quantum-numerical-linear-algebra/).
 
 **Program Committee Member**: [CM 26](http://www.mmrc.iss.ac.cn/cscm/cm2026/index.html)
 , [AQIS 25](http://aqis-conf.org/2025/), [CM 24](http://www.mmrc.iss.ac.cn/cscm/cm2024/index.html)

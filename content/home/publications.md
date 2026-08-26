@@ -72,7 +72,7 @@ subtitle = ""
 Yanqiao Wang, Yixuan Liang, Hongjia Chen, and Jin-Peng Liu
 
 - [arXiv:2607.25812](https://arxiv.org/abs/2607.25812)
-- To be presented at [QTOT 2026](https://qlab.bimsa.cn/events/qtot/2026/) 
+- To be presented at [QTOT 2026](https://qlab.bimsa.cn/events/qtot/2026/) and [CSIAM 26](https://meeting.csiam.org.cn/#/2026/)
 
 **Quantum Derivative Pricing for SPDEs via BDSDE Representation**
 

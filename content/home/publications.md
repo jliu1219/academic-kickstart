@@ -72,7 +72,8 @@ subtitle = ""
 Yanqiao Wang, Yixuan Liang, Hongjia Chen, and Jin-Peng Liu
 
 - [arXiv:2607.25812](https://arxiv.org/abs/2607.25812)
-- To be presented at [QTOT 2026](https://qlab.bimsa.cn/events/qtot/2026/) and [CSIAM 26](https://meeting.csiam.org.cn/#/2026/)
+- Presented at [QTOT 2026](https://qlab.bimsa.cn/events/qtot/2026/)
+- To be presented at [CSIAM 26](https://meeting.csiam.org.cn/#/2026/) and Quantum BC Seminar at [UBC](https://www.cs.ubc.ca/)
 
 **Quantum Derivative Pricing for SPDEs via BDSDE Representation**
 
@@ -91,6 +92,7 @@ Yanqiao Wang, Jin-Peng Liu, Peng Li, and Yang Liu
 Yixuan Liang and Jin-Peng Liu
 
 - [arXiv:2606.03407](https://arxiv.org/abs/2606.03407)
+- To be presented at [CSIAM 26](https://meeting.csiam.org.cn/#/2026/)
 
 **Sign Embedding Quantum Algorithms for Matrix Equations and Matrix Functions**
 
@@ -98,7 +100,6 @@ Yanqiao Wang and Jin-Peng Liu
 
 - [arXiv:2604.25333](https://arxiv.org/abs/2604.25333)
 - Presented at [SciCADE 2026](https://scicade.org/) and [CQCC 2026](https://ccf.org.cn/CQCC2026)
-- To be presented at Quantum BC Seminar at [UBC](https://www.cs.ubc.ca/)
 
 **Quantum Algorithms for Gibbs Expectation of Non-log-concave and Heavy-tailed Distributions**
 

@@ -67,6 +67,12 @@ subtitle = ""
  css_class = ""
 +++
 
+**Learned-projector QAOA for hierarchical optimization**
+
+Kangyun Zhou, Dong An, and Jin-Peng Liu
+
+- [arXiv:2609.28888](https://arxiv.org/abs/2609.28888)
+
 **Optimal Quantum Eigenvalue Transformation via Linear Combinations of Hermitian Matrices**
 
 Yanqiao Wang, Yixuan Liang, Hongjia Chen, and Jin-Peng Liu

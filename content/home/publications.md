@@ -67,6 +67,12 @@ subtitle = ""
  css_class = ""
 +++
 
+**Near-Optimal Quantum Algorithm and Complexity Analysis for Riccati Problems**
+
+Jingyao Wang, Yanqiao Wang, Bowen Li, Jin-Peng Liu, and Zhengfeng Ji
+
+- [arXiv:2609.37207](https://arxiv.org/abs/2609.37207)
+
 **Learned-projector QAOA for hierarchical optimization**
 
 Kangyun Zhou, Dong An, and Jin-Peng Liu

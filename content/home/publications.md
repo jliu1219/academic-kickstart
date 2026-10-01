@@ -67,6 +67,12 @@ subtitle = ""
  css_class = ""
 +++
 
+**Accelerating Quantum Dense-Output Simulation through Locality**
+
+Songqinghao Yang, Chang Liu, Junkai Wang, Jingxuan Zhang, and Jin-Peng Liu
+
+- [arXiv:2609.40094](https://arxiv.org/abs/2609.40094)
+
 **Near-Optimal Quantum Algorithm and Complexity Analysis for Riccati Problems**
 
 Jingyao Wang, Yanqiao Wang, Bowen Li, Jin-Peng Liu, and Zhengfeng Ji

@@ -67,6 +67,12 @@ subtitle = ""
  css_class = ""
 +++
 
+**Post-Selection-Free Quantum Automated Learning**
+
+Junkai Wang and Jin-Peng Liu
+
+- [arXiv:2610.08219](https://arxiv.org/abs/2610.08219)
+
 **Accelerating Quantum Dense-Output Simulation through Locality**
 
 Songqinghao Yang, Chang Liu, Junkai Wang, Jingxuan Zhang, and Jin-Peng Liu

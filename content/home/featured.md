@@ -81,4 +81,6 @@ subtitle = ""
 **Program Committee Member**: [CM 26](http://www.mmrc.iss.ac.cn/cscm/cm2026/index.html)
 , [AQIS 25](http://aqis-conf.org/2025/), [CM 24](http://www.mmrc.iss.ac.cn/cscm/cm2024/index.html)
 
+**Laboratory Committee Member**: [The Yau Laboratory Alliance for Mathematics and Artificial Intelligence](https://yaumathai.bimsa.net/en/organization).
+
 **Principal Investigator**: NSF Robust Quantum Simulation Seed Grant, National Science and Technology Major Project, Excellent Young Scientists Fund Program

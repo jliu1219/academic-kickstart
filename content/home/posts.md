@@ -67,6 +67,8 @@ subtitle = ""
 
 +++
 
+Oct 2026: We initiate the [The Yau Laboratory Alliance for Mathematics and Artificial Intelligence](https://yaumathai.bimsa.net/en/organization) as the committee member.
+
 Aug 2026: Our paper [Variational quantum simulation of many-body dissipative dynamics on a superconducting quantum processor](https://arxiv.org/abs/2510.20118) is accepted by [QSim 2026](https://qsimconference.org/).
 
 Jul 2026: I give [tutorial lectures](http://www.fields.utoronto.ca/activities/26-27/wksp-QADE) at [Thematic Program on Quantum Algorithms for Differential Equations, The Fields Institute](http://www.fields.utoronto.ca/activities/26-27/quantum-algorithms-QADE).

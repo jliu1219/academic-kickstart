@@ -66,7 +66,7 @@ subtitle = ""
 
 **PhD Advising** 
 
-- Yanqiao Wang (2024--): Qiuzhen College, Tsinghua (co-advised with [Yang Liu](https://nlp.csai.tsinghua.edu.cn/~ly/))
+- [Yanqiao Wang](https://scholar.google.com/citations?user=nSg4vGAAAAAJ&hl=zh-CN&oi=ao) (2024--): Qiuzhen College, Tsinghua (co-advised with [Yang Liu](https://nlp.csai.tsinghua.edu.cn/~ly/))
 - Xinmiao Li (2025--): Qiuzhen College, Tsinghua
 - Yixuan Liang (2025--): Qiuzhen College, Tsinghua
 - Jingyao Wang (2025--): Yao Class, Tsinghua (co-advised with [Zhengfeng Ji](https://www.cs.tsinghua.edu.cn/csen/info/1312/4388.htm))
@@ -78,9 +78,10 @@ subtitle = ""
 
 - Leyu Chen (2024--): Department of Mathematics, Beihang University
 - Chang Liu (2024--): Institute of Applied Physics and Computational Mathematics
-- Junkai Wang (2024--): Department of Physics, Naijing University
+- [Junkai Wang](https://junkaiwang-theophy.github.io/) (2024--): Department of Physics, Naijing University
 - [Songqinghao Yang](https://songqinghao-yang.github.io/) (2025--): Cavendish Laboratory, University of Cambridge  
 - Hongjia Chen (2026--): School of Mathematical Sciences, Peking University
+- Jinhao Yuan (2026--): Department of Mathematics, Beihang University
 
 **Gone But Not Forgotten** 
 
